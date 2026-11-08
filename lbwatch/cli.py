@@ -13,7 +13,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from lbwatch import config, demo, diff, fetch, store, svgcard
+from lbwatch import config, demo, diff, fetch, readme, store, svgcard
 
 # Windows 控制台默认 GBK，会编码不了 emoji 报告；统一到 UTF-8（Actions 上无害）
 for _s in (sys.stdout, sys.stderr):
@@ -160,6 +160,9 @@ def cmd_run(settings: config.Settings) -> int:
     if failures and len(failures) == len(comps):
         print("所有比赛均抓取失败。", file=sys.stderr)
         return 1
+
+    _text, n = readme.render(ROOT, ROOT / "README.md")
+    print(f"[OK] README 全景已更新（{n} 场比赛）")
     return 0
 
 
@@ -179,19 +182,20 @@ def cmd_demo(settings: config.Settings) -> int:
 
 def cmd_card(settings: config.Settings) -> int:
     comps = list(settings.competitions)
-    if not comps:
-        # 无配置时降级：扫描 data/ 下所有已有数据的比赛
-        data = ROOT / "data"
-        if data.exists():
-            comps = [
-                config.Competition(slug=d.name, name=(store.load_latest(ROOT, d.name) or {}).get("name") or d.name)
-                for d in sorted(data.iterdir())
-                if d.is_dir() and (d / "latest.json").exists()
-            ]
+    # 无网络降级：直接扫描 data/ 下所有已有数据的比赛（含 config 没写的）
+    data_dir = ROOT / "data"
+    if data_dir.exists():
+        known = {c.slug for c in comps}
+        for d in sorted(data_dir.iterdir()):
+            if d.is_dir() and (d / "latest.json").exists() and d.name not in known:
+                comps.append(config.Competition(slug=d.name, name=(store.load_latest(ROOT, d.name) or {}).get("name") or d.name))
     for comp in comps:
         latest = store.load_latest(ROOT, comp.slug)
         if not latest:
             print(f"[SKIP] {comp.slug}: 无 latest.json（先跑 run/demo）")
+            continue
+        if not latest.get("tracked"):
+            print(f"[SKIP] {comp.slug}: 你的队伍暂未上榜，无卡片")
             continue
         ids = {str(t.get("team_id")) for t in latest.get("tracked", [])}
         hist = store.load_history(ROOT, comp.slug)
@@ -201,6 +205,8 @@ def cmd_card(settings: config.Settings) -> int:
         ]
         svgcard.render_card(comp.name, latest, rows, store.comp_dir(ROOT, comp.slug) / "card.svg")
         print(f"[OK] 卡片已更新: data/{comp.slug}/card.svg")
+    _text, n = readme.render(ROOT, ROOT / "README.md")
+    print(f"[OK] README 全景已更新（{n} 场比赛）")
     return 0
 
 

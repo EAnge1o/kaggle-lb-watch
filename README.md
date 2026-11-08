@@ -1,6 +1,33 @@
 # 🏆 lbwatch — Kaggle 排行榜每日监视器
 
+<!-- lbwatch:start -->
+### 📋 盯着的比赛
+
+| 比赛 | 我的名次 | 较上次 | 分数 | 更新 |
+|---|---|---|---|---|
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #80 / 461 | — | 0.84155 | 11-08 |
+| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #144 / 1164 | — | 0.99628 | 11-08 |
+| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #298 / 4970 | ↓1 | 0.48100 | 11-08 |
+| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #422 / 5108 | — | 0.20000 | 11-08 |
+| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #720 / 4821 | — | 0.12120 | 11-08 |
+| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1378 / 2637 | — | 23.94680 | 11-08 |
+| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3454 / 5137 | — | 0.44800 | 11-08 |
+| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-08 |
+
+<details>
+<summary>🖼 全部排名卡片（8 张）</summary>
+
+![Digit Recognizer](data/digit-recognizer/card.svg)
 ![Enveda CASMI26](data/enveda-CASMI26-molecule-id-mass-spectra/card.svg)
+![Google - The Gemma 4 Developer Agent Competition](data/gemma-4-developer-agent/card.svg)
+![Google Quantum AI - Verifiable Quantum Circuit Compilation](data/google-verifiable-quantum-circuit-compilation/card.svg)
+![House Prices - Advanced Regression Techniques](data/house-prices-advanced-regression-techniques/card.svg)
+![Name That LLM](data/name-that-llm/card.svg)
+![Natural Language Processing with Disaster Tweets](data/nlp-getting-started/card.svg)
+![Spaceship Titanic](data/spaceship-titanic/card.svg)
+
+</details>
+<!-- lbwatch:end -->
 
 一个推到 GitHub 就能跑的 Kaggle Public LB（公共排行榜）监视器：每天定时抓一次全量排行快照存进仓库，自动算出**你的名次变化、谁超过了你、你反超了谁**，并产出两种可视化：
 
