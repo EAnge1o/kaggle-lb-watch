@@ -1,0 +1,98 @@
+"""通过 Kaggle 官方 SDK（kagglesdk）分页拉取 Public LB 全量数据。
+
+认证支持（kaggle>=2.2.5）：
+  - KAGGLE_API_TOKEN 环境变量（KGAT_ 开头的新式 token，推荐的 GitHub Actions 方式）
+  - KAGGLE_USERNAME + KAGGLE_KEY（Legacy API key）
+  - ~/.kaggle/access_token 文件 / ~/.kaggle/kaggle.json / kaggle auth login 缓存
+
+已知事实（2026-11 实测）：get_leaderboard 每页服务端上限 200 条，需 page_token 翻页；
+KaggleApi.competition_leaderboard_view 会丢弃 next_page_token，所以这里直接走 sdk client。
+
+统一输出 DataFrame，列: rank(int) / team_id(str) / team(str) / score(float)。
+"""
+
+from __future__ import annotations
+
+import os
+from pathlib import Path
+
+import pandas as pd
+
+PAGE_SIZE = 200   # 服务器硬上限
+MAX_PAGES = 500   # 防呆：200*500 = 10 万队足够覆盖任何比赛
+
+
+def _credentials_available() -> bool:
+    k = Path.home() / ".kaggle"
+    return bool(
+        os.environ.get("KAGGLE_API_TOKEN")
+        or (os.environ.get("KAGGLE_USERNAME") and os.environ.get("KAGGLE_KEY"))
+        or (k / "access_token").exists()
+        or (k / "kaggle.json").exists()
+    )
+
+
+def _make_api():
+    try:
+        from kaggle.api.kaggle_api_extended import KaggleApi
+    except ImportError as e:
+        raise RuntimeError("kaggle 库未安装：pip install -r requirements.txt") from e
+
+    if not _credentials_available():
+        raise RuntimeError(
+            "找不到 Kaggle 凭证。GitHub Actions 请配置 secret KAGGLE_API_TOKEN"
+            "（kaggle.com/settings/api → API → Generate New Token）；"
+            "本地可设置环境变量 KAGGLE_API_TOKEN，或把 raw token 存到 ~/.kaggle/access_token，"
+            "或使用 Legacy 的 ~/.kaggle/kaggle.json（username+key）。"
+        )
+
+    api = KaggleApi()
+    try:
+        api.authenticate()  # 2.x 认证链：token → legacy key → OAuth → 匿名(按命令允许)
+    except SystemExit as e:
+        raise RuntimeError("Kaggle 认证失败（凭证无效或过期），请重新生成 token。") from e
+    except Exception as e:
+        raise RuntimeError(f"Kaggle 认证出错：{e}") from e
+    return api
+
+
+def fetch_leaderboard(slug: str) -> pd.DataFrame:
+    from kagglesdk.competitions.types.competition_api_service import ApiGetLeaderboardRequest
+
+    api = _make_api()
+
+    rows: list = []
+    token: str | None = None
+    for _ in range(MAX_PAGES):
+        with api.build_kaggle_client() as kaggle:
+            req = ApiGetLeaderboardRequest()
+            req.competition_name = slug
+            req.page_size = PAGE_SIZE
+            req.page_token = token or ""
+            try:
+                resp = kaggle.competitions.competition_api_client.get_leaderboard(req)
+            except Exception as e:
+                raise RuntimeError(
+                    f"拉取排行榜失败（{slug}）：{e}\n常见原因：slug 拼错（kaggle.com/competitions/ 后面那串）；"
+                    "比赛已结束且公开榜关闭；token 有效期已过。"
+                ) from e
+        page = resp.submissions or []
+        rows.extend(page)
+        token = resp.next_page_token
+        if not token or not page:
+            break
+    else:
+        raise RuntimeError(f"{slug} 分页超过 {MAX_PAGES} 页仍未取完，异常终止。")
+
+    if not rows:
+        raise RuntimeError(f"排行榜为空（{slug}）：确认 slug 正确且比赛仍有公开 LB。")
+
+    out = pd.DataFrame(
+        {
+            "rank": range(1, len(rows) + 1),  # 返回顺序即官方名次，不做本地重排
+            "team_id": [str(s.team_id) for s in rows],
+            "team": [str(s.team_name) for s in rows],
+            "score": [float(s.score) if s.score not in (None, "") else float("nan") for s in rows],
+        }
+    )
+    return out

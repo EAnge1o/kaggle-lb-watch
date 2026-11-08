@@ -1,0 +1,51 @@
+name: lbwatch
+
+on:
+  schedule:
+    - cron: "15 22 * * *" # UTC 22:15 = 北京 06:15，每天一次。GitHub 的 cron 有 ±几十分钟抖动，属正常
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lbwatch
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 拉取快照（真实 / demo 兜底）
+        env:
+          KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }} # 推荐：kaggle.com/settings/api 生成的新式 token (KGAT_)
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}   # 可选 Legacy：老式 kaggle.json 里的 username+key
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          if [ -n "$KAGGLE_API_TOKEN" ] || { [ -n "$KAGGLE_USERNAME" ] && [ -n "$KAGGLE_KEY" ]; }; then
+            python -m lbwatch run
+          else
+            echo "::warning::未配置 Kaggle 凭证 secrets，本次使用 demo 合成数据（配好 secrets 后自动转真实抓取）"
+            python -m lbwatch demo
+          fi
+
+      - name: 提交数据
+        run: |
+          git config user.name "lbwatch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "今天没有变化"
+          else
+            git commit -m "lbwatch: 快照 $(date -u +%F)"
+            git push
+          fi
