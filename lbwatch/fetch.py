@@ -14,6 +14,7 @@ KaggleApi.competition_leaderboard_view 会丢弃 next_page_token，所以这里�
 from __future__ import annotations
 
 import os
+from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
@@ -95,4 +96,42 @@ def fetch_leaderboard(slug: str) -> pd.DataFrame:
             "score": [float(s.score) if s.score not in (None, "") else float("nan") for s in rows],
         }
     )
+    return out
+
+
+def list_entered_competitions() -> list[dict]:
+    """我已加入的比赛（服务端过滤 group=entered，一次请求）。
+
+    返回 [{slug, title, deadline}]；deadline 为 None 或已解析的 datetime（可能无时区，仅用于日级过滤）。
+    """
+    from kagglesdk.competitions.types.competition_api_service import (
+        ApiListCompetitionsRequest,
+        CompetitionListTab,
+    )
+
+    api = _make_api()
+    with api.build_kaggle_client() as kaggle:
+        req = ApiListCompetitionsRequest()
+        req.group = CompetitionListTab.COMPETITION_LIST_TAB_ENTERED
+        req.page_size = 100
+        try:
+            resp = kaggle.competitions.competition_api_client.list_competitions(req)
+        except Exception as e:
+            raise RuntimeError(f"读取「已加入的比赛」列表失败：{e}") from e
+
+    out: list[dict] = []
+    for it in resp.competitions or []:
+        ref = (it.ref or "").strip()  # ref 可能是完整 URL
+        slug = ref.rstrip("/").split("/")[-1] if ref else ""
+        if not slug:
+            continue
+        dl = it.deadline
+        if isinstance(dl, str):
+            for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%S"):
+                try:
+                    dl = datetime.strptime(dl, fmt)
+                    break
+                except ValueError:
+                    continue
+        out.append({"slug": slug, "title": (it.title or slug), "deadline": dl})
     return out

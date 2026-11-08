@@ -11,5 +11,7 @@ competitions:
   #   name: 另一场比赛
 
 fetch:
+  discover: active    # 自动发现「我加入的比赛」: off=只盯下面 competitions / active=只盯未截止的 / all=含已结束
+  exclude: []         # 自动发现时不想盯的比赛 slug 黑名单
   history_top: 2000   # history.csv 常驻队伍数上限（你的队伍不受此限制，永远保留）
   keep_snapshots: 0   # 0 = 永久保留逐日全量快照；>0 = 只保留最近 N 天

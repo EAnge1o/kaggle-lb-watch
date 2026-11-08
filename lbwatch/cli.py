@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import sys
+from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
@@ -91,7 +92,9 @@ def _process_stream(
     store.prune_snapshots(ROOT, slug, settings.keep_snapshots)
 
     latest = store.load_latest(ROOT, slug)
-    if latest:
+    if not (latest or {}).get("tracked"):
+        print(f"[card skip] {name}: 你的队伍暂未出现在 Public LB（还没有有效提交/出分？），上榜后出卡")
+    else:
         ids = {str(t.get("team_id")) for t in latest.get("tracked", [])}
         hist = store.load_history(ROOT, slug)
         rows = [
@@ -103,12 +106,50 @@ def _process_stream(
     print("\n".join(reports))
 
 
+def _merge_discovered(settings: config.Settings) -> list[config.Competition]:
+    """手动 competitions + 自动发现「我已加入的比赛」（去重、剔除黑名单）。"""
+    comps = list(settings.competitions)
+    if settings.discover == "off":
+        return comps
+
+    known = {c.slug for c in comps}
+    excluded = set(settings.exclude)
+    try:
+        entered = fetch.list_entered_competitions()
+    except Exception as e:  # 自动发现失败不拦整套运行，退回手动列表
+        print(f"⚠️ 自动发现失败（{e}），退回手动 competitions 列表", file=sys.stderr)
+        return comps
+
+    now = datetime.now()
+    added = 0
+    for it in entered:
+        slug = it["slug"]
+        if slug in known or slug in excluded:
+            continue
+        dl = it["deadline"]
+        if settings.discover == "active" and dl is not None:
+            if dl.tzinfo is not None:
+                dl = dl.replace(tzinfo=None)
+            if dl < now:  # 已截止
+                continue
+        comps.append(config.Competition(slug=slug, name=it["title"]))
+        added += 1
+    print(f"自动发现：已加入 {len(entered)} 场，本轮新增追盯 {added} 场（其余重复或被剔除）")
+    return comps
+
+
 def cmd_run(settings: config.Settings) -> int:
-    if not settings.competitions:
+    if not settings.competitions and settings.discover == "off":
         print("⚠️ config.yaml 尚未配置 competitions（示例见 config.example.yaml）。本次跳过抓取，保持绿灯。")
         return 0
+
+    comps = _merge_discovered(settings)
+    if not comps:
+        print("没有可追盯的比赛（discover 开着但你还没 join 任何比赛？）。本次跳过，保持绿灯。")
+        return 0
+
     failures: list[tuple[str, Exception]] = []
-    for comp in settings.competitions:
+    for comp in comps:
         try:
             lb = fetch.fetch_leaderboard(comp.slug)
             _process_stream(comp.slug, comp.name, {store.utc_today(): lb}, settings)
@@ -116,7 +157,7 @@ def cmd_run(settings: config.Settings) -> int:
         except Exception as e:  # noqa: BLE001 —— 单场失败不影响其他场次
             failures.append((comp.slug, e))
             print(f"[FAIL] {comp.name}: {e}", file=sys.stderr)
-    if failures and len(failures) == len(settings.competitions):
+    if failures and len(failures) == len(comps):
         print("所有比赛均抓取失败。", file=sys.stderr)
         return 1
     return 0

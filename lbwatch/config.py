@@ -23,6 +23,8 @@ class Competition:
 class Settings:
     teams: list[str] = field(default_factory=list)
     competitions: list[Competition] = field(default_factory=list)
+    discover: str = "active"       # 自动发现已加入的比赛: off / active(仅未截止) / all(含已结束)
+    exclude: list[str] = field(default_factory=list)  # 自动发现时跳过的 slug
     history_top: int = 2000        # 常驻 history.csv 的队伍数上限（我方队伍不受限）
     keep_snapshots: int = 0        # 0=永久保留逐日快照；>0=只保留最近 N 天
 
@@ -53,9 +55,15 @@ def load(path: str | Path | None = None) -> Settings:
             comps.append(Competition(slug=slug, name=str(c.get("name") or slug)))
 
     fetch = raw.get("fetch") or {}
+    discover = str(fetch.get("discover", "active") or "active").lower()
+    if discover not in ("off", "active", "all"):
+        raise ValueError(f"discover 只能是 off / active / all，收到：{discover}")
+
     return Settings(
         teams=teams,
         competitions=comps,
+        discover=discover,
+        exclude=[str(s) for s in (fetch.get("exclude") or []) if str(s).strip()],
         history_top=int(fetch.get("history_top", 2000)),
         keep_snapshots=int(fetch.get("keep_snapshots", 0)),
     )

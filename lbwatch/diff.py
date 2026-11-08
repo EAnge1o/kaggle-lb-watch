@@ -107,6 +107,8 @@ def compute_change(cur: pd.DataFrame, prev: pd.DataFrame | None, names: list[str
 
 def format_report(comp_name: str, date: str, d: dict) -> str:
     lines = [f"【{comp_name} · {date}】"]
+    if not d["tracked"]:
+        lines.append("你的队伍暂未上榜（还没有有效提交或尚未出分）；上榜后自动开始追踪。")
     for t in d["tracked"]:
         base = f"{t['name']}: 名次 #{t['rank']} / {d['total']}, 分数 {t['score']:.5f}"
         if t.get("first_seen"):

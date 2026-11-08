@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-08",
+  "slug": "name-that-llm",
+  "name": "Name That LLM",
+  "total": 5137,
+  "tracked": [
+    {
+      "team_id": "17209087",
+      "name": "flagg111",
+      "rank": 3454,
+      "score": 0.448,
+      "first_seen": true
+    }
+  ],
+  "top1_changed": null
+}

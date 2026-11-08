@@ -87,6 +87,8 @@ diff 分析包含：我的名次/分数变化、首次上榜提示、与我名�
 | `teams` | 必填 | 队伍名，大小写不敏感；精确匹配优先，唯一子串命中兜底；多队伍取名次最好那支进卡片/指标 |
 | `competitions[].slug` | 必填 | 比赛 slug |
 | `competitions[].name` | =slug | 展示名 |
+| `fetch.discover` | `active` | **自动发现模式**：每次运行自动拉取「我已加入的比赛」列表并入追盯范围（`off` 全手动 / `active` 只盯未截止 / `all` 含已结束）。你 join 了新比赛后**无需改任何配置**，下一轮自动开盯 |
+| `fetch.exclude` | [] | 自动发现黑名单（不想盯的 slug） |
 | `fetch.history_top` | 2000 | history.csv 每日保留的队伍上限（你的队伍永远保留） |
 | `fetch.keep_snapshots` | 0 | 逐日快照保留天数，0=永久 |
 

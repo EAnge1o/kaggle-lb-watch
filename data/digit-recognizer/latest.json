@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-08",
+  "slug": "digit-recognizer",
+  "name": "Digit Recognizer",
+  "total": 1164,
+  "tracked": [
+    {
+      "team_id": "17227672",
+      "name": "flagg111",
+      "rank": 144,
+      "score": 0.99628,
+      "first_seen": true
+    }
+  ],
+  "top1_changed": null
+}
