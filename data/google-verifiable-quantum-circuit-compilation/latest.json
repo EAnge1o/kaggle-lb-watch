@@ -9,7 +9,12 @@
       "name": "flagg111",
       "rank": 1378,
       "score": 23.9468,
-      "first_seen": true
+      "prev_rank": 1378,
+      "prev_score": 23.9468,
+      "rank_change": 0,
+      "score_delta": 0.0,
+      "passed_me": [],
+      "passed_by": []
     }
   ],
   "top1_changed": null

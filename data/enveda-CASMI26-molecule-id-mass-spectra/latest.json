@@ -9,17 +9,11 @@
       "name": "flagg111",
       "rank": 298,
       "score": 0.481,
-      "prev_rank": 297,
+      "prev_rank": 298,
       "prev_score": 0.481,
-      "rank_change": -1,
+      "rank_change": 0,
       "score_delta": 0.0,
-      "passed_me": [
-        [
-          "Antoniu Gugu",
-          702,
-          96
-        ]
-      ],
+      "passed_me": [],
       "passed_by": []
     }
   ],
