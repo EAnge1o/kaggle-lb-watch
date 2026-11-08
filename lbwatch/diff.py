@@ -67,7 +67,7 @@ def compute_change(cur: pd.DataFrame, prev: pd.DataFrame | None, names: list[str
             "rank": int(row["rank"]),
             "score": float(row["score"]),
         }
-        pr = mine_prev.loc[mine_prev["team_id"].astype(str) == tid]
+        pr = mine_prev.loc[mine_prev["team_id"].astype(str) == tid] if not mine_prev.empty else pd.DataFrame()
         if not pr.empty:
             p0 = pr.iloc[0]
             my_cur_rank, my_prev_rank = int(row["rank"]), int(p0["rank"])

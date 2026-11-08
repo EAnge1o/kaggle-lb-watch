@@ -1,5 +1,7 @@
 # 🏆 lbwatch — Kaggle 排行榜每日监视器
 
+![Enveda CASMI26](data/enveda-CASMI26-molecule-id-mass-spectra/card.svg)
+
 一个推到 GitHub 就能跑的 Kaggle Public LB（公共排行榜）监视器：每天定时抓一次全量排行快照存进仓库，自动算出**你的名次变化、谁超过了你、你反超了谁**，并产出两种可视化：
 
 | 产物 | 说明 |
