@@ -31,7 +31,7 @@ def _load_prev(slug: str, date: str) -> pd.DataFrame | None:
     snap = d / "snapshot"
     if snap.exists():
         cand = sorted((p.stem for p in snap.glob("*.csv")), reverse=True)
-        cand = [c for c in cand if c < date]
+        cand = [c for c in cand if c <= date]
         if cand:
             return pd.read_csv(
                 snap / f"{cand[0]}.csv", dtype={"rank": "Int64", "team_id": str, "team": str, "score": float}
@@ -60,9 +60,9 @@ def _process_stream(
     prev: pd.DataFrame | None = None
     for date in sorted(lb_by_date):
         lb = lb_by_date[date]
-        store.save_snapshot(ROOT, slug, date, lb)
         if prev is None:
-            prev = _load_prev(slug, date)  # 日常增量：基线来自已存的数据，而不是本次批次
+            prev = _load_prev(slug, date)  # 先取基线（可能是昨天，也可能是今天上一次运行），再覆盖写今日快照
+        store.save_snapshot(ROOT, slug, date, lb)
         chg = diff.compute_change(lb, prev, settings.teams, known_ids)
         if chg["tracked"]:
             known_ids = [t["team_id"] for t in chg["tracked"]]
