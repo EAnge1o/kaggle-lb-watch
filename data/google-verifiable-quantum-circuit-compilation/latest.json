@@ -1,19 +1,75 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2637,
+  "total": 2664,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1378,
+      "rank": 1405,
       "score": 23.9468,
       "prev_rank": 1378,
       "prev_score": 23.9468,
-      "rank_change": 0,
+      "rank_change": -27,
       "score_delta": 0.0,
-      "passed_me": [],
+      "passed_me": [
+        [
+          "DrewStuck",
+          1380,
+          228
+        ],
+        [
+          "i am turkish machine",
+          1507,
+          243
+        ],
+        [
+          "ayoub Salmi",
+          2335,
+          304
+        ],
+        [
+          "Akshay KS",
+          1813,
+          321
+        ],
+        [
+          "Gengsr",
+          1838,
+          390
+        ],
+        [
+          "Mike Anderson",
+          1998,
+          622
+        ],
+        [
+          "wen chung yu",
+          2515,
+          629
+        ],
+        [
+          "azika0408",
+          1405,
+          632
+        ],
+        [
+          "Semyon Davshits",
+          1393,
+          634
+        ],
+        [
+          "nbifrye",
+          1608,
+          934
+        ],
+        [
+          "downright_silly",
+          1546,
+          1398
+        ]
+      ],
       "passed_by": []
     }
   ],
