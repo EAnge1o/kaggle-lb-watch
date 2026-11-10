@@ -1,73 +1,188 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2664,
+  "total": 2729,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1405,
+      "rank": 1480,
       "score": 23.9468,
-      "prev_rank": 1378,
+      "prev_rank": 1405,
       "prev_score": 23.9468,
-      "rank_change": -27,
+      "rank_change": -75,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "DrewStuck",
-          1380,
-          228
+          "Ethan Lodermeier",
+          1580,
+          60
         ],
         [
-          "i am turkish machine",
-          1507,
-          243
+          "vertex",
+          1418,
+          185
         ],
         [
-          "ayoub Salmi",
-          2335,
-          304
+          "John Khan",
+          1634,
+          194
         ],
         [
-          "Akshay KS",
-          1813,
-          321
+          "Paan",
+          2510,
+          203
         ],
         [
-          "Gengsr",
-          1838,
-          390
+          "Harshit Kumar #2",
+          1439,
+          218
         ],
         [
-          "Mike Anderson",
-          1998,
-          622
+          "Heisnotanimposter",
+          2111,
+          247
         ],
         [
-          "wen chung yu",
-          2515,
-          629
+          "Pravin Takpire",
+          1891,
+          263
         ],
         [
-          "azika0408",
-          1405,
-          632
+          "Salma Shaik",
+          1578,
+          288
         ],
         [
-          "Semyon Davshits",
-          1393,
-          634
+          "Eyad Qasim",
+          1619,
+          296
         ],
         [
-          "nbifrye",
-          1608,
-          934
+          "Revanth Tambisetty",
+          1960,
+          299
         ],
         [
-          "downright_silly",
-          1546,
-          1398
+          "Md Muqtadir Fuad",
+          2143,
+          319
+        ],
+        [
+          "alireza zarei",
+          1437,
+          401
+        ],
+        [
+          "ShehaoLi0814",
+          2104,
+          407
+        ],
+        [
+          "Nuno Ferreira",
+          1411,
+          417
+        ],
+        [
+          "Audric LOKO",
+          1689,
+          430
+        ],
+        [
+          "GAURAV PARKHEDKAR",
+          2152,
+          451
+        ],
+        [
+          "YAN JINWEI",
+          1414,
+          467
+        ],
+        [
+          "PARAG VIJAY PAWAR",
+          1529,
+          483
+        ],
+        [
+          "NDiDang",
+          2493,
+          493
+        ],
+        [
+          "Prunus fruit",
+          1662,
+          497
+        ],
+        [
+          "How?",
+          1517,
+          499
+        ],
+        [
+          "Quantam Blasterz",
+          2470,
+          521
+        ],
+        [
+          "Teja Krishna Akkala",
+          1879,
+          645
+        ],
+        [
+          "RAMM Prog",
+          1922,
+          687
+        ],
+        [
+          "guanyang",
+          2397,
+          728
+        ],
+        [
+          "Anirudh Gupta",
+          2385,
+          769
+        ],
+        [
+          "Matthew Prest",
+          2647,
+          785
+        ],
+        [
+          "Snehil Kumar",
+          2294,
+          830
+        ],
+        [
+          "Jerome Queck",
+          2543,
+          958
+        ],
+        [
+          "Satyik pritam Yogi",
+          2243,
+          1217
+        ],
+        [
+          "Skyler Chiam",
+          1521,
+          1301
+        ],
+        [
+          "Whyme Labs",
+          1548,
+          1326
+        ],
+        [
+          "Naiscorp Robotics",
+          1556,
+          1444
+        ],
+        [
+          "wang",
+          1544,
+          1454
         ]
       ],
       "passed_by": []
