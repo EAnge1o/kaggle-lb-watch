@@ -9,42 +9,11 @@
       "name": "flagg111",
       "rank": 427,
       "score": 0.2,
-      "prev_rank": 422,
+      "prev_rank": 427,
       "prev_score": 0.2,
-      "rank_change": -5,
+      "rank_change": 0,
       "score_delta": 0.0,
-      "passed_me": [
-        [
-          "machengyuan",
-          2085,
-          81
-        ],
-        [
-          "Ziad",
-          5087,
-          82
-        ],
-        [
-          "Sriharsha Sammeta",
-          975,
-          84
-        ],
-        [
-          "おかゆん",
-          1462,
-          85
-        ],
-        [
-          "ncucj",
-          1257,
-          86
-        ],
-        [
-          "Nikita Shigarov",
-          1540,
-          87
-        ]
-      ],
+      "passed_me": [],
       "passed_by": []
     }
   ],

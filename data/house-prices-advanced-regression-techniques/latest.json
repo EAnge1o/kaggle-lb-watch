@@ -9,39 +9,12 @@
       "name": "flagg111",
       "rank": 732,
       "score": 0.1212,
-      "prev_rank": 720,
+      "prev_rank": 732,
       "prev_score": 0.1212,
-      "rank_change": -12,
+      "rank_change": 0,
       "score_delta": 0.0,
-      "passed_me": [
-        [
-          "Razvan Despa",
-          873,
-          336
-        ],
-        [
-          "mazelin",
-          2418,
-          492
-        ],
-        [
-          "Ngô Thị Nghi",
-          2072,
-          589
-        ]
-      ],
-      "passed_by": [
-        [
-          "Akash yadav",
-          577,
-          1119
-        ],
-        [
-          "ThiagoCamargo7",
-          718,
-          1145
-        ]
-      ]
+      "passed_me": [],
+      "passed_by": []
     }
   ],
   "top1_changed": null

@@ -13,18 +13,9 @@
       "prev_score": 0.99628,
       "rank_change": 0,
       "score_delta": 0.0,
-      "passed_me": [
-        [
-          "Ping Haoxuan",
-          469,
-          18
-        ]
-      ],
+      "passed_me": [],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "Lê Thị Hồng Nhung",
-    "to": "Thành Lê Việt"
-  }
+  "top1_changed": null
 }
