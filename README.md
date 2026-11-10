@@ -5,14 +5,14 @@
 
 | 比赛 | 我的名次 | 较上次 | 分数 | 更新 |
 |---|---|---|---|---|
-| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #80 / 461 | — | 0.84155 | 11-08 |
-| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #144 / 1164 | — | 0.99628 | 11-08 |
-| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #422 / 5108 | — | 0.20000 | 11-08 |
-| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #465 / 5047 | ↓152 | 0.48100 | 11-10 |
-| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #720 / 4821 | — | 0.12120 | 11-08 |
-| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1480 / 2729 | ↓75 | 23.94680 | 11-10 |
-| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3454 / 5137 | — | 0.44800 | 11-08 |
-| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-08 |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #80 / 482 | — | 0.84155 | 11-10 |
+| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #144 / 1210 | — | 0.99628 | 11-10 |
+| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #427 / 5275 | ↓5 | 0.20000 | 11-10 |
+| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #557 / 5064 | ↓259 | 0.48100 | 11-10 |
+| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #732 / 4887 | ↓12 | 0.12120 | 11-10 |
+| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1515 / 2753 | ↓137 | 23.94680 | 11-10 |
+| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3615 / 5342 | ↓161 | 0.44800 | 11-10 |
+| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-10 |
 
 <details>
 <summary>🖼 全部排名卡片（7 张）</summary>

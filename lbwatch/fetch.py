@@ -14,13 +14,16 @@ KaggleApi.competition_leaderboard_view 会丢弃 next_page_token，所以这里�
 from __future__ import annotations
 
 import os
+import time
 from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
 
-PAGE_SIZE = 200   # 服务器硬上限
-MAX_PAGES = 500   # 防呆：200*500 = 10 万队足够覆盖任何比赛
+PAGE_SIZE = 200     # 服务器硬上限
+MAX_PAGES = 500     # 防呆：200*500 = 10 万队足够覆盖任何比赛
+PAGE_SLEEP = 0.75   # 每页间隔（秒）：防 429 Too Many Requests
+RETRY_BACKOFF = (15, 45, 120)   # 429/5xx 时的指数退避重试
 
 
 def _credentials_available() -> bool:
@@ -64,24 +67,41 @@ def fetch_leaderboard(slug: str) -> pd.DataFrame:
 
     rows: list = []
     token: str | None = None
-    for _ in range(MAX_PAGES):
-        with api.build_kaggle_client() as kaggle:
-            req = ApiGetLeaderboardRequest()
-            req.competition_name = slug
-            req.page_size = PAGE_SIZE
-            req.page_token = token or ""
-            try:
-                resp = kaggle.competitions.competition_api_client.get_leaderboard(req)
-            except Exception as e:
-                raise RuntimeError(
-                    f"拉取排行榜失败（{slug}）：{e}\n常见原因：slug 拼错（kaggle.com/competitions/ 后面那串）；"
-                    "比赛已结束且公开榜关闭；token 有效期已过。"
-                ) from e
+    pages = 0
+    while pages < MAX_PAGES:
+        pages += 1
+        for attempt, wait in enumerate((0,) + RETRY_BACKOFF):
+            if wait:
+                print(f"⚠️ {slug} 被 Kaggle 限流/服务异常，退避 {wait}s 后重试（补试 {attempt}/{len(RETRY_BACKOFF)}）")
+                time.sleep(wait)
+            with api.build_kaggle_client() as kaggle:
+                req = ApiGetLeaderboardRequest()
+                req.competition_name = slug
+                req.page_size = PAGE_SIZE
+                req.page_token = token or ""
+                try:
+                    resp = kaggle.competitions.competition_api_client.get_leaderboard(req)
+                    break
+                except Exception as e:
+                    msg = str(e)
+                    transient = "429" in msg or "Too Many Requests" in msg or "50" in msg[:4]
+                    if transient:
+                        if attempt < len(RETRY_BACKOFF):
+                            continue
+                        raise RuntimeError(
+                            f"拉取排行榜失败（{slug}）：Kaggle API 已重试 4 次仍被限流/服务异常（{msg[:160]}）。"
+                            "明天会自动重试；如持续出现请反馈。"
+                        ) from e
+                    raise RuntimeError(
+                        f"拉取排行榜失败（{slug}）：{e}\n常见原因：slug 拼错（kaggle.com/competitions/ 后面那串）；"
+                        "比赛已结束且公开榜关闭；token 有效期已过。"
+                    ) from e
         page = resp.submissions or []
         rows.extend(page)
         token = resp.next_page_token
         if not token or not page:
             break
+        time.sleep(PAGE_SLEEP)
     else:
         raise RuntimeError(f"{slug} 分页超过 {MAX_PAGES} 页仍未取完，异常终止。")
 

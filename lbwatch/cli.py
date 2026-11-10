@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -149,7 +150,9 @@ def cmd_run(settings: config.Settings) -> int:
         return 0
 
     failures: list[tuple[str, Exception]] = []
-    for comp in comps:
+    for i, comp in enumerate(comps):
+        if i:
+            time.sleep(2.5)  # 场次间隔，降低 API 突发压力
         try:
             lb = fetch.fetch_leaderboard(comp.slug)
             _process_stream(comp.slug, comp.name, {store.utc_today(): lb}, settings)

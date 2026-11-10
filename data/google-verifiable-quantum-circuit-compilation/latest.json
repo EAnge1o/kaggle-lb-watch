@@ -2,187 +2,312 @@
   "date": "2026-11-10",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2729,
+  "total": 2753,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1480,
+      "rank": 1515,
       "score": 23.9468,
-      "prev_rank": 1405,
+      "prev_rank": 1378,
       "prev_score": 23.9468,
-      "rank_change": -75,
+      "rank_change": -137,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Ethan Lodermeier",
-          1580,
-          60
-        ],
-        [
-          "vertex",
-          1418,
-          185
-        ],
-        [
-          "John Khan",
-          1634,
-          194
+          "phasor",
+          1841,
+          37
         ],
         [
           "Paan",
-          2510,
-          203
+          2628,
+          168
         ],
         [
-          "Harshit Kumar #2",
-          1439,
-          218
-        ],
-        [
-          "Heisnotanimposter",
-          2111,
-          247
-        ],
-        [
-          "Pravin Takpire",
-          1891,
-          263
-        ],
-        [
-          "Salma Shaik",
-          1578,
-          288
-        ],
-        [
-          "Eyad Qasim",
-          1619,
-          296
-        ],
-        [
-          "Revanth Tambisetty",
-          1960,
-          299
-        ],
-        [
-          "Md Muqtadir Fuad",
-          2143,
-          319
-        ],
-        [
-          "alireza zarei",
-          1437,
-          401
-        ],
-        [
-          "ShehaoLi0814",
-          2104,
-          407
-        ],
-        [
-          "Nuno Ferreira",
-          1411,
-          417
-        ],
-        [
-          "Audric LOKO",
-          1689,
-          430
-        ],
-        [
-          "GAURAV PARKHEDKAR",
-          2152,
-          451
-        ],
-        [
-          "YAN JINWEI",
-          1414,
-          467
+          "Nohara Shinnosuke",
+          1564,
+          202
         ],
         [
           "PARAG VIJAY PAWAR",
-          1529,
-          483
+          1504,
+          216
         ],
         [
-          "NDiDang",
-          2493,
-          493
+          "Spinwave",
+          1756,
+          224
         ],
         [
-          "Prunus fruit",
-          1662,
-          497
+          "Salma Shaik",
+          1554,
+          231
         ],
         [
-          "How?",
-          1517,
-          499
+          "Jan",
+          2087,
+          293
         ],
         [
-          "Quantam Blasterz",
-          2470,
-          521
-        ],
-        [
-          "Teja Krishna Akkala",
-          1879,
-          645
-        ],
-        [
-          "RAMM Prog",
-          1922,
-          687
-        ],
-        [
-          "guanyang",
-          2397,
-          728
-        ],
-        [
-          "Anirudh Gupta",
-          2385,
-          769
-        ],
-        [
-          "Matthew Prest",
-          2647,
-          785
-        ],
-        [
-          "Snehil Kumar",
-          2294,
-          830
-        ],
-        [
-          "Jerome Queck",
-          2543,
-          958
+          "omoch1",
+          1467,
+          304
         ],
         [
           "Satyik pritam Yogi",
-          2243,
-          1217
+          2221,
+          340
+        ],
+        [
+          "yousefalaaeldin",
+          2601,
+          348
+        ],
+        [
+          "KochiyaSanaeNya",
+          1408,
+          352
+        ],
+        [
+          "VKAS",
+          1708,
+          354
+        ],
+        [
+          "Gengsr",
+          1838,
+          360
+        ],
+        [
+          "vertex",
+          1392,
+          367
+        ],
+        [
+          "John Khan",
+          1610,
+          374
+        ],
+        [
+          "Harshit Kumar #2",
+          1415,
+          387
+        ],
+        [
+          "Heisnotanimposter",
+          2090,
+          404
+        ],
+        [
+          "Wang Zicheng",
+          1949,
+          415
+        ],
+        [
+          "KiKi",
+          1528,
+          423
+        ],
+        [
+          "Pravin Takpire",
+          1868,
+          430
+        ],
+        [
+          "parkera",
+          1497,
+          436
+        ],
+        [
+          "Moegi",
+          1801,
+          437
+        ],
+        [
+          "Han steph",
+          1701,
+          446
+        ],
+        [
+          "Eyad Qasim",
+          1594,
+          475
+        ],
+        [
+          "Revanth Tambisetty",
+          1937,
+          477
+        ],
+        [
+          "Md Muqtadir Fuad",
+          2122,
+          488
+        ],
+        [
+          "DrewStuck",
+          1380,
+          555
+        ],
+        [
+          "alireza zarei",
+          1413,
+          556
+        ],
+        [
+          "ShehaoLi0814",
+          2083,
+          560
+        ],
+        [
+          "Nuno Ferreira",
+          1385,
+          569
+        ],
+        [
+          "Audric LOKO",
+          1664,
+          577
+        ],
+        [
+          "GAURAV PARKHEDKAR",
+          2131,
+          595
+        ],
+        [
+          "Kaboom Kabow",
+          2584,
+          603
+        ],
+        [
+          "YAN JINWEI",
+          1388,
+          606
+        ],
+        [
+          "NDiDang",
+          2483,
+          624
+        ],
+        [
+          "Prunus fruit",
+          1638,
+          627
+        ],
+        [
+          "How?",
+          1493,
+          629
+        ],
+        [
+          "Quantam Blasterz",
+          2444,
+          645
+        ],
+        [
+          "Teja Krishna Akkala",
+          2279,
+          666
+        ],
+        [
+          "CY agents",
+          1556,
+          668
+        ],
+        [
+          "i am turkish machine",
+          1507,
+          695
+        ],
+        [
+          "ayoub Salmi",
+          2335,
+          717
+        ],
+        [
+          "Akshay KS",
+          1813,
+          719
+        ],
+        [
+          "RAMM Prog",
+          2624,
+          777
+        ],
+        [
+          "guanyang",
+          2371,
+          812
+        ],
+        [
+          "Matthew Prest",
+          2621,
+          861
+        ],
+        [
+          "Mike Anderson",
+          1998,
+          891
+        ],
+        [
+          "wen chung yu",
+          2515,
+          897
+        ],
+        [
+          "azika0408",
+          1405,
+          899
+        ],
+        [
+          "Semyon Davshits",
+          1393,
+          900
+        ],
+        [
+          "Snehil Kumar",
+          2272,
+          903
+        ],
+        [
+          "Jerome Queck",
+          2616,
+          1024
+        ],
+        [
+          "nbifrye",
+          1608,
+          1115
         ],
         [
           "Skyler Chiam",
-          1521,
-          1301
+          1869,
+          1339
+        ],
+        [
+          "Harshit Kumar",
+          1399,
+          1348
         ],
         [
           "Whyme Labs",
-          1548,
-          1326
+          1524,
+          1364
         ],
         [
           "Naiscorp Robotics",
-          1556,
-          1444
+          1531,
+          1479
         ],
         [
           "wang",
-          1544,
-          1454
+          1520,
+          1490
+        ],
+        [
+          "downright_silly",
+          1546,
+          1508
         ]
       ],
       "passed_by": []
