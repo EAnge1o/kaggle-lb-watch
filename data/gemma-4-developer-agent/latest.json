@@ -1,19 +1,35 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "slug": "gemma-4-developer-agent",
   "name": "Google - The Gemma 4 Developer Agent Competition",
-  "total": 5275,
+  "total": 5341,
   "tracked": [
     {
       "team_id": "17148254",
       "name": "flagg111",
-      "rank": 427,
+      "rank": 430,
       "score": 0.2,
       "prev_rank": 427,
       "prev_score": 0.2,
-      "rank_change": 0,
+      "rank_change": -3,
       "score_delta": 0.0,
-      "passed_me": [],
+      "passed_me": [
+        [
+          "Radek",
+          1090,
+          13
+        ],
+        [
+          "asteria2711",
+          4138,
+          89
+        ],
+        [
+          "Fidel Escalona",
+          449,
+          90
+        ]
+      ],
       "passed_by": []
     }
   ],

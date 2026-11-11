@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "slug": "digit-recognizer",
   "name": "Digit Recognizer",
   "total": 1210,
@@ -7,15 +7,18 @@
     {
       "team_id": "17227672",
       "name": "flagg111",
-      "rank": 144,
+      "rank": 141,
       "score": 0.99628,
       "prev_rank": 144,
       "prev_score": 0.99628,
-      "rank_change": 0,
+      "rank_change": 3,
       "score_delta": 0.0,
       "passed_me": [],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "Thành Lê Việt",
+    "to": "Mohamed Boukerche"
+  }
 }

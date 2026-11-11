@@ -1,19 +1,120 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2753,
+  "total": 2798,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1515,
+      "rank": 1565,
       "score": 23.9468,
       "prev_rank": 1515,
       "prev_score": 23.9468,
-      "rank_change": 0,
+      "rank_change": -50,
       "score_delta": 0.0,
-      "passed_me": [],
+      "passed_me": [
+        [
+          "Wings of Jatayu",
+          1928,
+          126
+        ],
+        [
+          "juliencst",
+          2428,
+          201
+        ],
+        [
+          "YuchoiLAM",
+          2288,
+          222
+        ],
+        [
+          "jorge fabian avila",
+          1594,
+          259
+        ],
+        [
+          "Márcio Santos",
+          1682,
+          283
+        ],
+        [
+          "Farhana Zahra",
+          1970,
+          321
+        ],
+        [
+          "Toluwalase Olufemi",
+          1558,
+          322
+        ],
+        [
+          "BhargavaAbhi",
+          1602,
+          337
+        ],
+        [
+          "jangjunmin",
+          2737,
+          414
+        ],
+        [
+          "Zongao Bian",
+          1877,
+          427
+        ],
+        [
+          "SHUBHOJIT NASKAR",
+          1605,
+          461
+        ],
+        [
+          "QuantumMafia",
+          2577,
+          462
+        ],
+        [
+          "Ivan Litvak",
+          1739,
+          527
+        ],
+        [
+          "Koka",
+          1697,
+          530
+        ],
+        [
+          "crestrly",
+          2633,
+          532
+        ],
+        [
+          "Haohan Tsao",
+          2424,
+          536
+        ],
+        [
+          "Kevin",
+          2727,
+          710
+        ],
+        [
+          "jlacombe",
+          1998,
+          1268
+        ],
+        [
+          "Aditya #2",
+          1771,
+          1282
+        ],
+        [
+          "Sameh Ben Houria",
+          1674,
+          1287
+        ]
+      ],
       "passed_by": []
     }
   ],

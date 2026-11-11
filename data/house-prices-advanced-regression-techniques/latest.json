@@ -1,20 +1,26 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4887,
+  "total": 4888,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 732,
+      "rank": 729,
       "score": 0.1212,
       "prev_rank": 732,
       "prev_score": 0.1212,
-      "rank_change": 0,
+      "rank_change": 3,
       "score_delta": 0.0,
       "passed_me": [],
-      "passed_by": []
+      "passed_by": [
+        [
+          "ameni fathallah",
+          224,
+          869
+        ]
+      ]
     }
   ],
   "top1_changed": null
