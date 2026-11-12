@@ -1,27 +1,60 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4888,
+  "total": 4912,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 729,
+      "rank": 739,
       "score": 0.1212,
-      "prev_rank": 732,
+      "prev_rank": 729,
       "prev_score": 0.1212,
-      "rank_change": 3,
+      "rank_change": -10,
       "score_delta": 0.0,
-      "passed_me": [],
-      "passed_by": [
+      "passed_me": [
         [
-          "ameni fathallah",
-          224,
-          869
+          "soysyndrome",
+          1326,
+          210
+        ],
+        [
+          "Max Chan",
+          1363,
+          264
+        ],
+        [
+          "jingru yang3884",
+          1869,
+          373
+        ],
+        [
+          "DataSpark001",
+          2473,
+          418
+        ],
+        [
+          "Jeffri Murrugarra",
+          931,
+          420
+        ],
+        [
+          "gyeom2",
+          4486,
+          577
+        ],
+        [
+          "scalerjp91",
+          778,
+          620
         ]
-      ]
+      ],
+      "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "Asem Adnan",
+    "to": "Hxakxids"
+  }
 }

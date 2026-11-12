@@ -1,118 +1,168 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2798,
+  "total": 2879,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1565,
+      "rank": 1657,
       "score": 23.9468,
-      "prev_rank": 1515,
+      "prev_rank": 1565,
       "prev_score": 23.9468,
-      "rank_change": -50,
+      "rank_change": -92,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Wings of Jatayu",
-          1928,
-          126
+          "Asterios Panoras",
+          1784,
+          185
         ],
         [
-          "juliencst",
-          2428,
-          201
+          "quietcircuit",
+          2142,
+          269
         ],
         [
-          "YuchoiLAM",
-          2288,
-          222
+          "AP Winston",
+          2663,
+          279
         ],
         [
-          "jorge fabian avila",
-          1594,
-          259
+          "cosmorin",
+          1729,
+          285
         ],
         [
-          "Márcio Santos",
-          1682,
-          283
+          "Hugo Valer Rojas",
+          1829,
+          334
         ],
         [
-          "Farhana Zahra",
-          1970,
-          321
+          "M. Stifonk",
+          1945,
+          335
         ],
         [
-          "Toluwalase Olufemi",
-          1558,
-          322
+          "hitme dev",
+          2540,
+          358
         ],
         [
-          "BhargavaAbhi",
-          1602,
-          337
+          "charyeezy",
+          1782,
+          368
         ],
         [
-          "jangjunmin",
-          2737,
-          414
+          "Shuheng Li",
+          1947,
+          387
         ],
         [
-          "Zongao Bian",
-          1877,
-          427
+          "Rafael NDS",
+          1628,
+          408
         ],
         [
-          "SHUBHOJIT NASKAR",
-          1605,
-          461
+          "Tihado",
+          2081,
+          409
         ],
         [
-          "QuantumMafia",
-          2577,
-          462
+          "xianyu3",
+          1777,
+          420
         ],
         [
-          "Ivan Litvak",
-          1739,
+          "Kaito Fukami",
+          2785,
+          422
+        ],
+        [
+          "Juan Antonio Candelero Cervantes",
+          2370,
+          495
+        ],
+        [
+          "Adhithyan Vs",
+          2788,
+          502
+        ],
+        [
+          "糊涂的大包子",
+          2654,
           527
         ],
         [
-          "Koka",
-          1697,
-          530
-        ],
-        [
-          "crestrly",
-          2633,
-          532
-        ],
-        [
-          "Haohan Tsao",
-          2424,
+          "JINSEI",
+          1802,
           536
         ],
         [
-          "Kevin",
-          2727,
-          710
+          "username1357",
+          2062,
+          568
         ],
         [
-          "jlacombe",
-          1998,
-          1268
+          "Kobayashi Reina",
+          1757,
+          606
         ],
         [
-          "Aditya #2",
-          1771,
-          1282
+          "hagai drory",
+          2742,
+          615
         ],
         [
-          "Sameh Ben Houria",
-          1674,
-          1287
+          "lucy cheng",
+          2649,
+          658
+        ],
+        [
+          "Tom momo",
+          1818,
+          663
+        ],
+        [
+          "Abu Kayyisah Basyid",
+          2322,
+          683
+        ],
+        [
+          "J. Thomas Lockhart",
+          2409,
+          691
+        ],
+        [
+          "Mirlan",
+          2052,
+          884
+        ],
+        [
+          "lime0001",
+          1753,
+          916
+        ],
+        [
+          "idreamer",
+          2573,
+          949
+        ],
+        [
+          "XYZ",
+          1841,
+          1180
+        ],
+        [
+          "shinel",
+          2475,
+          1426
+        ],
+        [
+          "fish",
+          1725,
+          1555
         ]
       ],
       "passed_by": []
