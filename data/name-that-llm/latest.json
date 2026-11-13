@@ -1,305 +1,252 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "slug": "name-that-llm",
   "name": "Name That LLM",
-  "total": 5563,
+  "total": 5694,
   "tracked": [
     {
       "team_id": "17209087",
       "name": "flagg111",
-      "rank": 3191,
+      "rank": 3299,
       "score": 0.55,
-      "prev_rank": 3069,
+      "prev_rank": 3191,
       "prev_score": 0.55,
-      "rank_change": -122,
+      "rank_change": -108,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "吃白饭的大肥鱼",
-          3540,
-          16
+          "Paan",
+          3888,
+          143
         ],
         [
-          "Hanif Noer Rofiq",
-          3292,
-          122
+          "russian ganger🔫🔫🔫",
+          3219,
+          152
         ],
         [
-          "Vishal Verma",
-          4742,
-          144
+          "Gleb Fedorov",
+          3912,
+          374
         ],
         [
-          "梦霖扶我顶，结发受长生",
-          4602,
-          190
+          "Arush Kumar Vishwakarma",
+          3265,
+          377
         ],
         [
-          "0xsajed",
-          3320,
-          227
+          "torijiki",
+          5062,
+          405
         ],
         [
-          "niexinze",
-          4579,
-          241
+          "wdjdata",
+          3863,
+          424
         ],
         [
-          "sjsjs",
-          3539,
-          257
+          "dots-zhumi",
+          3570,
+          429
         ],
         [
-          "Keshigami",
-          5019,
-          267
+          "Rizki Syawaldi",
+          4076,
+          448
         ],
         [
-          "Ifeoluwa Adewumi",
-          3196,
-          276
+          "TommyPanLab",
+          5073,
+          463
         ],
         [
-          "Barun Kumar",
-          3854,
-          304
+          "Jihua Ye",
+          3618,
+          522
         ],
         [
-          "Sunny",
-          5401,
-          312
+          "jp@sightsource",
+          3377,
+          535
         ],
         [
-          "Roman Mironov",
-          4193,
-          315
-        ],
-        [
-          "Nur Srijan",
-          3092,
-          323
-        ],
-        [
-          "ne Artem Savchenko",
-          3685,
-          334
-        ],
-        [
-          "Pramodk",
-          3750,
-          496
-        ],
-        [
-          "Ashish Negi",
-          3592,
-          502
-        ],
-        [
-          "David Martinez",
-          4044,
-          513
-        ],
-        [
-          "Yinchan King",
-          3680,
-          531
-        ],
-        [
-          "lznlznlznlznlzn",
-          4287,
+          "Sitong Li",
+          5113,
           542
         ],
         [
-          "jiliaodeshiguang",
-          3711,
-          543
+          "I'm_G_e_e_t",
+          4746,
+          551
         ],
         [
-          "Chirapathleo Saelim",
-          3423,
-          635
+          "akmr",
+          3591,
+          761
         ],
         [
-          "Shiyang Jia",
-          3499,
-          636
+          "Nagy Csaba Daniel",
+          4561,
+          809
         ],
         [
-          "Dmitry Bakanov",
-          4570,
-          637
+          "Name_That_LLM_begin",
+          5272,
+          855
         ],
         [
-          "dsierraserna",
-          3771,
-          683
+          "Lynx Robotics Lab",
+          4440,
+          963
         ],
         [
-          "mikelou1",
-          3344,
-          894
+          "Daisuke Takahashi",
+          3380,
+          1099
         ],
         [
-          "Cheolung Kang",
-          4104,
-          899
+          "Pep4NoMeat",
+          5267,
+          1752
         ],
         [
-          "hdjkfjdbehebbc",
-          5063,
-          915
+          "priyonsh",
+          3766,
+          2287
         ],
         [
-          "HaoWangHDU",
-          4704,
-          920
+          "w1nt3rsn0w",
+          3834,
+          2624
         ],
         [
-          "Knight Fork",
-          4458,
-          924
+          "Koshelev Nikita",
+          3247,
+          2666
         ],
         [
-          "teamX",
-          4267,
-          929
+          "jane96ss",
+          3647,
+          2667
         ],
         [
-          "pedrohbenetton",
-          4039,
-          959
+          "VASU JUNIOR",
+          3448,
+          2735
         ],
         [
-          "onee mao",
-          3957,
-          1485
+          "Nyassy",
+          4545,
+          2819
         ],
         [
-          "Dhruv Tamirisa",
-          5083,
-          1667
+          "David Muñoz",
+          3946,
+          2897
         ],
         [
-          "Zuuk",
-          4637,
-          1883
+          "Joe722",
+          3526,
+          2944
         ],
         [
-          "Simone De Gasperis",
-          3267,
-          2047
+          "Roxy",
+          3593,
+          3000
         ],
         [
-          "Owengogo",
-          3786,
-          2101
+          "yskt_min",
+          3797,
+          3022
         ],
         [
-          "takahiro",
-          3807,
-          2122
+          "Noel Yang",
+          3805,
+          3062
         ],
         [
-          "mitomeat823",
-          3635,
-          2267
+          "Pierre Nowak",
+          3548,
+          3094
         ],
         [
-          "Edglamee",
-          5051,
-          2518
+          "rerun",
+          3839,
+          3096
         ],
         [
-          "Asher",
-          4053,
-          2573
+          "deed in",
+          4628,
+          3108
         ],
         [
-          "Ankit ",
-          3553,
-          2728
+          "Saad Khan",
+          3253,
+          3113
         ],
         [
-          "Mohandes Masoud Razaghi",
-          5154,
-          2729
+          "咕咕嘎嘎大冒險",
+          4028,
+          3121
         ],
         [
-          "NEXORA",
-          3112,
-          2863
+          "HandsomeWjm",
+          3402,
+          3131
         ],
         [
-          "effort-yq",
-          4194,
-          2882
+          "Linolium",
+          5085,
+          3139
         ],
         [
-          "fsosspf",
-          4302,
-          2898
+          "KenGia",
+          5270,
+          3140
         ],
         [
-          "Alexander Karpich",
-          3348,
-          2920
+          "Italo Armenti",
+          3528,
+          3142
         ],
         [
-          "EnginDeniz",
-          3167,
-          2925
+          "YuanXu",
+          3240,
+          3153
         ],
         [
-          "seven",
-          3104,
-          2959
+          "kyoumonemui",
+          5086,
+          3156
         ],
         [
-          "Omer Dogan",
-          4017,
-          2996
+          "Naween Sarwari",
+          4108,
+          3164
         ],
         [
-          "ddsleep",
-          3755,
-          3028
+          "masa",
+          3433,
+          3175
         ],
         [
-          "XinguangChen04",
-          3084,
-          3036
+          "torch",
+          3294,
+          3200
         ],
         [
-          "Pratyush Negi",
-          3317,
-          3075
+          "freiheit",
+          3417,
+          3202
         ],
         [
-          "Rodnenkiy",
-          3613,
-          3095
-        ],
-        [
-          "Pratikp02",
-          3098,
-          3136
-        ],
-        [
-          "doğukan turan",
-          3174,
-          3150
-        ],
-        [
-          "Artem Gorokhov",
-          3489,
-          3155
+          "SlightwindSec",
+          3938,
+          3241
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "James Liebel",
-    "to": "NguyenThanhNhan"
-  }
+  "top1_changed": null
 }

@@ -1,38 +1,33 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "slug": "gemma-4-developer-agent",
   "name": "Google - The Gemma 4 Developer Agent Competition",
-  "total": 5463,
+  "total": 5571,
   "tracked": [
     {
       "team_id": "17148254",
       "name": "flagg111",
-      "rank": 434,
+      "rank": 437,
       "score": 0.2,
-      "prev_rank": 430,
+      "prev_rank": 434,
       "prev_score": 0.2,
-      "rank_change": -4,
+      "rank_change": -3,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Rishav Utkarsh",
-          2372,
-          91
+          "Haoran Zhang",
+          2051,
+          96
         ],
         [
-          "Chew Kok Wah",
-          2380,
-          92
+          "Gumma 4",
+          635,
+          97
         ],
         [
-          "Tuấn Nguyễn #2",
-          5125,
-          93
-        ],
-        [
-          "Akugizibwe",
-          3058,
-          94
+          "Den Pugovkin",
+          2097,
+          98
         ]
       ],
       "passed_by": []

@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "slug": "nlp-getting-started",
   "name": "Natural Language Processing with Disaster Tweets",
-  "total": 533,
+  "total": 559,
   "tracked": [
     {
       "team_id": "17227733",
       "name": "flagg111",
-      "rank": 83,
+      "rank": 87,
       "score": 0.84155,
-      "prev_rank": 84,
+      "prev_rank": 83,
       "prev_score": 0.84155,
-      "rank_change": 1,
+      "rank_change": -4,
       "score_delta": 0.0,
-      "passed_me": [],
-      "passed_by": [
+      "passed_me": [
         [
-          "Victor Berlisconi",
-          48,
-          254
+          "Quon Allen",
+          178,
+          39
         ]
-      ]
+      ],
+      "passed_by": []
     }
   ],
   "top1_changed": null

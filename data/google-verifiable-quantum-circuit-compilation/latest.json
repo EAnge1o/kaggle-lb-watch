@@ -1,168 +1,178 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2879,
+  "total": 2944,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1657,
+      "rank": 1737,
       "score": 23.9468,
-      "prev_rank": 1565,
+      "prev_rank": 1657,
       "prev_score": 23.9468,
-      "rank_change": -92,
+      "rank_change": -80,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Asterios Panoras",
-          1784,
-          185
+          "Ohyme_KAGGLE",
+          2170,
+          123
         ],
         [
-          "quietcircuit",
-          2142,
-          269
+          "João Paulo",
+          1748,
+          152
         ],
         [
-          "AP Winston",
-          2663,
-          279
+          "seemanta",
+          1916,
+          176
         ],
         [
-          "cosmorin",
-          1729,
-          285
+          "Breaking Bad",
+          1713,
+          230
         ],
         [
-          "Hugo Valer Rojas",
-          1829,
-          334
+          "nogawanogawa",
+          2160,
+          257
         ],
         [
-          "M. Stifonk",
-          1945,
-          335
+          "Galaxy A55",
+          1710,
+          343
         ],
         [
-          "hitme dev",
-          2540,
+          "Ruiqi Liu",
+          1680,
           358
         ],
         [
-          "charyeezy",
-          1782,
-          368
+          "Overfitter",
+          2702,
+          365
         ],
         [
-          "Shuheng Li",
-          1947,
-          387
+          "am I worthy?",
+          1852,
+          372
         ],
         [
-          "Rafael NDS",
-          1628,
-          408
+          "Dizzy Duck",
+          1949,
+          390
         ],
         [
-          "Tihado",
-          2081,
-          409
+          "Ahsan Bashir1234",
+          2872,
+          394
         ],
         [
-          "xianyu3",
-          1777,
-          420
+          "Trinh Quoc Anh",
+          2190,
+          397
         ],
         [
-          "Kaito Fukami",
-          2785,
-          422
+          "Gaddam ShivaTeja",
+          2083,
+          412
         ],
         [
-          "Juan Antonio Candelero Cervantes",
-          2370,
-          495
+          "Calera Labs",
+          2129,
+          447
         ],
         [
-          "Adhithyan Vs",
-          2788,
-          502
+          "Valifor",
+          2111,
+          455
         ],
         [
-          "糊涂的大包子",
-          2654,
-          527
+          "Chen Siyuan",
+          2265,
+          463
         ],
         [
-          "JINSEI",
-          1802,
-          536
+          "hertz♜⃤",
+          1903,
+          469
         ],
         [
-          "username1357",
-          2062,
-          568
+          "Mahad Kakooza",
+          2741,
+          471
         ],
         [
-          "Kobayashi Reina",
-          1757,
-          606
+          "Pai",
+          1715,
+          475
         ],
         [
-          "hagai drory",
-          2742,
-          615
+          "Aamod06",
+          1869,
+          477
         ],
         [
-          "lucy cheng",
-          2649,
-          658
+          "Shankha Suvro Mullick",
+          2258,
+          483
         ],
         [
-          "Tom momo",
-          1818,
-          663
+          "Sahan Gunasekara",
+          2496,
+          485
         ],
         [
-          "Abu Kayyisah Basyid",
-          2322,
-          683
+          "P.AI.R",
+          2226,
+          528
         ],
         [
-          "J. Thomas Lockhart",
-          2409,
-          691
+          "Zhirui Hu",
+          1892,
+          588
         ],
         [
-          "Mirlan",
-          2052,
-          884
+          "ZS",
+          1705,
+          640
         ],
         [
-          "lime0001",
-          1753,
-          916
+          "yreb",
+          2290,
+          720
         ],
         [
-          "idreamer",
-          2573,
-          949
+          "Otter",
+          2491,
+          752
         ],
         [
-          "XYZ",
-          1841,
-          1180
+          "Anoop Singh",
+          2187,
+          925
         ],
         [
-          "shinel",
-          2475,
-          1426
+          "cmayano",
+          2583,
+          1266
         ],
         [
-          "fish",
-          1725,
-          1555
+          "Adeena.sv",
+          1817,
+          1631
+        ],
+        [
+          "SANARCEATE",
+          1815,
+          1697
+        ],
+        [
+          "Landen Jackson",
+          1695,
+          1729
         ]
       ],
       "passed_by": []
