@@ -1,248 +1,228 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "slug": "name-that-llm",
   "name": "Name That LLM",
-  "total": 5694,
+  "total": 5801,
   "tracked": [
     {
       "team_id": "17209087",
       "name": "flagg111",
-      "rank": 3299,
+      "rank": 3380,
       "score": 0.55,
-      "prev_rank": 3191,
+      "prev_rank": 3299,
       "prev_score": 0.55,
-      "rank_change": -108,
+      "rank_change": -81,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Paan",
-          3888,
-          143
+          "Aashir Noman",
+          3782,
+          123
         ],
         [
-          "russian ganger🔫🔫🔫",
-          3219,
-          152
+          "sushant",
+          4698,
+          243
         ],
         [
-          "Gleb Fedorov",
-          3912,
-          374
+          "underparjj",
+          5471,
+          299
         ],
         [
-          "Arush Kumar Vishwakarma",
-          3265,
-          377
+          "Truthseeking",
+          3631,
+          644
         ],
         [
-          "torijiki",
-          5062,
-          405
+          "YITONG SONG",
+          3315,
+          647
         ],
         [
-          "wdjdata",
-          3863,
-          424
+          "baijiamingxa",
+          4202,
+          673
         ],
         [
-          "dots-zhumi",
-          3570,
-          429
-        ],
-        [
-          "Rizki Syawaldi",
-          4076,
-          448
-        ],
-        [
-          "TommyPanLab",
-          5073,
-          463
-        ],
-        [
-          "Jihua Ye",
-          3618,
-          522
-        ],
-        [
-          "jp@sightsource",
-          3377,
-          535
-        ],
-        [
-          "Sitong Li",
-          5113,
-          542
-        ],
-        [
-          "I'm_G_e_e_t",
-          4746,
-          551
-        ],
-        [
-          "akmr",
-          3591,
-          761
-        ],
-        [
-          "Nagy Csaba Daniel",
-          4561,
-          809
-        ],
-        [
-          "Name_That_LLM_begin",
-          5272,
-          855
-        ],
-        [
-          "Lynx Robotics Lab",
-          4440,
-          963
-        ],
-        [
-          "Daisuke Takahashi",
-          3380,
-          1099
-        ],
-        [
-          "Pep4NoMeat",
-          5267,
-          1752
-        ],
-        [
-          "priyonsh",
-          3766,
-          2287
-        ],
-        [
-          "w1nt3rsn0w",
-          3834,
-          2624
-        ],
-        [
-          "Koshelev Nikita",
-          3247,
-          2666
-        ],
-        [
-          "jane96ss",
-          3647,
-          2667
-        ],
-        [
-          "VASU JUNIOR",
+          "Avviral Jain",
           3448,
-          2735
+          674
         ],
         [
-          "Nyassy",
-          4545,
-          2819
+          "Kuroha_Huang",
+          4110,
+          676
         ],
         [
-          "David Muñoz",
-          3946,
-          2897
+          "tjh050913",
+          4938,
+          678
         ],
         [
-          "Joe722",
-          3526,
-          2944
+          "SAIF MODAN",
+          5539,
+          692
         ],
         [
-          "Roxy",
-          3593,
-          3000
-        ],
-        [
-          "yskt_min",
-          3797,
-          3022
-        ],
-        [
-          "Noel Yang",
-          3805,
-          3062
-        ],
-        [
-          "Pierre Nowak",
-          3548,
-          3094
-        ],
-        [
-          "rerun",
-          3839,
-          3096
-        ],
-        [
-          "deed in",
+          "liuyuxi90",
           4628,
-          3108
+          694
         ],
         [
-          "Saad Khan",
-          3253,
-          3113
+          "OneClickSimplify",
+          3878,
+          708
         ],
         [
-          "咕咕嘎嘎大冒險",
+          "TAKESHI7676",
+          3966,
+          712
+        ],
+        [
+          "觉得打开",
+          4132,
+          717
+        ],
+        [
+          "Satyaa 27",
+          4251,
+          720
+        ],
+        [
+          "HawkOsm",
+          4507,
+          733
+        ],
+        [
+          "fylgde",
+          4965,
+          734
+        ],
+        [
+          "Aishik Rakshit",
+          3536,
+          786
+        ],
+        [
+          "Ashutosh Saxena012",
+          4015,
+          801
+        ],
+        [
+          "totori0908",
+          5483,
+          894
+        ],
+        [
+          "magoemu",
+          3396,
+          1158
+        ],
+        [
+          "Đức Hoàng Anh",
+          5490,
+          1162
+        ],
+        [
+          "Taylor S. Amarel",
+          4326,
+          1163
+        ],
+        [
+          "Nguyen Cong Minh",
+          3899,
+          1198
+        ],
+        [
+          "leap111",
           4028,
-          3121
+          1854
         ],
         [
-          "HandsomeWjm",
-          3402,
-          3131
+          "takaki719",
+          3524,
+          2268
         ],
         [
-          "Linolium",
-          5085,
-          3139
+          "RIAD MOHAMED",
+          4701,
+          2470
         ],
         [
-          "KenGia",
-          5270,
-          3140
+          "lizhihf",
+          3985,
+          2515
         ],
         [
-          "Italo Armenti",
-          3528,
+          "flowingstarkitty",
+          4810,
+          2548
+        ],
+        [
+          "Ayla Zhong",
+          4412,
+          2661
+        ],
+        [
+          "Taras Semenchenko",
+          3400,
+          2723
+        ],
+        [
+          "kozo iii",
+          3913,
+          2872
+        ],
+        [
+          "Tiến Nam Nguyễn",
+          4385,
+          3086
+        ],
+        [
+          "Kalyan",
+          3630,
+          3103
+        ],
+        [
+          "kkiller",
+          3439,
+          3123
+        ],
+        [
+          "NIklitaCheporev",
+          3538,
           3142
         ],
         [
-          "YuanXu",
-          3240,
-          3153
+          "Mindaugas Jankauskas",
+          3502,
+          3163
         ],
         [
-          "kyoumonemui",
-          5086,
-          3156
-        ],
-        [
-          "Naween Sarwari",
-          4108,
-          3164
-        ],
-        [
-          "masa",
-          3433,
-          3175
-        ],
-        [
-          "torch",
-          3294,
+          "chenweixi",
+          3348,
           3200
         ],
         [
-          "freiheit",
-          3417,
-          3202
+          "zod",
+          3307,
+          3205
         ],
         [
-          "SlightwindSec",
-          3938,
-          3241
+          "Nobuyuki Kumagai",
+          5279,
+          3213
+        ],
+        [
+          "油谷陽樹",
+          3391,
+          3260
+        ],
+        [
+          "Tyama",
+          5051,
+          3290
         ]
       ],
       "passed_by": []

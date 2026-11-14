@@ -1,178 +1,138 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 2944,
+  "total": 3008,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1737,
+      "rank": 1802,
       "score": 23.9468,
-      "prev_rank": 1657,
+      "prev_rank": 1737,
       "prev_score": 23.9468,
-      "rank_change": -80,
+      "rank_change": -65,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Ohyme_KAGGLE",
-          2170,
-          123
+          "racket",
+          2180,
+          50
         ],
         [
-          "João Paulo",
-          1748,
-          152
+          "KRHO",
+          1961,
+          72
         ],
         [
-          "seemanta",
-          1916,
-          176
+          "Asayel Alghamdi",
+          1773,
+          181
         ],
         [
-          "Breaking Bad",
-          1713,
-          230
+          "Yamazaki Tomoya",
+          2095,
+          224
         ],
         [
-          "nogawanogawa",
-          2160,
-          257
+          "Pilkwang Kim",
+          2474,
+          226
         ],
         [
-          "Galaxy A55",
-          1710,
-          343
+          "Chenyao Xu",
+          2178,
+          240
         ],
         [
-          "Ruiqi Liu",
-          1680,
-          358
+          "K.THARUN KUMAR",
+          1941,
+          260
         ],
         [
-          "Overfitter",
-          2702,
-          365
+          "Chris Dukes",
+          2249,
+          264
         ],
         [
-          "am I worthy?",
-          1852,
-          372
+          "seegullrider",
+          2476,
+          391
         ],
         [
-          "Dizzy Duck",
-          1949,
-          390
+          "Egor Trushin",
+          1886,
+          393
         ],
         [
-          "Ahsan Bashir1234",
-          2872,
-          394
+          "NQMinh1602",
+          2571,
+          424
         ],
         [
-          "Trinh Quoc Anh",
-          2190,
-          397
-        ],
-        [
-          "Gaddam ShivaTeja",
-          2083,
-          412
-        ],
-        [
-          "Calera Labs",
-          2129,
-          447
-        ],
-        [
-          "Valifor",
-          2111,
-          455
-        ],
-        [
-          "Chen Siyuan",
-          2265,
-          463
-        ],
-        [
-          "hertz♜⃤",
-          1903,
-          469
-        ],
-        [
-          "Mahad Kakooza",
-          2741,
-          471
-        ],
-        [
-          "Pai",
-          1715,
-          475
-        ],
-        [
-          "Aamod06",
-          1869,
-          477
-        ],
-        [
-          "Shankha Suvro Mullick",
-          2258,
-          483
-        ],
-        [
-          "Sahan Gunasekara",
-          2496,
-          485
-        ],
-        [
-          "P.AI.R",
+          "renta.k",
           2226,
-          528
+          426
         ],
         [
-          "Zhirui Hu",
-          1892,
-          588
+          "Sumen",
+          2140,
+          435
         ],
         [
-          "ZS",
-          1705,
-          640
+          "Hongmin Li",
+          1793,
+          454
         ],
         [
-          "yreb",
-          2290,
-          720
+          "Nam Lã",
+          2097,
+          601
         ],
         [
-          "Otter",
-          2491,
+          "ticktak",
+          2107,
+          607
+        ],
+        [
+          "Sergio",
+          2646,
+          672
+        ],
+        [
+          "hyshiri",
+          2238,
+          709
+        ],
+        [
+          "done youssef mou",
+          2319,
+          711
+        ],
+        [
+          "wsk20061123",
+          2937,
+          751
+        ],
+        [
+          "Jack Hsu",
+          2274,
           752
         ],
         [
-          "Anoop Singh",
-          2187,
-          925
+          "ecilsi",
+          1930,
+          974
         ],
         [
-          "cmayano",
-          2583,
-          1266
+          "Rafi Khairan",
+          1985,
+          1079
         ],
         [
-          "Adeena.sv",
-          1817,
-          1631
-        ],
-        [
-          "SANARCEATE",
-          1815,
-          1697
-        ],
-        [
-          "Landen Jackson",
-          1695,
-          1729
+          "Ayush Kumar #2",
+          2654,
+          1200
         ]
       ],
       "passed_by": []

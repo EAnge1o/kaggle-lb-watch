@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-14",
+  "slug": "playground-series-s6e11",
+  "name": "Predicting Credit Card Fraud",
+  "total": 1726,
+  "tracked": [
+    {
+      "team_id": "17356970",
+      "name": "flagg111",
+      "rank": 633,
+      "score": 0.95114,
+      "first_seen": true
+    }
+  ],
+  "top1_changed": null
+}

@@ -1,33 +1,43 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "slug": "gemma-4-developer-agent",
   "name": "Google - The Gemma 4 Developer Agent Competition",
-  "total": 5571,
+  "total": 5665,
   "tracked": [
     {
       "team_id": "17148254",
       "name": "flagg111",
-      "rank": 437,
+      "rank": 442,
       "score": 0.2,
-      "prev_rank": 434,
+      "prev_rank": 437,
       "prev_score": 0.2,
-      "rank_change": -3,
+      "rank_change": -5,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Haoran Zhang",
-          2051,
-          96
+          "Sophia0817",
+          5281,
+          14
         ],
         [
-          "Gumma 4",
-          635,
-          97
+          "yemaoye",
+          2863,
+          100
         ],
         [
-          "Den Pugovkin",
-          2097,
-          98
+          "No Name",
+          2664,
+          101
+        ],
+        [
+          "Yusuraume",
+          472,
+          102
+        ],
+        [
+          "Disgon",
+          3358,
+          103
         ]
       ],
       "passed_by": []

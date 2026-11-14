@@ -5,17 +5,18 @@
 
 | 比赛 | 我的名次 | 较上次 | 分数 | 更新 |
 |---|---|---|---|---|
-| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #87 / 559 | ↓4 | 0.84155 | 11-13 |
-| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #144 / 1225 | ↓4 | 0.99628 | 11-13 |
-| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #437 / 5571 | ↓3 | 0.20000 | 11-13 |
-| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #710 / 5207 | ↓129 | 0.48700 | 11-13 |
-| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #754 / 4933 | ↓15 | 0.12120 | 11-13 |
-| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1737 / 2944 | ↓80 | 23.94680 | 11-13 |
-| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3299 / 5694 | ↓108 | 0.55000 | 11-13 |
-| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-13 |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #91 / 563 | ↓4 | 0.84155 | 11-14 |
+| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #150 / 1238 | ↓6 | 0.99628 | 11-14 |
+| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #442 / 5665 | ↓5 | 0.20000 | 11-14 |
+| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | #633 / 1726 | — | 0.95114 | 11-14 |
+| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #761 / 4909 | ↓7 | 0.12120 | 11-14 |
+| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #803 / 5249 | ↓93 | 0.48700 | 11-14 |
+| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1802 / 3008 | ↓65 | 23.94680 | 11-14 |
+| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3380 / 5801 | ↓81 | 0.55000 | 11-14 |
+| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-14 |
 
 <details>
-<summary>🖼 全部排名卡片（7 张）</summary>
+<summary>🖼 全部排名卡片（8 张）</summary>
 
 ![Digit Recognizer](data/digit-recognizer/card.svg)
 ![Enveda CASMI26](data/enveda-CASMI26-molecule-id-mass-spectra/card.svg)
@@ -24,6 +25,7 @@
 ![House Prices - Advanced Regression Techniques](data/house-prices-advanced-regression-techniques/card.svg)
 ![Name That LLM](data/name-that-llm/card.svg)
 ![Natural Language Processing with Disaster Tweets](data/nlp-getting-started/card.svg)
+![Predicting Credit Card Fraud](data/playground-series-s6e11/card.svg)
 
 </details>
 <!-- lbwatch:end -->
