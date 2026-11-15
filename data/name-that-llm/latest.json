@@ -1,228 +1,183 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "slug": "name-that-llm",
   "name": "Name That LLM",
-  "total": 5801,
+  "total": 5897,
   "tracked": [
     {
       "team_id": "17209087",
       "name": "flagg111",
-      "rank": 3380,
+      "rank": 3444,
       "score": 0.55,
-      "prev_rank": 3299,
+      "prev_rank": 3380,
       "prev_score": 0.55,
-      "rank_change": -81,
+      "rank_change": -64,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Aashir Noman",
-          3782,
-          123
+          "NDiDang",
+          4269,
+          169
         ],
         [
-          "sushant",
-          4698,
-          243
+          "mahmoued nemer",
+          5526,
+          378
         ],
         [
-          "underparjj",
-          5471,
-          299
+          "Nezihe Sözen",
+          4224,
+          404
         ],
         [
-          "Truthseeking",
-          3631,
-          644
+          "Mohammed Hasan Abdullah",
+          5068,
+          422
         ],
         [
-          "YITONG SONG",
-          3315,
-          647
-        ],
-        [
-          "baijiamingxa",
-          4202,
-          673
-        ],
-        [
-          "Avviral Jain",
-          3448,
-          674
-        ],
-        [
-          "Kuroha_Huang",
-          4110,
-          676
-        ],
-        [
-          "tjh050913",
-          4938,
-          678
-        ],
-        [
-          "SAIF MODAN",
-          5539,
-          692
-        ],
-        [
-          "liuyuxi90",
-          4628,
-          694
-        ],
-        [
-          "OneClickSimplify",
-          3878,
-          708
-        ],
-        [
-          "TAKESHI7676",
-          3966,
-          712
-        ],
-        [
-          "觉得打开",
-          4132,
-          717
-        ],
-        [
-          "Satyaa 27",
-          4251,
-          720
-        ],
-        [
-          "HawkOsm",
-          4507,
-          733
-        ],
-        [
-          "fylgde",
-          4965,
-          734
-        ],
-        [
-          "Aishik Rakshit",
-          3536,
-          786
-        ],
-        [
-          "Ashutosh Saxena012",
-          4015,
-          801
-        ],
-        [
-          "totori0908",
-          5483,
-          894
-        ],
-        [
-          "magoemu",
-          3396,
-          1158
-        ],
-        [
-          "Đức Hoàng Anh",
-          5490,
-          1162
-        ],
-        [
-          "Taylor S. Amarel",
-          4326,
-          1163
-        ],
-        [
-          "Nguyen Cong Minh",
-          3899,
-          1198
-        ],
-        [
-          "leap111",
-          4028,
-          1854
-        ],
-        [
-          "takaki719",
-          3524,
-          2268
-        ],
-        [
-          "RIAD MOHAMED",
-          4701,
-          2470
-        ],
-        [
-          "lizhihf",
-          3985,
-          2515
-        ],
-        [
-          "flowingstarkitty",
-          4810,
-          2548
-        ],
-        [
-          "Ayla Zhong",
-          4412,
-          2661
-        ],
-        [
-          "Taras Semenchenko",
-          3400,
-          2723
-        ],
-        [
-          "kozo iii",
-          3913,
-          2872
-        ],
-        [
-          "Tiến Nam Nguyễn",
-          4385,
-          3086
-        ],
-        [
-          "Kalyan",
-          3630,
-          3103
-        ],
-        [
-          "kkiller",
-          3439,
-          3123
-        ],
-        [
-          "NIklitaCheporev",
-          3538,
-          3142
-        ],
-        [
-          "Mindaugas Jankauskas",
-          3502,
-          3163
-        ],
-        [
-          "chenweixi",
-          3348,
-          3200
-        ],
-        [
-          "zod",
-          3307,
-          3205
-        ],
-        [
-          "Nobuyuki Kumagai",
+          "OstenHUN",
           5279,
-          3213
+          458
         ],
         [
-          "油谷陽樹",
-          3391,
-          3260
+          "snakesneaks",
+          4658,
+          460
         ],
         [
-          "Tyama",
-          5051,
-          3290
+          "yichen zhang563",
+          4113,
+          542
+        ],
+        [
+          "SACA SETYA .",
+          3999,
+          876
+        ],
+        [
+          "AkimioJR",
+          3519,
+          895
+        ],
+        [
+          "Udit Jain #2",
+          4982,
+          1024
+        ],
+        [
+          "moncef elm",
+          3880,
+          1026
+        ],
+        [
+          "Mirza Ishrannnnn",
+          4945,
+          1099
+        ],
+        [
+          "PraveenChakravarthy",
+          5391,
+          1285
+        ],
+        [
+          "takutins",
+          3471,
+          1314
+        ],
+        [
+          "Anfirework",
+          3503,
+          2186
+        ],
+        [
+          "Vineet K Reddy",
+          5286,
+          2521
+        ],
+        [
+          "Zehra yilmaz",
+          4449,
+          2615
+        ],
+        [
+          "lkevincc",
+          3818,
+          2617
+        ],
+        [
+          "wsc-MISX",
+          4015,
+          2725
+        ],
+        [
+          "Priyankeshwar singh braria",
+          4937,
+          2932
+        ],
+        [
+          "Francisco Cardia",
+          3851,
+          2947
+        ],
+        [
+          "sawashi yuki",
+          3564,
+          3043
+        ],
+        [
+          "Kurise",
+          4380,
+          3130
+        ],
+        [
+          "ZAOUI_Yassine",
+          3431,
+          3137
+        ],
+        [
+          "Field",
+          3646,
+          3184
+        ],
+        [
+          "Pavel Novikov",
+          3950,
+          3201
+        ],
+        [
+          "Mikołaj Kurtyka",
+          3633,
+          3236
+        ],
+        [
+          "giraffeneck",
+          3552,
+          3286
+        ],
+        [
+          "kuma_bear",
+          4236,
+          3291
+        ],
+        [
+          "avvmoto",
+          3573,
+          3322
+        ],
+        [
+          "Abid Mohammad Jawad",
+          3588,
+          3332
+        ],
+        [
+          "Vijay Konda",
+          3606,
+          3335
+        ],
+        [
+          "Alp Kavaklı",
+          3816,
+          3438
         ]
       ],
       "passed_by": []

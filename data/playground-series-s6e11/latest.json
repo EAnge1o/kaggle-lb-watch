@@ -1,15 +1,91 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 1726,
+  "total": 1830,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 633,
+      "rank": 668,
       "score": 0.95114,
-      "first_seen": true
+      "prev_rank": 633,
+      "prev_score": 0.95114,
+      "rank_change": -35,
+      "score_delta": 0.0,
+      "passed_me": [
+        [
+          "Lonnie",
+          896,
+          84
+        ],
+        [
+          "Mobeen Fatima",
+          1140,
+          89
+        ],
+        [
+          "Estanislawo",
+          857,
+          94
+        ],
+        [
+          "I'm_G_e_e_t",
+          1068,
+          159
+        ],
+        [
+          "xb zouzx",
+          716,
+          343
+        ],
+        [
+          "weimean",
+          759,
+          389
+        ],
+        [
+          "Rajat Sethi",
+          811,
+          457
+        ],
+        [
+          "SaifAllah",
+          802,
+          462
+        ],
+        [
+          "Mario Koddenbrock",
+          925,
+          463
+        ],
+        [
+          "Sonal",
+          848,
+          483
+        ],
+        [
+          "Jingsongthev",
+          728,
+          511
+        ],
+        [
+          "Phan Khánh Đăng",
+          777,
+          567
+        ],
+        [
+          "Tae hyun Yun",
+          1369,
+          583
+        ],
+        [
+          " Sylvie23",
+          752,
+          618
+        ]
+      ],
+      "passed_by": []
     }
   ],
   "top1_changed": null

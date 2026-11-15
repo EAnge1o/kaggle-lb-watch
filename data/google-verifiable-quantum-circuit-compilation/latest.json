@@ -1,138 +1,153 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3008,
+  "total": 3071,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1802,
+      "rank": 1872,
       "score": 23.9468,
-      "prev_rank": 1737,
+      "prev_rank": 1802,
       "prev_score": 23.9468,
-      "rank_change": -65,
+      "rank_change": -70,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "racket",
-          2180,
-          50
-        ],
-        [
-          "KRHO",
-          1961,
-          72
-        ],
-        [
-          "Asayel Alghamdi",
-          1773,
-          181
-        ],
-        [
-          "Yamazaki Tomoya",
-          2095,
-          224
-        ],
-        [
-          "Pilkwang Kim",
-          2474,
-          226
-        ],
-        [
-          "Chenyao Xu",
-          2178,
-          240
-        ],
-        [
-          "K.THARUN KUMAR",
-          1941,
-          260
-        ],
-        [
-          "Chris Dukes",
-          2249,
-          264
-        ],
-        [
-          "seegullrider",
-          2476,
-          391
-        ],
-        [
-          "Egor Trushin",
-          1886,
-          393
-        ],
-        [
-          "NQMinh1602",
-          2571,
-          424
-        ],
-        [
-          "renta.k",
-          2226,
-          426
-        ],
-        [
-          "Sumen",
-          2140,
-          435
-        ],
-        [
-          "Hongmin Li",
-          1793,
-          454
-        ],
-        [
-          "Nam Lã",
-          2097,
-          601
-        ],
-        [
-          "ticktak",
-          2107,
-          607
-        ],
-        [
-          "Sergio",
-          2646,
-          672
-        ],
-        [
-          "hyshiri",
-          2238,
-          709
-        ],
-        [
-          "done youssef mou",
-          2319,
-          711
-        ],
-        [
-          "wsk20061123",
-          2937,
-          751
-        ],
-        [
-          "Jack Hsu",
+          "EyeAce",
           2274,
-          752
+          108
         ],
         [
-          "ecilsi",
-          1930,
-          974
+          "VUMANIAcom",
+          2429,
+          141
         ],
         [
-          "Rafi Khairan",
-          1985,
-          1079
+          "Anies Gambit",
+          2994,
+          176
         ],
         [
-          "Ayush Kumar #2",
-          2654,
-          1200
+          "proled",
+          1963,
+          187
+        ],
+        [
+          "Tim Zagrebelny",
+          2031,
+          300
+        ],
+        [
+          "Khurram Younus",
+          2006,
+          302
+        ],
+        [
+          "DevinNicholson",
+          2091,
+          329
+        ],
+        [
+          "Apocalypse_2021",
+          2624,
+          400
+        ],
+        [
+          "AHMED ABDALATEF",
+          2303,
+          418
+        ],
+        [
+          "From Winning Time Branch",
+          1953,
+          443
+        ],
+        [
+          "MinhHieu139",
+          1945,
+          482
+        ],
+        [
+          "zhennan hong",
+          2144,
+          487
+        ],
+        [
+          "Yuki2014",
+          1836,
+          494
+        ],
+        [
+          "Popla69",
+          2551,
+          498
+        ],
+        [
+          "Rahul Malik",
+          2607,
+          532
+        ],
+        [
+          "Mudit Chaturvedi",
+          1934,
+          537
+        ],
+        [
+          "ShoaibSSM",
+          2242,
+          579
+        ],
+        [
+          "Aromal vK",
+          2313,
+          603
+        ],
+        [
+          "James Mills",
+          2792,
+          608
+        ],
+        [
+          "SherifN",
+          2639,
+          647
+        ],
+        [
+          "ankounabe114",
+          2861,
+          657
+        ],
+        [
+          "Evan zhu",
+          2201,
+          728
+        ],
+        [
+          "chen yixiang",
+          2005,
+          825
+        ],
+        [
+          "Arn2011",
+          2992,
+          899
+        ],
+        [
+          "Savan Javia",
+          2862,
+          901
+        ],
+        [
+          "Francisco Angulo de Lafuente",
+          2075,
+          908
+        ],
+        [
+          "Xiaolei Lian",
+          2288,
+          1435
         ]
       ],
       "passed_by": []

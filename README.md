@@ -5,15 +5,15 @@
 
 | 比赛 | 我的名次 | 较上次 | 分数 | 更新 |
 |---|---|---|---|---|
-| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #91 / 563 | ↓4 | 0.84155 | 11-14 |
-| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #150 / 1238 | ↓6 | 0.99628 | 11-14 |
-| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #442 / 5665 | ↓5 | 0.20000 | 11-14 |
-| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | #633 / 1726 | — | 0.95114 | 11-14 |
-| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #761 / 4909 | ↓7 | 0.12120 | 11-14 |
-| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #803 / 5249 | ↓93 | 0.48700 | 11-14 |
-| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1802 / 3008 | ↓65 | 23.94680 | 11-14 |
-| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3380 / 5801 | ↓81 | 0.55000 | 11-14 |
-| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-14 |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #89 / 565 | ↑2 | 0.84155 | 11-15 |
+| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #150 / 1237 | — | 0.99628 | 11-15 |
+| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #344 / 5288 | ↑459 | 0.48800 | 11-15 |
+| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #448 / 5749 | ↓6 | 0.20000 | 11-15 |
+| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | #668 / 1830 | ↓35 | 0.95114 | 11-15 |
+| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #771 / 4921 | ↓10 | 0.12120 | 11-15 |
+| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #1872 / 3071 | ↓70 | 23.94680 | 11-15 |
+| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #3444 / 5897 | ↓64 | 0.55000 | 11-15 |
+| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-15 |
 
 <details>
 <summary>🖼 全部排名卡片（8 张）</summary>
