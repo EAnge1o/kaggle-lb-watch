@@ -1,48 +1,28 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slug": "gemma-4-developer-agent",
   "name": "Google - The Gemma 4 Developer Agent Competition",
-  "total": 5749,
+  "total": 5830,
   "tracked": [
     {
       "team_id": "17148254",
       "name": "flagg111",
-      "rank": 448,
+      "rank": 451,
       "score": 0.2,
-      "prev_rank": 442,
+      "prev_rank": 448,
       "prev_score": 0.2,
-      "rank_change": -6,
+      "rank_change": -3,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "cool team name",
-          877,
-          90
+          "Sébastien henry",
+          2468,
+          113
         ],
         [
-          "yutoAb",
-          727,
-          105
-        ],
-        [
-          "rejasupotaro",
-          571,
-          106
-        ],
-        [
-          "ryota24",
-          1100,
-          107
-        ],
-        [
-          "Nguyên Nguyễn Việt",
-          1442,
-          108
-        ],
-        [
-          "AntoineC",
-          2529,
-          109
+          "Mobassir",
+          1965,
+          115
         ]
       ],
       "passed_by": []

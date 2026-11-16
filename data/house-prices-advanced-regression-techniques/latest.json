@@ -1,52 +1,76 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4921,
+  "total": 4867,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 771,
+      "rank": 786,
       "score": 0.1212,
-      "prev_rank": 761,
+      "prev_rank": 771,
       "prev_score": 0.1212,
-      "rank_change": -10,
+      "rank_change": -15,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Marimbero88",
-          1037,
-          559
+          "lhw1231",
+          4527,
+          210
         ],
         [
-          "OSU-26-28402",
-          3729,
-          585
+          "JSU-2024AI-G13",
+          1475,
+          236
         ],
         [
-          "JSU-2024AI-G08",
-          1325,
-          586
+          "Pink and Black",
+          858,
+          248
         ],
         [
-          "junhaoh7",
-          1113,
-          620
+          "Jem Ma",
+          876,
+          307
         ],
         [
-          "MASAFUMI NISHIUMI",
-          1259,
-          725
+          "OSU-26-35195",
+          2965,
+          337
+        ],
+        [
+          "Kelsey Abel",
+          805,
+          370
+        ],
+        [
+          "JSU-2024AI-G10",
+          886,
+          407
+        ],
+        [
+          "OSU-26-39846",
+          4693,
+          621
+        ],
+        [
+          "Aditya Patil #7",
+          866,
+          677
+        ],
+        [
+          "narinie",
+          4528,
+          695
+        ],
+        [
+          "Yu Ting, Wu",
+          1737,
+          724
         ]
       ],
-      "passed_by": [
-        [
-          "biggermomo",
-          569,
-          2200
-        ]
-      ]
+      "passed_by": []
     }
   ],
   "top1_changed": null

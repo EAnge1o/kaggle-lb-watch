@@ -1,187 +1,255 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slug": "name-that-llm",
   "name": "Name That LLM",
-  "total": 5897,
+  "total": 6014,
   "tracked": [
     {
       "team_id": "17209087",
       "name": "flagg111",
-      "rank": 3444,
+      "rank": 3534,
       "score": 0.55,
-      "prev_rank": 3380,
+      "prev_rank": 3444,
       "prev_score": 0.55,
-      "rank_change": -64,
+      "rank_change": -90,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "NDiDang",
-          4269,
-          169
+          "Koka Tran",
+          4508,
+          130
         ],
         [
-          "mahmoued nemer",
-          5526,
-          378
+          "Momoka Hoshika",
+          5448,
+          294
         ],
         [
-          "Nezihe Sözen",
-          4224,
-          404
+          "Aarav Sahni",
+          4562,
+          303
         ],
         [
-          "Mohammed Hasan Abdullah",
-          5068,
-          422
+          "RishabhShah1923",
+          3910,
+          364
         ],
         [
-          "OstenHUN",
-          5279,
+          "Thiago Fillipe Soares",
+          4186,
+          383
+        ],
+        [
+          "KAISER_FLZY",
+          5129,
+          388
+        ],
+        [
+          "Jajs",
+          3987,
           458
         ],
         [
-          "snakesneaks",
-          4658,
-          460
+          "MinamiSeiichiro",
+          3673,
+          505
         ],
         [
-          "yichen zhang563",
-          4113,
-          542
+          "Where r we going",
+          3595,
+          556
         ],
         [
-          "SACA SETYA .",
-          3999,
-          876
+          "Gabriel Preda",
+          4827,
+          670
         ],
         [
-          "AkimioJR",
-          3519,
-          895
+          "髙須晴仁",
+          3486,
+          672
         ],
         [
-          "Udit Jain #2",
-          4982,
-          1024
+          "Sahil Mohsin",
+          4654,
+          720
         ],
         [
-          "moncef elm",
-          3880,
-          1026
+          "syouhei yamaguchi",
+          3877,
+          1044
         ],
         [
-          "Mirza Ishrannnnn",
-          4945,
-          1099
+          "Shaun2024",
+          4224,
+          1045
         ],
         [
-          "PraveenChakravarthy",
-          5391,
-          1285
+          "hertz♜⃤",
+          4053,
+          1046
         ],
         [
-          "takutins",
-          3471,
-          1314
+          "Raul Fuster",
+          3710,
+          1171
         ],
         [
-          "Anfirework",
-          3503,
-          2186
+          "Andy_Wang05",
+          4450,
+          1187
         ],
         [
-          "Vineet K Reddy",
-          5286,
-          2521
+          "Saugi Alkaf",
+          4883,
+          1409
         ],
         [
-          "Zehra yilmaz",
-          4449,
-          2615
+          "TonightIsOver",
+          4298,
+          1422
         ],
         [
-          "lkevincc",
-          3818,
-          2617
+          "yearnyonder",
+          5011,
+          2423
         ],
         [
-          "wsc-MISX",
-          4015,
-          2725
+          "Thunder Titans",
+          4451,
+          2526
         ],
         [
-          "Priyankeshwar singh braria",
-          4937,
-          2932
+          "Anpeng Yuan",
+          3556,
+          2660
         ],
         [
-          "Francisco Cardia",
-          3851,
-          2947
+          "Liminal",
+          3864,
+          2673
         ],
         [
-          "sawashi yuki",
+          "Youssef Alamgad",
+          4006,
+          2678
+        ],
+        [
+          "BobtheBot369",
+          4384,
+          2733
+        ],
+        [
+          "xkr66666e",
+          3745,
+          2734
+        ],
+        [
+          "最强的战绩，铭刻于kaggle",
+          3667,
+          2822
+        ],
+        [
+          "Michael Klassen",
           3564,
-          3043
+          3051
         ],
         [
-          "Kurise",
-          4380,
-          3130
+          "Andrey Tikhomirov",
+          3787,
+          3084
         ],
         [
-          "ZAOUI_Yassine",
-          3431,
+          "minami777",
+          4922,
+          3112
+        ],
+        [
+          "MystDust",
+          5656,
           3137
         ],
         [
-          "Field",
-          3646,
-          3184
+          "sunIceoe",
+          4719,
+          3185
         ],
         [
-          "Pavel Novikov",
-          3950,
-          3201
+          "LoganBottle",
+          3538,
+          3223
         ],
         [
-          "Mikołaj Kurtyka",
-          3633,
-          3236
+          "zharlabs",
+          3871,
+          3234
         ],
         [
-          "giraffeneck",
-          3552,
-          3286
+          "Kriztian Rubin",
+          4107,
+          3245
         ],
         [
-          "kuma_bear",
-          4236,
-          3291
+          "XIANG LI 618",
+          3594,
+          3265
         ],
         [
-          "avvmoto",
-          3573,
-          3322
+          "pk210495",
+          3512,
+          3271
         ],
         [
-          "Abid Mohammad Jawad",
-          3588,
-          3332
+          "radidani",
+          4709,
+          3272
         ],
         [
-          "Vijay Konda",
-          3606,
-          3335
+          "WayneCheng",
+          3938,
+          3276
         ],
         [
-          "Alp Kavaklı",
-          3816,
-          3438
+          "Slow∞Loop",
+          3655,
+          3365
+        ],
+        [
+          "vogts wu",
+          3881,
+          3382
+        ],
+        [
+          "91奶龙集团跪拜原神爹",
+          3769,
+          3428
+        ],
+        [
+          "Keith Campbell",
+          4377,
+          3459
+        ],
+        [
+          "Christos Prapas",
+          3489,
+          3473
+        ],
+        [
+          "Haseeb Khan",
+          4267,
+          3478
+        ],
+        [
+          "WD琥珀Kohaku",
+          3454,
+          3479
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "NguyenThanhNhan",
+    "to": "Meni David Gottesman"
+  }
 }

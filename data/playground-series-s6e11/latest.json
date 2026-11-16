@@ -1,88 +1,153 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 1830,
+  "total": 1921,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 668,
+      "rank": 714,
       "score": 0.95114,
-      "prev_rank": 633,
+      "prev_rank": 668,
       "prev_score": 0.95114,
-      "rank_change": -35,
+      "rank_change": -46,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Lonnie",
-          896,
-          84
+          "Master Teo",
+          976,
+          34
         ],
         [
-          "Mobeen Fatima",
-          1140,
-          89
+          "Trương Minh Quân",
+          1046,
+          37
         ],
         [
-          "Estanislawo",
-          857,
-          94
+          "Titan",
+          875,
+          49
         ],
         [
-          "I'm_G_e_e_t",
-          1068,
-          159
+          "maxlgendary",
+          730,
+          66
         ],
         [
-          "xb zouzx",
-          716,
+          "Hamid Bendrif",
+          1183,
+          71
+        ],
+        [
+          "ETHAN KOH",
+          994,
+          136
+        ],
+        [
+          "Oguz Enver Uzan",
+          1002,
+          232
+        ],
+        [
+          "KNAI_Michał Korlatowicz",
+          765,
+          305
+        ],
+        [
+          "Muhammad Rayan Tahir",
+          782,
           343
         ],
         [
-          "weimean",
-          759,
-          389
+          "Zöhrab Ahundov",
+          1273,
+          360
         ],
         [
-          "Rajat Sethi",
-          811,
-          457
+          "laxshmate | koyo",
+          961,
+          361
         ],
         [
-          "SaifAllah",
-          802,
-          462
+          "DavutKursun",
+          1076,
+          396
         ],
         [
-          "Mario Koddenbrock",
-          925,
-          463
+          "Cristian Figueroa",
+          807,
+          437
         ],
         [
-          "Sonal",
-          848,
-          483
+          "ziyang jack",
+          1393,
+          543
         ],
         [
-          "Jingsongthev",
-          728,
-          511
+          "Tatsuya Aramaki",
+          725,
+          552
         ],
         [
-          "Phan Khánh Đăng",
-          777,
-          567
+          "Altan Sener",
+          787,
+          560
         ],
         [
-          "Tae hyun Yun",
-          1369,
-          583
+          "kobby_",
+          713,
+          586
         ],
         [
-          " Sylvie23",
-          752,
-          618
+          "Aziz",
+          865,
+          588
+        ],
+        [
+          "Bryce Chambers",
+          1056,
+          611
+        ],
+        [
+          "JonXia",
+          959,
+          615
+        ],
+        [
+          "mi",
+          821,
+          626
+        ],
+        [
+          "Tsuyoshi Uchida",
+          682,
+          631
+        ],
+        [
+          "이하준(문과대학 사학)",
+          992,
+          658
+        ],
+        [
+          "Susil Nayak",
+          784,
+          668
+        ],
+        [
+          "barts2",
+          1368,
+          676
+        ],
+        [
+          "ShinnSti",
+          767,
+          702
+        ],
+        [
+          "Hanna10",
+          676,
+          711
         ]
       ],
       "passed_by": []

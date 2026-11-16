@@ -1,153 +1,153 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3071,
+  "total": 3139,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1872,
+      "rank": 1945,
       "score": 23.9468,
-      "prev_rank": 1802,
+      "prev_rank": 1872,
       "prev_score": 23.9468,
-      "rank_change": -70,
+      "rank_change": -73,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "EyeAce",
-          2274,
-          108
+          "Vemmos",
+          2483,
+          102
         ],
         [
-          "VUMANIAcom",
-          2429,
-          141
+          "La Ode Aman",
+          1955,
+          149
         ],
         [
-          "Anies Gambit",
-          2994,
-          176
+          "Rayane Aggoune",
+          2742,
+          248
         ],
         [
-          "proled",
-          1963,
-          187
+          "jerry",
+          2260,
+          250
         ],
         [
-          "Tim Zagrebelny",
-          2031,
+          "jjnoura",
+          2431,
+          266
+        ],
+        [
+          "Dhruv Bansal",
+          2388,
+          299
+        ],
+        [
+          "TuringIRL(akshit)",
+          1896,
           300
         ],
         [
-          "Khurram Younus",
-          2006,
-          302
+          "Russ",
+          2507,
+          391
         ],
         [
-          "DevinNicholson",
-          2091,
-          329
+          "kvswim",
+          3038,
+          437
         ],
         [
-          "Apocalypse_2021",
-          2624,
-          400
+          "ADITYA RAVI",
+          1921,
+          439
         ],
         [
-          "AHMED ABDALATEF",
-          2303,
-          418
+          "Akshan Sameullah",
+          2740,
+          456
         ],
         [
-          "From Winning Time Branch",
-          1953,
-          443
+          "Damian",
+          2377,
+          465
         ],
         [
-          "MinhHieu139",
-          1945,
-          482
+          "Amedeo Biolatti",
+          2224,
+          504
         ],
         [
-          "zhennan hong",
-          2144,
-          487
+          "Apicron Pi",
+          2131,
+          507
         ],
         [
-          "Yuki2014",
-          1836,
-          494
+          "LAST DICES PTY LTD",
+          2771,
+          557
         ],
         [
-          "Popla69",
-          2551,
-          498
+          "karttikjangid05",
+          2753,
+          592
         ],
         [
-          "Rahul Malik",
-          2607,
-          532
+          "Ernie",
+          2588,
+          594
         ],
         [
-          "Mudit Chaturvedi",
-          1934,
-          537
+          "Avik Das",
+          2959,
+          666
         ],
         [
-          "ShoaibSSM",
-          2242,
-          579
+          "Naman Jain",
+          2825,
+          682
         ],
         [
-          "Aromal vK",
-          2313,
-          603
+          "Moonlight",
+          2867,
+          694
         ],
         [
-          "James Mills",
-          2792,
-          608
+          "Evan Pieser",
+          2273,
+          726
         ],
         [
-          "SherifN",
-          2639,
-          647
+          "du gudewangzhe",
+          1928,
+          767
         ],
         [
-          "ankounabe114",
-          2861,
-          657
+          "Pranathi U K",
+          3058,
+          1039
         ],
         [
-          "Evan zhu",
-          2201,
-          728
+          "chris keel",
+          2793,
+          1055
         ],
         [
-          "chen yixiang",
-          2005,
-          825
+          "ritoru1235",
+          1964,
+          1078
         ],
         [
-          "Arn2011",
-          2992,
-          899
+          "Grantley",
+          3068,
+          1402
         ],
         [
-          "Savan Javia",
-          2862,
-          901
-        ],
-        [
-          "Francisco Angulo de Lafuente",
-          2075,
-          908
-        ],
-        [
-          "Xiaolei Lian",
-          2288,
-          1435
+          "Outlier",
+          2374,
+          1536
         ]
       ],
       "passed_by": []
