@@ -1,157 +1,170 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3139,
+  "total": 3235,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 1945,
+      "rank": 2051,
       "score": 23.9468,
-      "prev_rank": 1872,
+      "prev_rank": 1945,
       "prev_score": 23.9468,
-      "rank_change": -73,
+      "rank_change": -106,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Vemmos",
-          2483,
-          102
+          "Anass Habrah",
+          2148,
+          199
         ],
         [
-          "La Ode Aman",
-          1955,
-          149
+          "nowhere",
+          2369,
+          200
         ],
         [
-          "Rayane Aggoune",
-          2742,
-          248
+          "Igor Holt",
+          3127,
+          258
         ],
         [
-          "jerry",
-          2260,
-          250
+          "Yusaku Muroya",
+          2628,
+          302
         ],
         [
-          "jjnoura",
-          2431,
-          266
+          "Jordi Corbilla",
+          2729,
+          413
         ],
         [
-          "Dhruv Bansal",
-          2388,
-          299
+          "Angran Zhang",
+          2654,
+          476
         ],
         [
-          "TuringIRL(akshit)",
-          1896,
-          300
+          "Arnav Mishra",
+          2531,
+          489
         ],
         [
-          "Russ",
-          2507,
-          391
+          "100rabh",
+          2257,
+          491
         ],
         [
-          "kvswim",
-          3038,
-          437
+          "techtech69",
+          2015,
+          502
         ],
         [
-          "ADITYA RAVI",
-          1921,
-          439
+          "Nokimul Hasan Arif",
+          2300,
+          513
         ],
         [
-          "Akshan Sameullah",
-          2740,
-          456
+          "Abdelrahman Marz",
+          2095,
+          522
         ],
         [
-          "Damian",
-          2377,
-          465
+          "Bửu Phạm Quốc",
+          2610,
+          532
         ],
         [
-          "Amedeo Biolatti",
-          2224,
-          504
+          "haodou092",
+          2515,
+          564
         ],
         [
-          "Apicron Pi",
-          2131,
-          507
+          "Abdul Wahab Khan",
+          2233,
+          568
         ],
         [
-          "LAST DICES PTY LTD",
-          2771,
-          557
+          "Arun Khatua",
+          2019,
+          582
         ],
         [
-          "karttikjangid05",
-          2753,
-          592
+          "Jeki Wan Taufik",
+          2327,
+          618
         ],
         [
-          "Ernie",
-          2588,
-          594
+          "Abdullah Ijaz",
+          2258,
+          619
         ],
         [
-          "Avik Das",
-          2959,
-          666
+          "mahesh mane 77",
+          2855,
+          621
         ],
         [
-          "Naman Jain",
-          2825,
-          682
+          "Charismatic Pizza Party🍕",
+          1946,
+          624
         ],
         [
-          "Moonlight",
-          2867,
+          "Chelsea Lyon",
+          3108,
           694
         ],
         [
-          "Evan Pieser",
-          2273,
-          726
+          "DenseX Quantum",
+          2724,
+          773
         ],
         [
-          "du gudewangzhe",
-          1928,
-          767
+          "MMN0222",
+          2460,
+          832
         ],
         [
-          "Pranathi U K",
-          3058,
-          1039
+          "pengxiaoxi123",
+          3133,
+          879
         ],
         [
-          "chris keel",
-          2793,
-          1055
+          "Marat Iusupov",
+          2786,
+          1156
         ],
         [
-          "ritoru1235",
-          1964,
-          1078
+          "Salty Taro",
+          2128,
+          1186
         ],
         [
-          "Grantley",
-          3068,
-          1402
+          "Nguyễn Hà Phan",
+          2895,
+          1226
         ],
         [
-          "Outlier",
-          2374,
-          1536
+          "Li serry",
+          2425,
+          1251
+        ],
+        [
+          "Michael O'Flaherty",
+          2062,
+          1253
+        ],
+        [
+          "Michael Timbs",
+          2483,
+          1259
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "Entangled Team",
+    "to": "aadi_stonks"
+  }
 }

@@ -1,76 +1,82 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4867,
+  "total": 4905,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 786,
+      "rank": 800,
       "score": 0.1212,
-      "prev_rank": 771,
+      "prev_rank": 786,
       "prev_score": 0.1212,
-      "rank_change": -15,
+      "rank_change": -14,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "lhw1231",
-          4527,
-          210
+          "JDYGOGUMA",
+          4512,
+          72
         ],
         [
-          "JSU-2024AI-G13",
-          1475,
-          236
+          "성혜민이",
+          2274,
+          214
         ],
         [
-          "Pink and Black",
-          858,
-          248
+          "yuew04",
+          2389,
+          256
         ],
         [
-          "Jem Ma",
-          876,
-          307
+          "OSU-26-88849",
+          1082,
+          333
         ],
         [
-          "OSU-26-35195",
-          2965,
-          337
+          "JSU-2024AI-G18",
+          2152,
+          376
         ],
         [
-          "Kelsey Abel",
-          805,
-          370
+          "OSU_26_69496",
+          4443,
+          423
         ],
         [
-          "JSU-2024AI-G10",
-          886,
-          407
+          "OSU-26-13744",
+          3838,
+          427
         ],
         [
-          "OSU-26-39846",
-          4693,
-          621
+          "José Cruz54",
+          1449,
+          437
         ],
         [
-          "Aditya Patil #7",
-          866,
-          677
+          "pdv9 .",
+          3061,
+          450
         ],
         [
-          "narinie",
-          4528,
-          695
+          "leehyenmin",
+          4514,
+          650
         ],
         [
-          "Yu Ting, Wu",
-          1737,
-          724
+          "Subhan #2",
+          2496,
+          782
         ]
       ],
-      "passed_by": []
+      "passed_by": [
+        [
+          "jts-rfujikami",
+          775,
+          2934
+        ]
+      ]
     }
   ],
   "top1_changed": null

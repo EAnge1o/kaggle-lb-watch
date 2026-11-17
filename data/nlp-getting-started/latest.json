@@ -1,20 +1,26 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "slug": "nlp-getting-started",
   "name": "Natural Language Processing with Disaster Tweets",
-  "total": 573,
+  "total": 579,
   "tracked": [
     {
       "team_id": "17227733",
       "name": "flagg111",
       "rank": 90,
       "score": 0.84155,
-      "prev_rank": 89,
+      "prev_rank": 90,
       "prev_score": 0.84155,
-      "rank_change": -1,
+      "rank_change": 0,
       "score_delta": 0.0,
       "passed_me": [],
-      "passed_by": []
+      "passed_by": [
+        [
+          "Rashid Khazeiynasab",
+          61,
+          100
+        ]
+      ]
     }
   ],
   "top1_changed": null
