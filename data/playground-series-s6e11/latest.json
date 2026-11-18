@@ -1,168 +1,98 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 2042,
+  "total": 2143,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 765,
+      "rank": 802,
       "score": 0.95114,
-      "prev_rank": 714,
+      "prev_rank": 765,
       "prev_score": 0.95114,
-      "rank_change": -51,
+      "rank_change": -37,
       "score_delta": 0.0,
       "passed_me": [
         [
-          " IEEM-AI-2026-115034567",
-          771,
-          42
+          "ZHANGHANGQI0848",
+          1229,
+          33
         ],
         [
-          "hậu phan nguyễn anh",
-          1152,
-          56
-        ],
-        [
-          "mohamedber5754",
-          930,
-          61
-        ],
-        [
-          "thaneesh sai",
-          1055,
-          74
-        ],
-        [
-          "Jean-Louis Roy",
-          1783,
-          76
-        ],
-        [
-          "Columbo",
-          1790,
-          83
-        ],
-        [
-          "Kizabgd123",
-          1195,
-          87
-        ],
-        [
-          "Jeki Wan Taufik",
-          1231,
-          104
-        ],
-        [
-          "Apih Pih",
-          831,
-          125
-        ],
-        [
-          "Ade Rizky Darmawan",
-          800,
-          320
-        ],
-        [
-          "Louis",
-          734,
-          374
-        ],
-        [
-          "HemanthG0704",
-          1276,
-          400
-        ],
-        [
-          "Data Analyst",
+          "miyauchihitoshi",
           820,
-          410
+          55
         ],
         [
-          "HibikiZero",
+          "QUANCHAO SUN",
+          934,
+          330
+        ],
+        [
+          "Miguel Vallejo",
+          818,
+          501
+        ],
+        [
+          "knai_jan_dzban",
+          865,
+          546
+        ],
+        [
+          "Daniel Famz",
+          828,
+          551
+        ],
+        [
+          "Blair Q",
+          786,
+          553
+        ],
+        [
+          "Zeming Yang",
+          788,
+          574
+        ],
+        [
+          "kkwu553",
+          1023,
+          601
+        ],
+        [
+          "aiko-og",
           827,
-          512
+          629
         ],
         [
-          "Maxxxxxx.1.23",
-          879,
-          515
-        ],
-        [
-          "logx",
-          1546,
-          526
-        ],
-        [
-          "adm1nx",
-          1084,
-          531
-        ],
-        [
-          "Ali Hassan",
-          1360,
-          565
-        ],
-        [
-          "サポタン",
-          916,
-          577
-        ],
-        [
-          "MN Kaggler",
-          716,
-          599
-        ],
-        [
-          "leanpan",
-          852,
-          608
-        ],
-        [
-          "Mukharbek Organokov",
-          1561,
-          614
-        ],
-        [
-          "Shivam Gravity",
-          1119,
-          648
-        ],
-        [
-          "藤田凱斗",
-          900,
-          649
-        ],
-        [
-          "Pavan Sai.D",
-          1370,
-          670
-        ],
-        [
-          "Damien Mancy",
-          1029,
+          "Timur",
+          943,
           671
         ],
         [
-          "Tolstoy Justin",
-          1420,
-          673
+          "yuramoros",
+          1175,
+          716
         ],
         [
-          "Shin Matsumoto",
-          786,
-          674
+          "Habeeb Cva",
+          1009,
+          726
         ],
         [
-          "Andres Sanchez",
-          862,
-          698
+          "Thanasis Noocklas",
+          1022,
+          730
         ],
         [
-          "Name",
-          835,
-          763
+          "IEEM-AI-2026-115034564",
+          1059,
+          749
+        ],
+        [
+          "きよすず",
+          775,
+          762
         ]
       ],
       "passed_by": []
