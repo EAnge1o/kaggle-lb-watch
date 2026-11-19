@@ -1,127 +1,70 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3295,
+  "total": 3360,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2114,
+      "rank": 2164,
       "score": 23.9468,
-      "prev_rank": 2051,
+      "prev_rank": 2114,
       "prev_score": 23.9468,
-      "rank_change": -63,
+      "rank_change": -50,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "jarfo",
-          2497,
-          50
+          "Bahadir Kusat",
+          2994,
+          116
         ],
         [
-          "mgiy",
-          2270,
-          285
+          "Nguyễn Thành Biên",
+          2294,
+          178
         ],
         [
-          "Klaus Weigele",
-          3227,
-          289
+          "kriptmwan",
+          2841,
+          267
         ],
         [
-          "David Seungman Kang",
-          2940,
-          348
+          "Santiago D. J. V. G.",
+          2712,
+          571
         ],
         [
-          "Hanyu Wang",
-          2591,
-          425
+          "lugal",
+          2296,
+          607
         ],
         [
-          "G karthik koundinya",
-          2293,
-          490
+          "Jamey (Remmy) Thomas",
+          2309,
+          1224
         ],
         [
-          "yike luoroy",
-          2059,
-          502
+          "chabinhwang",
+          2372,
+          1430
         ],
         [
-          "Dmitry Abulkhanov",
-          2183,
-          517
+          "Emiel Koridon",
+          2628,
+          1440
         ],
         [
-          "Saifuddin",
-          2861,
-          520
-        ],
-        [
-          "Bastet LLM",
-          2942,
-          537
-        ],
-        [
-          "Vineet K Reddy",
-          2914,
-          616
-        ],
-        [
-          "Riru",
-          2101,
-          620
-        ],
-        [
-          "MKhlystun",
-          2635,
-          748
-        ],
-        [
-          "FabianWolzGer",
-          2100,
-          827
-        ],
-        [
-          "Nimish Shinde",
-          2962,
-          884
-        ],
-        [
-          "Aniruddha Pawar05",
-          2078,
-          913
-        ],
-        [
-          "YUYUTA",
-          2124,
-          1371
-        ],
-        [
-          "clammpon",
-          2169,
-          1751
-        ],
-        [
-          "Arnie Jimenez",
-          2285,
-          1774
-        ],
-        [
-          "Adil Shamim",
-          3178,
-          1916
-        ],
-        [
-          "Astraeus",
-          2521,
-          2025
+          "Dread Development",
+          2455,
+          2088
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "aadi_stonks",
+    "to": "Z³C¹oherence"
+  }
 }

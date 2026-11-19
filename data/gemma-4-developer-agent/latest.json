@@ -1,47 +1,55 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "slug": "gemma-4-developer-agent",
   "name": "Google - The Gemma 4 Developer Agent Competition",
-  "total": 6013,
+  "total": 6103,
   "tracked": [
     {
       "team_id": "17148254",
       "name": "flagg111",
-      "rank": 462,
+      "rank": 468,
       "score": 0.2,
-      "prev_rank": 457,
+      "prev_rank": 462,
       "prev_score": 0.2,
-      "rank_change": -5,
+      "rank_change": -6,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Nnneptune888",
-          3449,
-          122
+          "eddieb00",
+          1532,
+          127
         ],
         [
-          "SeMe4K0",
-          2314,
-          123
+          "AA-AF",
+          2791,
+          128
         ],
         [
-          "Uttam Limbani",
-          2763,
-          124
+          "DHAKKANS",
+          1317,
+          129
         ],
         [
-          "maplewolf",
-          1575,
-          125
+          "Hiroyuki Yamamoto",
+          2477,
+          130
         ],
         [
-          "Rodrigo Stachlewski Palma",
-          945,
-          126
+          "Rahul Rathnavel K",
+          3082,
+          131
+        ],
+        [
+          "cc uuuuy",
+          580,
+          133
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "Yurnero",
+    "to": "Yike Xu"
+  }
 }

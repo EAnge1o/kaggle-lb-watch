@@ -1,61 +1,67 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4919,
+  "total": 4932,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 806,
+      "rank": 825,
       "score": 0.1212,
-      "prev_rank": 800,
+      "prev_rank": 806,
       "prev_score": 0.1212,
-      "rank_change": -6,
+      "rank_change": -19,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Yiyang",
-          1808,
-          44
+          "Rocío Alberca",
+          4644,
+          243
         ],
         [
-          "OSU-26-21954",
-          4710,
-          316
+          "zzz2300",
+          3101,
+          254
         ],
         [
-          "OSU-26-03399",
-          4471,
-          317
+          "EstuardoCT",
+          4636,
+          296
         ],
         [
-          "shangyiwen123123",
-          907,
-          352
+          "Mila Villa",
+          4642,
+          323
         ],
         [
-          "OSU-26-74952",
-          4711,
-          427
+          "Qilong Su",
+          4504,
+          368
         ],
         [
-          "OSU-26-52017",
-          4709,
-          455
+          "OSU-26-98142",
+          4730,
+          374
         ],
         [
-          "Master Teo",
-          1251,
-          492
+          "OSU-15830",
+          3908,
+          419
         ],
         [
-          "Alp Efe Karalar",
-          1922,
-          558
+          "Eftelyaa",
+          1417,
+          539
         ]
       ],
-      "passed_by": []
+      "passed_by": [
+        [
+          "Lucas #35",
+          57,
+          1036
+        ]
+      ]
     }
   ],
   "top1_changed": null
