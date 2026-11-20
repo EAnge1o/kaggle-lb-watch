@@ -3,18 +3,18 @@
   <text x="28" y="38" font-family="Segoe UI,sans-serif" font-size="14" fill="#58a6ff">Enveda CASMI26
     <tspan fill="#8b949e" font-size="12"> · lbwatch</tspan>
   </text>
-  <text x="692" y="38" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="12" fill="#8b949e">更新 2026-11-19</text>
+  <text x="692" y="38" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="12" fill="#8b949e">更新 2026-11-20</text>
 
-  <text x="28" y="100" font-family="Segoe UI,sans-serif" font-size="46" font-weight="700" fill="#e6edf3">#320</text>
-  <text x="128" y="100" font-family="Segoe UI,sans-serif" font-size="16" fill="#8b949e">/ 5532 队</text>
+  <text x="28" y="100" font-family="Segoe UI,sans-serif" font-size="46" font-weight="700" fill="#e6edf3">#629</text>
+  <text x="128" y="100" font-family="Segoe UI,sans-serif" font-size="16" fill="#8b949e">/ 5611 队</text>
   <text x="28" y="136" font-family="Segoe UI,sans-serif" font-size="15" fill="#008ABC">score 0.49200</text>
-  <text x="250" y="120" font-size="20" fill="#f85149">↓85</text>
+  <text x="250" y="120" font-size="20" fill="#f85149">↓309</text>
 
   <line x1="350" y1="40" x2="692" y2="40" stroke="#30363d" stroke-dasharray="3 3"/>
   <line x1="350" y1="160" x2="692" y2="160" stroke="#30363d" stroke-dasharray="3 3"/>
-  <path d="M350.0,68.9 L410.0,112.9 L440.0,82.2 L470.0,116.6 L500.0,138.3 L530.0,154.0 L560.0,76.7 L590.0,46.0 L620.0,53.6 L650.0,58.3 L680.0,72.6 L680.0,72.6 L350.0,154 Z" fill="#008ABC" opacity="0.15"/>
-  <polyline points="350.0,68.9 410.0,112.9 440.0,82.2 470.0,116.6 500.0,138.3 530.0,154.0 560.0,76.7 590.0,46.0 620.0,53.6 650.0,58.3 680.0,72.6" fill="none" stroke="#008ABC" stroke-width="2"/>
-  <circle cx="680.0" cy="72.6" r="3.5" fill="#008ABC"/>
+  <path d="M350.0,68.9 L405.0,112.9 L432.5,82.2 L460.0,116.6 L487.5,138.3 L515.0,154.0 L542.5,76.7 L570.0,46.0 L597.5,53.6 L625.0,58.3 L652.5,72.6 L680.0,124.7 L680.0,124.7 L350.0,154 Z" fill="#008ABC" opacity="0.15"/>
+  <polyline points="350.0,68.9 405.0,112.9 432.5,82.2 460.0,116.6 487.5,138.3 515.0,154.0 542.5,76.7 570.0,46.0 597.5,53.6 625.0,58.3 652.5,72.6 680.0,124.7" fill="none" stroke="#008ABC" stroke-width="2"/>
+  <circle cx="680.0" cy="124.7" r="3.5" fill="#008ABC"/>
 
   <text x="350" y="184" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e">名次曲线（越高越好，最佳 #162，出现在 2026-11-16）</text>
   <text x="692" y="184" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e">lbwatch · 数据来自 Public LB 快照</text>

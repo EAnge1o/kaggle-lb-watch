@@ -1,128 +1,128 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 2269,
+  "total": 2392,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 844,
+      "rank": 893,
       "score": 0.95114,
-      "prev_rank": 802,
+      "prev_rank": 844,
       "prev_score": 0.95114,
-      "rank_change": -42,
+      "rank_change": -49,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "sevonsss",
-          1783,
-          93
+          "Weni Mohamed",
+          2265,
+          45
         ],
         [
-          "fpm",
-          1065,
-          436
+          "archielin",
+          1518,
+          82
         ],
         [
-          "IEEM-AI-2026-114034601",
-          820,
-          477
+          "Prathmesh Patil 4559",
+          1440,
+          85
         ],
         [
-          "hoojw666",
-          1575,
-          536
+          "Guanyi Zhang",
+          876,
+          92
         ],
         [
-          "Chukka Venugopalam",
-          1404,
-          611
+          "Robert Baburin",
+          873,
+          121
         ],
         [
-          "IALIEA",
-          1093,
-          639
+          "helloworld2kk7",
+          2192,
+          170
         ],
         [
-          "Do Phong",
-          925,
-          680
+          "Carl Shanxue Zhang",
+          943,
+          266
         ],
         [
-          "lvckie",
-          872,
-          684
+          "Jin Lei",
+          1284,
+          345
         ],
         [
-          "BẠCH CÔNG DŨNG ",
-          2138,
-          686
+          "unchan",
+          854,
+          400
         ],
         [
-          "Short Sell",
-          975,
-          715
+          "Zhang Yining",
+          1600,
+          443
         ],
         [
-          "Badrdeen",
-          954,
-          722
+          "yy",
+          939,
+          511
         ],
         [
-          "gdeudney",
-          898,
-          725
-        ],
-        [
-          "oliver",
-          890,
-          759
-        ],
-        [
-          "DenisMarkinDS",
-          807,
-          768
-        ],
-        [
-          "bảo long nguyễn",
-          1746,
-          775
-        ],
-        [
-          "Ella Kehoe",
-          1076,
-          791
-        ],
-        [
-          "Nguyễn Quốc Hưng",
-          850,
-          821
-        ],
-        [
-          "Duy Toàn 193",
-          2006,
-          827
-        ],
-        [
-          "Takehiro Yasuda",
-          905,
-          829
-        ],
-        [
-          "Hivemind Admin",
-          833,
-          834
-        ],
-        [
-          "IEEM-AI-2026-115034584",
-          858,
-          839
-        ],
-        [
-          "Tharun Umesh",
+          "ohmaegod",
           904,
-          843
+          533
+        ],
+        [
+          "Luka Posavac",
+          1414,
+          609
+        ],
+        [
+          "Nisar Khan",
+          867,
+          643
+        ],
+        [
+          "Dmxynts",
+          1294,
+          707
+        ],
+        [
+          "IEEM-AI–2026-115034559",
+          886,
+          760
+        ],
+        [
+          "Gerald Schwartz",
+          1604,
+          773
+        ],
+        [
+          "jx1573t",
+          1564,
+          781
+        ],
+        [
+          "Bing-Lin Tu",
+          1002,
+          865
+        ],
+        [
+          "Utkarsh aggarwal 0908",
+          1217,
+          871
+        ],
+        [
+          "Saheed Yakubu",
+          1196,
+          881
+        ],
+        [
+          "longwanglongwang",
+          1109,
+          887
         ]
       ],
       "passed_by": []

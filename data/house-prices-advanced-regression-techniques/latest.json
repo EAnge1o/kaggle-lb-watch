@@ -1,68 +1,60 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4932,
+  "total": 4923,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 825,
+      "rank": 836,
       "score": 0.1212,
-      "prev_rank": 806,
+      "prev_rank": 825,
       "prev_score": 0.1212,
-      "rank_change": -19,
+      "rank_change": -11,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Rocío Alberca",
-          4644,
-          243
+          "MARICRUZ GONZALES ",
+          1200,
+          186
         ],
         [
-          "zzz2300",
-          3101,
-          254
+          "luzche",
+          3025,
+          204
         ],
         [
-          "EstuardoCT",
-          4636,
-          296
+          "Alfred Ramos Woldearegaye",
+          2052,
+          283
         ],
         [
-          "Mila Villa",
-          4642,
-          323
+          "QWERT_YU T",
+          4535,
+          293
         ],
         [
-          "Qilong Su",
-          4504,
-          368
+          "Theerasak Mee (Nida)",
+          1116,
+          467
         ],
         [
-          "OSU-26-98142",
-          4730,
-          374
+          "huikaiqiji",
+          1195,
+          502
         ],
         [
-          "OSU-15830",
-          3908,
-          419
-        ],
-        [
-          "Eftelyaa",
-          1417,
-          539
+          "ymykoraaa",
+          1994,
+          516
         ]
       ],
-      "passed_by": [
-        [
-          "Lucas #35",
-          57,
-          1036
-        ]
-      ]
+      "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "Hxakxids",
+    "to": "Carlos Alberto Llano Flores"
+  }
 }

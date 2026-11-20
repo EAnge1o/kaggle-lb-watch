@@ -1,70 +1,132 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3360,
+  "total": 3418,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2164,
+      "rank": 2222,
       "score": 23.9468,
-      "prev_rank": 2114,
+      "prev_rank": 2164,
       "prev_score": 23.9468,
-      "rank_change": -50,
+      "rank_change": -58,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Bahadir Kusat",
-          2994,
-          116
+          "Tae-hyung kim94",
+          2913,
+          145
         ],
         [
-          "Nguyễn Thành Biên",
-          2294,
-          178
+          "Arsen Zakaryan",
+          3332,
+          195
         ],
         [
-          "kriptmwan",
-          2841,
-          267
+          "Team Shepherd",
+          2449,
+          321
         ],
         [
-          "Santiago D. J. V. G.",
-          2712,
-          571
+          "Kamal Das",
+          2733,
+          329
         ],
         [
-          "lugal",
-          2296,
-          607
+          "Dominater-77",
+          2925,
+          331
         ],
         [
-          "Jamey (Remmy) Thomas",
-          2309,
-          1224
+          "Mehmet Sait OĞUZ",
+          2808,
+          339
         ],
         [
-          "chabinhwang",
-          2372,
-          1430
+          "De Slimste Mens",
+          2231,
+          348
         ],
         [
-          "Emiel Koridon",
-          2628,
-          1440
+          "P_compression",
+          2679,
+          368
         ],
         [
-          "Dread Development",
-          2455,
-          2088
+          "Steven66886688",
+          2611,
+          371
+        ],
+        [
+          "gezi",
+          3229,
+          405
+        ],
+        [
+          "Kanemochi",
+          2465,
+          485
+        ],
+        [
+          "Murali Krishna Guggilla",
+          3015,
+          504
+        ],
+        [
+          "Here Lies Scarlet",
+          2783,
+          519
+        ],
+        [
+          "Mattia Lucca",
+          3335,
+          535
+        ],
+        [
+          "Qubits",
+          2650,
+          555
+        ],
+        [
+          "Tsaranov Valeriy",
+          3053,
+          562
+        ],
+        [
+          "Arturo Balderas",
+          2171,
+          657
+        ],
+        [
+          "bumbleboo",
+          3008,
+          913
+        ],
+        [
+          "Bo Wang",
+          2790,
+          1137
+        ],
+        [
+          "Santiago Zazo",
+          3352,
+          1218
+        ],
+        [
+          "Monit Sharma",
+          2378,
+          1227
+        ],
+        [
+          "Qi Dai",
+          2304,
+          1527
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "aadi_stonks",
-    "to": "Z³C¹oherence"
-  }
+  "top1_changed": null
 }
