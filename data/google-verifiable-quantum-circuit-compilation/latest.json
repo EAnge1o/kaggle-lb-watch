@@ -1,128 +1,133 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3418,
+  "total": 3495,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2222,
+      "rank": 2300,
       "score": 23.9468,
-      "prev_rank": 2164,
+      "prev_rank": 2222,
       "prev_score": 23.9468,
-      "rank_change": -58,
+      "rank_change": -78,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Tae-hyung kim94",
-          2913,
-          145
+          "ISAKA Tsuyoshi",
+          2229,
+          186
         ],
         [
-          "Arsen Zakaryan",
-          3332,
-          195
+          "ICT & QHub",
+          3356,
+          205
         ],
         [
-          "Team Shepherd",
-          2449,
-          321
+          "Hec2Cup",
+          3400,
+          274
         ],
         [
-          "Kamal Das",
-          2733,
-          329
+          "Abidemi Ibrahim ",
+          3142,
+          299
         ],
         [
-          "Dominater-77",
-          2925,
-          331
+          "spencersi123",
+          2895,
+          305
         ],
         [
-          "Mehmet Sait OĞUZ",
-          2808,
-          339
+          "Jacob Metoyer",
+          3024,
+          366
         ],
         [
-          "De Slimste Mens",
-          2231,
-          348
+          "QAurora",
+          3006,
+          372
         ],
         [
-          "P_compression",
-          2679,
-          368
+          "Halley",
+          2572,
+          423
         ],
         [
-          "Steven66886688",
-          2611,
-          371
+          "Vu Minh Dang",
+          3201,
+          424
         ],
         [
-          "gezi",
-          3229,
-          405
+          "JawadKhan",
+          2254,
+          427
         ],
         [
-          "Kanemochi",
-          2465,
-          485
+          "Valerii Gassiev",
+          3140,
+          428
         ],
         [
-          "Murali Krishna Guggilla",
-          3015,
-          504
+          "boualem",
+          2893,
+          457
         ],
         [
-          "Here Lies Scarlet",
-          2783,
-          519
+          "xiangqi zhang",
+          2866,
+          460
         ],
         [
-          "Mattia Lucca",
-          3335,
-          535
+          "Benjamin Haddad",
+          2466,
+          649
         ],
         [
-          "Qubits",
-          2650,
-          555
+          "Quanttmn",
+          2739,
+          661
         ],
         [
-          "Tsaranov Valeriy",
-          3053,
-          562
+          "FYRIAN_MIGU",
+          2511,
+          769
         ],
         [
-          "Arturo Balderas",
-          2171,
-          657
+          "Black Articuno",
+          3343,
+          1042
         ],
         [
-          "bumbleboo",
-          3008,
-          913
+          "XTer XTer",
+          2669,
+          1094
         ],
         [
-          "Bo Wang",
-          2790,
-          1137
+          "Xera-quant",
+          2814,
+          1100
         ],
         [
-          "Santiago Zazo",
-          3352,
-          1218
+          "Charbel Nehme",
+          3025,
+          1607
         ],
         [
-          "Monit Sharma",
-          2378,
-          1227
+          "Muku",
+          2981,
+          1927
         ],
         [
-          "Qi Dai",
-          2304,
-          1527
+          "Taylor Clark",
+          2850,
+          2117
+        ],
+        [
+          "Ionate Technologies",
+          2326,
+          2260
         ]
       ],
       "passed_by": []

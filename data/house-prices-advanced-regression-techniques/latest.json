@@ -1,60 +1,38 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4923,
+  "total": 4899,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 836,
+      "rank": 835,
       "score": 0.1212,
-      "prev_rank": 825,
+      "prev_rank": 836,
       "prev_score": 0.1212,
-      "rank_change": -11,
+      "rank_change": 1,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "MARICRUZ GONZALES ",
-          1200,
-          186
+          "TCQ1111",
+          1202,
+          252
         ],
         [
-          "luzche",
-          3025,
-          204
-        ],
-        [
-          "Alfred Ramos Woldearegaye",
-          2052,
-          283
-        ],
-        [
-          "QWERT_YU T",
-          4535,
-          293
-        ],
-        [
-          "Theerasak Mee (Nida)",
-          1116,
-          467
-        ],
-        [
-          "huikaiqiji",
-          1195,
-          502
-        ],
-        [
-          "ymykoraaa",
-          1994,
-          516
+          "João Antônio Sarturi Popp",
+          3882,
+          474
         ]
       ],
-      "passed_by": []
+      "passed_by": [
+        [
+          "Alexia Yaitanes",
+          234,
+          4785
+        ]
+      ]
     }
   ],
-  "top1_changed": {
-    "from": "Hxakxids",
-    "to": "Carlos Alberto Llano Flores"
-  }
+  "top1_changed": null
 }

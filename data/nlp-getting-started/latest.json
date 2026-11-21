@@ -1,38 +1,28 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "slug": "nlp-getting-started",
   "name": "Natural Language Processing with Disaster Tweets",
-  "total": 641,
+  "total": 642,
   "tracked": [
     {
       "team_id": "17227733",
       "name": "flagg111",
-      "rank": 111,
+      "rank": 112,
       "score": 0.84155,
-      "prev_rank": 104,
+      "prev_rank": 111,
       "prev_score": 0.84155,
-      "rank_change": -7,
+      "rank_change": -1,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "something",
-          128,
-          20
+          "Mike Wu123",
+          310,
+          46
         ],
         [
-          "ArsenyAbramov",
-          118,
-          45
-        ],
-        [
-          "Аделина",
-          136,
-          63
-        ],
-        [
-          "user (null) 01",
-          334,
-          97
+          "Master Teo",
+          272,
+          67
         ]
       ],
       "passed_by": []
