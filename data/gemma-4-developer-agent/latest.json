@@ -1,43 +1,38 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "slug": "gemma-4-developer-agent",
   "name": "Google - The Gemma 4 Developer Agent Competition",
-  "total": 6296,
+  "total": 6400,
   "tracked": [
     {
       "team_id": "17148254",
       "name": "flagg111",
-      "rank": 474,
+      "rank": 478,
       "score": 0.2,
-      "prev_rank": 469,
+      "prev_rank": 474,
       "prev_score": 0.2,
-      "rank_change": -5,
+      "rank_change": -4,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Halley",
-          1848,
-          15
+          "susuky",
+          1330,
+          140
         ],
         [
-          "vinh đặng",
-          662,
-          16
+          "Languo",
+          2865,
+          141
         ],
         [
-          "Yohannes",
-          1662,
-          137
+          "Pavlo Kushnery",
+          1176,
+          142
         ],
         [
-          "TRUONG Minh Tue",
-          1026,
-          138
-        ],
-        [
-          "Kyle Liu",
-          2352,
-          139
+          "Masahiro Nakata",
+          1407,
+          144
         ]
       ],
       "passed_by": []

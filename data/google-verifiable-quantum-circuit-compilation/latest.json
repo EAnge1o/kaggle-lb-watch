@@ -1,137 +1,120 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3495,
+  "total": 3540,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2300,
+      "rank": 2352,
       "score": 23.9468,
-      "prev_rank": 2222,
+      "prev_rank": 2300,
       "prev_score": 23.9468,
-      "rank_change": -78,
+      "rank_change": -52,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "ISAKA Tsuyoshi",
-          2229,
-          186
+          "Jaehyun Kim",
+          2409,
+          85
         ],
         [
-          "ICT & QHub",
-          3356,
-          205
+          "Sanjeet Bakshi ",
+          2536,
+          123
         ],
         [
-          "Hec2Cup",
-          3400,
-          274
+          "Yangqinchu Gao",
+          2855,
+          126
         ],
         [
-          "Abidemi Ibrahim ",
-          3142,
-          299
+          "Anton",
+          2994,
+          136
         ],
         [
-          "spencersi123",
-          2895,
-          305
+          "Yubo WANG",
+          2472,
+          265
         ],
         [
-          "Jacob Metoyer",
-          3024,
-          366
+          "Timothy Wheels",
+          3459,
+          304
         ],
         [
-          "QAurora",
-          3006,
-          372
+          "katuneko",
+          2765,
+          375
         ],
         [
-          "Halley",
-          2572,
-          423
+          "KUO JEN WEI",
+          2600,
+          389
         ],
         [
-          "Vu Minh Dang",
-          3201,
-          424
+          "Naveen Bijalwan",
+          2431,
+          392
         ],
         [
-          "JawadKhan",
-          2254,
-          427
+          "Mateus Cruz, Msc.",
+          2557,
+          479
         ],
         [
-          "Valerii Gassiev",
-          3140,
-          428
+          "Harp404",
+          2379,
+          536
         ],
         [
-          "boualem",
-          2893,
-          457
+          "Anvit kumar",
+          3110,
+          539
         ],
         [
-          "xiangqi zhang",
-          2866,
-          460
+          "nono2026",
+          3434,
+          584
         ],
         [
-          "Benjamin Haddad",
-          2466,
-          649
+          "Timmy Juicehouse",
+          2446,
+          590
         ],
         [
-          "Quanttmn",
-          2739,
-          661
+          "Nicolas Gachancipa",
+          2474,
+          604
         ],
         [
-          "FYRIAN_MIGU",
-          2511,
-          769
+          "GUOjiachen",
+          3275,
+          616
         ],
         [
-          "Black Articuno",
-          3343,
-          1042
+          "Ian V.",
+          2699,
+          712
         ],
         [
-          "XTer XTer",
-          2669,
-          1094
+          "Ethereal49",
+          2499,
+          813
         ],
         [
-          "Xera-quant",
-          2814,
-          1100
-        ],
-        [
-          "Charbel Nehme",
-          3025,
-          1607
-        ],
-        [
-          "Muku",
-          2981,
-          1927
-        ],
-        [
-          "Taylor Clark",
-          2850,
-          2117
-        ],
-        [
-          "Ionate Technologies",
-          2326,
-          2260
+          "ProbableQ",
+          2741,
+          1705
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "Z³C¹oherence",
+    "to": "Maciej Sypetkowski"
+  }
 }

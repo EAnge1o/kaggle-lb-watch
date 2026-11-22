@@ -1,115 +1,152 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 2513,
+  "total": 2614,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 940,
+      "rank": 991,
       "score": 0.95114,
-      "prev_rank": 893,
+      "prev_rank": 940,
       "prev_score": 0.95114,
-      "rank_change": -47,
+      "rank_change": -51,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "jiangsykk13",
-          952,
-          38
+          "Sơn Đỗ Thành",
+          1065,
+          56
         ],
         [
-          "Pio Hong",
-          1523,
-          47
-        ],
-        [
-          "Sisyphus Max",
-          1017,
+          "Itay Segal",
+          1361,
           58
         ],
         [
-          "norinori_tomonori",
-          1965,
-          141
+          "uuui",
+          1267,
+          82
         ],
         [
-          "Advaith Reddy",
-          1581,
-          417
+          "Sarosh Kumar2006",
+          1571,
+          97
         ],
         [
-          "Berke Turk",
-          1060,
-          556
+          "IEEM-AI-2026-115034541",
+          1299,
+          104
         ],
         [
-          "IEEM-AI-2026-115034586",
-          960,
-          677
+          "Austinlk",
+          1791,
+          114
         ],
         [
-          "Kim Taeyoon1212121",
-          2386,
-          741
+          "zyj czhd",
+          1251,
+          157
         ],
         [
-          "goldGGongchi",
-          1052,
-          828
+          "Navaneeth Yadamreddy",
+          993,
+          313
         ],
         [
-          "Cheng",
-          933,
-          860
+          "David Blandón",
+          1305,
+          455
         ],
         [
-          "zlimASDFSfsd4",
-          1223,
-          863
+          "zharlabs",
+          958,
+          535
         ],
         [
-          "Arooran",
-          896,
-          906
+          "Mahoraga",
+          1141,
+          559
         ],
         [
-          "IEEM-AI-2026-115034535",
-          1184,
-          914
+          "tjmax",
+          1057,
+          569
         ],
         [
-          "Nguyen Phuc An",
-          1039,
-          920
+          "lumarigoz",
+          965,
+          602
         ],
         [
-          "闻陌如梦",
-          1421,
-          923
+          "skysilksock",
+          1116,
+          638
         ],
         [
-          "Jaber0311",
-          969,
-          929
+          "Vũ Phạm",
+          1379,
+          687
         ],
         [
-          "Rehan Mhate",
-          928,
+          "Diksha Barnwal",
+          1000,
+          738
+        ],
+        [
+          "Junho Lee",
+          1014,
+          792
+        ],
+        [
+          "INT3405E_4_Group05",
+          1034,
+          848
+        ],
+        [
+          "Bảo Nguyễn Gia",
+          1643,
+          908
+        ],
+        [
+          "Arun P Idiculla",
+          1085,
           930
         ],
         [
-          "Steve Jiao",
-          1542,
-          936
+          "GYUNGSUK LEE",
+          1029,
+          949
+        ],
+        [
+          "Võ Ngọc Minh Đạt",
+          991,
+          952
+        ],
+        [
+          "judy0v0",
+          1025,
+          953
+        ],
+        [
+          "A piece of cake222",
+          984,
+          964
+        ],
+        [
+          "Net terminal gene",
+          1139,
+          965
+        ],
+        [
+          "IEEM-AI-2026-114034559",
+          1017,
+          982
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "Smart Manoj",
-    "to": "Dharun MK"
-  }
+  "top1_changed": null
 }
