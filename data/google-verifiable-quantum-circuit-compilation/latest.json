@@ -1,120 +1,110 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3540,
+  "total": 3604,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2352,
+      "rank": 2412,
       "score": 23.9468,
-      "prev_rank": 2300,
+      "prev_rank": 2352,
       "prev_score": 23.9468,
-      "rank_change": -52,
+      "rank_change": -60,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Jaehyun Kim",
-          2409,
-          85
+          "Quan Vu",
+          2373,
+          87
         ],
         [
-          "Sanjeet Bakshi ",
-          2536,
-          123
+          "Álvaro",
+          2447,
+          157
         ],
         [
-          "Yangqinchu Gao",
-          2855,
-          126
+          "y.k.",
+          2543,
+          194
         ],
         [
-          "Anton",
-          2994,
-          136
+          "tetsu2131",
+          3427,
+          205
         ],
         [
-          "Yubo WANG",
-          2472,
-          265
+          "Abdoulaye Koita",
+          2613,
+          344
         ],
         [
-          "Timothy Wheels",
-          3459,
-          304
+          "JacopoLiberati1990",
+          2885,
+          372
         ],
         [
-          "katuneko",
-          2765,
-          375
+          "Newton Baba",
+          2559,
+          400
         ],
         [
-          "KUO JEN WEI",
-          2600,
-          389
+          "TORCHANE DJIHANE",
+          2723,
+          406
         ],
         [
-          "Naveen Bijalwan",
-          2431,
-          392
+          "Fedor Grigorev",
+          2401,
+          440
         ],
         [
-          "Mateus Cruz, Msc.",
-          2557,
-          479
+          "snuffkin",
+          3222,
+          639
         ],
         [
-          "Harp404",
-          2379,
-          536
+          "Javier Grinon",
+          2941,
+          774
         ],
         [
-          "Anvit kumar",
-          3110,
-          539
+          "Daniil Krasnoproshin",
+          2607,
+          894
         ],
         [
-          "nono2026",
-          3434,
-          584
+          "Schrodinger's Cat Died",
+          2686,
+          909
         ],
         [
-          "Timmy Juicehouse",
-          2446,
-          590
+          "Jin",
+          3093,
+          914
         ],
         [
-          "Nicolas Gachancipa",
-          2474,
-          604
+          "buffceo",
+          3498,
+          944
         ],
         [
-          "GUOjiachen",
-          3275,
-          616
+          "rahulb26",
+          3528,
+          1205
         ],
         [
-          "Ian V.",
-          2699,
-          712
-        ],
-        [
-          "Ethereal49",
-          2499,
-          813
-        ],
-        [
-          "ProbableQ",
-          2741,
-          1705
+          "nick.anisimov",
+          2930,
+          1782
         ]
       ],
       "passed_by": []
     }
   ],
   "top1_changed": {
-    "from": "Z³C¹oherence",
-    "to": "Maciej Sypetkowski"
+    "from": "Maciej Sypetkowski",
+    "to": "Entangled Team"
   }
 }

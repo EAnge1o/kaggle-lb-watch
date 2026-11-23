@@ -1,148 +1,113 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 2614,
+  "total": 2754,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 991,
+      "rank": 1035,
       "score": 0.95114,
-      "prev_rank": 940,
+      "prev_rank": 991,
       "prev_score": 0.95114,
-      "rank_change": -51,
+      "rank_change": -44,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Sơn Đỗ Thành",
-          1065,
-          56
+          "Iveel Enkhtur",
+          1947,
+          94
         ],
         [
-          "Itay Segal",
-          1361,
-          58
-        ],
-        [
-          "uuui",
-          1267,
-          82
-        ],
-        [
-          "Sarosh Kumar2006",
-          1571,
+          "Yang Tanxin(Artemis)",
+          1632,
           97
         ],
         [
-          "IEEM-AI-2026-115034541",
-          1299,
-          104
-        ],
-        [
-          "Austinlk",
-          1791,
-          114
-        ],
-        [
-          "zyj czhd",
-          1251,
-          157
-        ],
-        [
-          "Navaneeth Yadamreddy",
+          "ONAROLLL",
           993,
-          313
+          617
         ],
         [
-          "David Blandón",
-          1305,
-          455
+          "不万能的花椰菜",
+          1297,
+          745
         ],
         [
-          "zharlabs",
-          958,
-          535
+          "Xiffly",
+          1127,
+          806
         ],
         [
-          "Mahoraga",
-          1141,
-          559
+          "Nguyễn Duy Trường",
+          1081,
+          934
         ],
         [
-          "tjmax",
-          1057,
-          569
+          "Jotaniel Miranda Biora",
+          1416,
+          941
         ],
         [
-          "lumarigoz",
-          965,
-          602
+          "NUDTDMYJZ",
+          1679,
+          943
         ],
         [
-          "skysilksock",
-          1116,
-          638
-        ],
-        [
-          "Vũ Phạm",
-          1379,
-          687
-        ],
-        [
-          "Diksha Barnwal",
-          1000,
-          738
-        ],
-        [
-          "Junho Lee",
-          1014,
-          792
-        ],
-        [
-          "INT3405E_4_Group05",
-          1034,
-          848
-        ],
-        [
-          "Bảo Nguyễn Gia",
-          1643,
-          908
-        ],
-        [
-          "Arun P Idiculla",
-          1085,
-          930
-        ],
-        [
-          "GYUNGSUK LEE",
-          1029,
+          "HungTong2k5",
+          1203,
           949
         ],
         [
-          "Võ Ngọc Minh Đạt",
-          991,
-          952
+          "ALFRED OKORONKWO",
+          2151,
+          955
         ],
         [
-          "judy0v0",
-          1025,
-          953
+          "Samet Coşkun",
+          1010,
+          956
         ],
         [
-          "A piece of cake222",
-          984,
-          964
+          "Areen Agrawal",
+          2202,
+          972
         ],
         [
-          "Net terminal gene",
-          1139,
-          965
+          "PhanVuQuocThang",
+          1009,
+          977
         ],
         [
-          "IEEM-AI-2026-114034559",
-          1017,
+          "Sebastian Zhangs",
+          1314,
+          981
+        ],
+        [
+          "IEEM-AI-2026-115034540",
+          1048,
           982
+        ],
+        [
+          "IEEM-AI-2026-115034571",
+          1169,
+          993
+        ],
+        [
+          "Swapnil Verma",
+          1572,
+          1000
+        ],
+        [
+          "hongquann",
+          1170,
+          1009
+        ],
+        [
+          "IEEM-AI-2026-114036523",
+          1066,
+          1031
         ]
       ],
       "passed_by": []

@@ -1,58 +1,48 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4847,
+  "total": 4761,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 844,
+      "rank": 848,
       "score": 0.1212,
-      "prev_rank": 835,
+      "prev_rank": 844,
       "prev_score": 0.1212,
-      "rank_change": -9,
+      "rank_change": -4,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "circle111",
-          1111,
-          82
+          "Data Minors",
+          2644,
+          238
         ],
         [
-          "Paul Priluzki",
-          963,
-          288
+          "Enpin Ren",
+          892,
+          351
         ],
         [
-          "AnaOli14",
-          2741,
-          594
+          "JSU-2024AI-G12",
+          1389,
+          384
         ],
         [
-          "ziming huang",
-          1167,
-          619
+          "dong3058",
+          2338,
+          410
         ],
         [
-          "yunshangwu",
-          953,
-          717
+          "James Mills",
+          890,
+          548
         ],
         [
-          "Yiming&4",
-          902,
-          756
-        ],
-        [
-          "Sheharyaaarr",
-          1642,
-          781
-        ],
-        [
-          "Suteekan S.",
-          4533,
-          837
+          "steinmetz37",
+          1034,
+          732
         ]
       ],
       "passed_by": []
