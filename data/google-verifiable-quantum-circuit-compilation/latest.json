@@ -1,110 +1,82 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3604,
+  "total": 3657,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2412,
+      "rank": 2454,
       "score": 23.9468,
-      "prev_rank": 2352,
+      "prev_rank": 2412,
       "prev_score": 23.9468,
-      "rank_change": -60,
+      "rank_change": -42,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Quan Vu",
-          2373,
-          87
+          "Komaru...",
+          2506,
+          141
         ],
         [
-          "Álvaro",
-          2447,
-          157
+          "Saiprakash Nayak",
+          2581,
+          198
         ],
         [
-          "y.k.",
-          2543,
-          194
+          "fei a",
+          3458,
+          264
         ],
         [
-          "tetsu2131",
-          3427,
-          205
+          "mraz1006",
+          3375,
+          310
         ],
         [
-          "Abdoulaye Koita",
-          2613,
-          344
+          "A B I J I T",
+          2992,
+          363
         ],
         [
-          "JacopoLiberati1990",
-          2885,
-          372
+          "neming",
+          3197,
+          394
         ],
         [
-          "Newton Baba",
-          2559,
-          400
+          "Bon Ho",
+          2415,
+          479
         ],
         [
-          "TORCHANE DJIHANE",
-          2723,
-          406
+          "Wonjae Choi",
+          3211,
+          658
         ],
         [
-          "Fedor Grigorev",
-          2401,
-          440
+          "pennie14",
+          3562,
+          950
         ],
         [
-          "snuffkin",
-          3222,
-          639
+          "Evgeniy Shalagin",
+          2901,
+          1116
         ],
         [
-          "Javier Grinon",
-          2941,
-          774
+          "602918-ธนิทธิ์พล",
+          3311,
+          1127
         ],
         [
-          "Daniil Krasnoproshin",
-          2607,
-          894
-        ],
-        [
-          "Schrodinger's Cat Died",
-          2686,
-          909
-        ],
-        [
-          "Jin",
-          3093,
-          914
-        ],
-        [
-          "buffceo",
-          3498,
-          944
-        ],
-        [
-          "rahulb26",
-          3528,
-          1205
-        ],
-        [
-          "nick.anisimov",
-          2930,
-          1782
+          "ATCG",
+          2951,
+          1821
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "Maciej Sypetkowski",
-    "to": "Entangled Team"
-  }
+  "top1_changed": null
 }
