@@ -3,6 +3,7 @@ name: lbwatch
 on:
   schedule:
     - cron: "15 22 * * *" # UTC 22:15 = 北京 06:15，每天一次。GitHub 的 cron 有 ±几十分钟抖动，属正常
+    - cron: "0 8 * * *"   # UTC 08:00 = 北京 16:00，补班：主班失败/漏跑时当天补一次（当天已有快照则自动跳过，不重复抓）
   workflow_dispatch:
 
 permissions:
@@ -18,14 +19,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: 补班检查（当天快照已存在则跳过；手动触发不受限）
+        id: gate
+        if: github.event_name == 'schedule'
+        run: |
+          if ls data/*/snapshot/"$(date -u +%F)".csv >/dev/null 2>&1; then
+            echo "当天快照已存在：本次为补班，跳过抓取"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "当天快照缺失：继续抓取"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != 'true'
         with:
           python-version: "3.12"
 
       - name: 安装依赖
+        if: steps.gate.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: 拉取快照（真实 / demo 兜底）
+        if: steps.gate.outputs.skip != 'true'
         env:
           KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }} # 推荐：kaggle.com/settings/api 生成的新式 token (KGAT_)
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}   # 可选 Legacy：老式 kaggle.json 里的 username+key
@@ -39,6 +55,7 @@ jobs:
           fi
 
       - name: 提交数据
+        if: steps.gate.outputs.skip != 'true'
         run: |
           git config user.name "lbwatch-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -61,7 +61,7 @@
    - 或 Legacy 方式 `KAGGLE_USERNAME` + `KAGGLE_KEY`（设置页 *Create Legacy API Key* 生成的 `kaggle.json` 三个字段）
 4. 仓库 **Settings → Actions → General → Workflow permissions** 勾选 *"Read and write permissions"*（否则无法自动提交数据）
 
-之后每天北京时间约 06:15 自动跑一次：抓快照 → diff 出变化 → 更新 `data/` → 自动 commit。也可在 Actions 页面手动 *Run workflow* 触发。
+之后每天北京时间约 06:15 自动跑一次：抓快照 → diff 出变化 → 更新 `data/` → 自动 commit。若凌晨班次失败或漏跑（例如 GitHub 跑机网络抖动），**当天下午 16:00 会自动补班**；当天已有快照则补班跳过、不重复抓。也可在 Actions 页面手动 *Run workflow* 触发（手动触发不受补班跳过限制）。
 
 > 没配凭证时工作流会自动跑 **demo 合成数据**，先把整条链路跑通给你看，配好 secrets 后自动切真实抓取。
 
