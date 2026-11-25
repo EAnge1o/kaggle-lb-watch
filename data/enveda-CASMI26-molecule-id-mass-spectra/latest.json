@@ -1,863 +1,453 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "slug": "enveda-CASMI26-molecule-id-mass-spectra",
   "name": "Enveda CASMI26",
-  "total": 5897,
+  "total": 5948,
   "tracked": [
     {
       "team_id": "17198612",
       "name": "flagg111",
-      "rank": 1288,
+      "rank": 1392,
       "score": 0.492,
-      "prev_rank": 1083,
+      "prev_rank": 1288,
       "prev_score": 0.492,
-      "rank_change": -205,
+      "rank_change": -104,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "minhtu.mt.mt",
-          1595,
-          14
+          "Seong-Min Park",
+          1845,
+          23
         ],
         [
-          "wakaka",
-          4745,
-          41
+          "Rita-1021",
+          1352,
+          83
         ],
         [
-          "aaaa",
-          1475,
-          76
+          "e3k",
+          2578,
+          91
         ],
         [
-          "KRISH RABARI",
-          1319,
-          84
-        ],
-        [
-          "Nguyễn Thế Minh Đức",
-          2179,
+          "arumajiro",
+          2162,
           104
         ],
         [
-          "Ayodeji",
-          1759,
-          113
+          "MPerni",
+          1983,
+          106
         ],
         [
-          "DataLover",
-          1084,
+          "Cheyann Ozoria",
+          4683,
+          118
+        ],
+        [
+          "Raja Rajak",
+          1797,
+          119
+        ],
+        [
+          "Ahmedelkotit",
+          4026,
+          120
+        ],
+        [
+          "Amit Gunjan",
+          2359,
           134
         ],
         [
-          "Muhammad waqas",
-          1220,
-          138
+          "ItachI_RS",
+          1531,
+          142
         ],
         [
-          "zzx Hee",
-          2423,
-          141
+          "Shiru",
+          3586,
+          147
         ],
         [
-          "squiky",
-          1231,
-          143
+          "Samuel kovac",
+          1514,
+          152
         ],
         [
-          "sigmaborov",
-          2244,
-          148
+          "Arun Surendranath",
+          4273,
+          157
         ],
         [
-          "CrazyML",
-          1089,
-          158
+          "none",
+          2379,
+          189
         ],
         [
-          "3정훈",
-          1255,
-          160
+          "RT",
+          4904,
+          201
         ],
         [
-          "Ivan Aleksandrov",
-          1289,
-          164
+          "Mikey Marszewski",
+          3193,
+          209
         ],
         [
-          "lazare osmanov",
-          1831,
-          168
+          "Vyom J",
+          1645,
+          210
         ],
         [
-          "Antonoof",
-          3244,
-          175
+          "levihe23",
+          2238,
+          216
         ],
         [
-          "Anonim",
-          1102,
-          177
+          "Tzutang",
+          1317,
+          238
         ],
         [
-          "kichem",
-          4341,
-          196
+          "CoderX_Revenge",
+          1648,
+          241
         ],
         [
-          "yun2026",
-          1663,
-          203
+          "MyungJu",
+          5557,
+          244
         ],
         [
-          "seojinskr",
-          1714,
-          214
+          "Steve George",
+          1467,
+          266
         ],
         [
-          "Kim Jinseo",
-          2137,
-          227
+          "Qamar usman",
+          1355,
+          271
         ],
         [
-          "Marquiños",
-          2622,
-          228
+          "樊dong",
+          2193,
+          282
         ],
         [
-          "Tu Nguyen",
-          1097,
-          237
-        ],
-        [
-          "Kirderf",
-          1235,
-          258
-        ],
-        [
-          "BatuCavusoglu",
-          1208,
-          270
-        ],
-        [
-          "ghj_hit",
-          2176,
-          286
-        ],
-        [
-          "Kulraj Sabharwal",
-          4753,
-          292
-        ],
-        [
-          "jikunfu",
-          5813,
-          294
-        ],
-        [
-          "蓝色小肥鱼",
-          1672,
-          297
-        ],
-        [
-          "organicyes",
-          3811,
-          303
-        ],
-        [
-          "joinus",
-          2468,
-          304
-        ],
-        [
-          "Jacky Cheng",
-          1525,
-          307
-        ],
-        [
-          "Bowen Jin",
-          2612,
-          310
-        ],
-        [
-          "SM",
-          1135,
+          "Aaron Hsi",
+          1786,
           313
         ],
         [
-          "Biao Cao",
-          1298,
-          314
+          "palak agrawal",
+          1993,
+          316
         ],
         [
-          "shanzhong8",
-          1780,
-          332
+          "Xiaolei Lian",
+          1807,
+          328
         ],
         [
-          "cf696666",
-          1526,
-          334
+          "Ricardo Lin",
+          1570,
+          340
         ],
         [
-          "Nf4d1l",
-          3047,
-          337
+          "Adam",
+          2169,
+          352
         ],
         [
-          "인공저능연구소( Artificial Idiocy Lab )",
-          3200,
-          344
+          "Jules",
+          2213,
+          353
         ],
         [
-          "ANUJ DEV SINGH",
-          1664,
-          346
+          "lucky",
+          1906,
+          363
         ],
         [
-          "Chengkai Zhu",
-          1125,
-          348
+          "PursueML",
+          1778,
+          364
         ],
         [
-          "BobaFever",
-          4546,
-          349
+          "Van-Phuc Huynh",
+          4737,
+          366
         ],
         [
-          "hako22",
-          1276,
-          354
+          "Ascendant",
+          2719,
+          369
         ],
         [
-          "Mass Hunters",
-          4615,
-          357
+          "Hưng Trần",
+          2828,
+          374
         ],
         [
-          "Takoi",
-          1536,
-          360
+          "zakaza1",
+          4604,
+          377
         ],
         [
-          "chenxi",
-          4461,
-          365
+          "Dhruv Bansal",
+          2298,
+          379
         ],
         [
-          "cqupt_sdq",
-          1456,
-          368
-        ],
-        [
-          "kernel break",
-          1121,
-          380
-        ],
-        [
-          "Owais Ahmat",
-          1246,
+          "jorge fabian avila",
+          2171,
           382
         ],
         [
-          "Abner",
-          3814,
-          391
+          "Silent Jackal",
+          1313,
+          388
         ],
         [
-          "fake conquerors",
-          1293,
-          393
+          "tourist",
+          1978,
+          389
         ],
         [
-          "Sangram Patil",
-          1420,
-          396
+          "shafiquat ali",
+          1757,
+          398
         ],
         [
-          "KhatMal Gang",
-          1136,
-          397
+          "Stefan Dinu",
+          2125,
+          406
         ],
         [
-          "Ken_Ken_Pa",
-          1447,
-          400
+          "whyking123",
+          1720,
+          407
         ],
         [
-          "zhuzhenghao-max",
-          1455,
-          401
+          "GENIX",
+          2812,
+          411
         ],
         [
-          "Daler Khomidov",
-          2885,
-          413
+          "Ahmad N.",
+          1907,
+          415
         ],
         [
-          "Nawap Bastola",
-          1163,
-          417
+          "Kudo 🏆",
+          1748,
+          416
         ],
         [
-          "NotQuiteZero",
-          4295,
-          418
+          "Vedran Hrabar",
+          1396,
+          419
         ],
         [
-          "AlphaDragon",
-          2022,
-          425
+          "Dmitry Kozlov",
+          1971,
+          420
         ],
         [
-          "today",
-          1258,
+          "juemnsk",
+          2052,
           426
         ],
         [
-          "Andrew Leonard",
-          3948,
-          428
+          "Amaury",
+          2531,
+          453
         ],
         [
-          "Lvffff",
-          2969,
-          430
+          "GLP-O",
+          1759,
+          483
         ],
         [
-          "Brian Yu37",
-          1956,
-          433
-        ],
-        [
-          "Anubisyy",
-          1747,
-          434
-        ],
-        [
-          "PHILL FEI",
-          2599,
-          437
-        ],
-        [
-          "lichardliu",
-          1601,
-          450
-        ],
-        [
-          "DHKim0324",
-          3741,
-          454
-        ],
-        [
-          "Roy Segalz",
-          2478,
-          460
-        ],
-        [
-          "omallo",
-          2091,
-          466
-        ],
-        [
-          "vaibhav9849",
-          3323,
-          480
-        ],
-        [
-          "ZYC9910",
-          1549,
-          485
-        ],
-        [
-          "moda",
-          1165,
-          486
-        ],
-        [
-          "LILA",
-          1522,
-          487
-        ],
-        [
-          "zhuo wamg",
-          2148,
+          "Bufan Li",
+          3884,
           488
         ],
         [
-          "Havid Aqoma",
-          1489,
-          489
+          "Ding ",
+          4828,
+          531
         ],
         [
-          "grandpa-hates-omics",
-          3662,
-          491
+          "Cesar N Silva",
+          2381,
+          535
         ],
         [
-          "xuzu",
-          1144,
-          493
+          "takubotch",
+          1430,
+          544
         ],
         [
-          "Muhammad Anees Younas",
-          1207,
-          499
+          "José Luiz Luna-Xavier",
+          1621,
+          569
         ],
         [
-          "有田",
-          2084,
-          502
-        ],
-        [
-          "Ming-Chiang Chang",
-          4736,
-          504
-        ],
-        [
-          "Choruru",
-          2040,
-          505
-        ],
-        [
-          "Sven Dumain",
-          3618,
-          509
-        ],
-        [
-          "shining fox",
-          2374,
-          510
-        ],
-        [
-          "rangtang",
-          1944,
-          514
-        ],
-        [
-          "Pink Lady",
-          1775,
-          516
-        ],
-        [
-          "kavaua ",
-          1174,
-          521
-        ],
-        [
-          "khj1222",
-          1341,
-          522
-        ],
-        [
-          "lingxiaojun",
-          2103,
-          524
-        ],
-        [
-          "kcheng76",
-          5209,
-          528
-        ],
-        [
-          "Victor Barbarich",
-          1643,
-          530
-        ],
-        [
-          "기욱 이",
-          1784,
-          533
-        ],
-        [
-          "Nealdarkdarkdark",
-          1634,
-          536
-        ],
-        [
-          "Seonghyun Ban",
-          3683,
-          546
-        ],
-        [
-          "jiangyunsheng",
-          5179,
-          549
-        ],
-        [
-          "Anh-Vu Mai-Nguyen",
-          1843,
-          553
-        ],
-        [
-          "luo yuwen8748",
-          5811,
-          554
-        ],
-        [
-          "Menua Bedrosian",
-          1130,
-          556
-        ],
-        [
-          "Aurora",
-          3639,
-          557
-        ],
-        [
-          "Thành Toàn Vương",
-          3594,
-          563
-        ],
-        [
-          "jp_nerdery",
-          1223,
-          568
-        ],
-        [
-          "rererenore",
-          1474,
-          574
-        ],
-        [
-          "CAC | Adem Yengui",
-          4514,
+          "Quanyiiii",
+          2485,
           576
         ],
         [
-          "darasty",
+          "E20",
           2020,
-          579
+          577
         ],
         [
-          "Timmy Juicehouse",
-          2224,
-          580
+          "Ryoya Kochiyma",
+          4042,
+          578
         ],
         [
-          "Eisa",
-          4960,
-          582
+          "Aevion-Labs",
+          4031,
+          789
         ],
         [
-          "MorS",
-          1273,
-          585
+          "Daniil Krasnoproshin",
+          2232,
+          791
         ],
         [
-          "Ymori",
-          1333,
-          586
+          "antonin63",
+          4233,
+          802
         ],
         [
-          "Soham",
-          4060,
-          601
+          "Panagiotis Toloudis",
+          2065,
+          804
         ],
         [
-          "Shoko",
-          1254,
-          621
+          "baolong lin1",
+          2117,
+          805
         ],
         [
-          "lihaha.36",
-          1631,
-          623
+          "Yashpal Singh",
+          5600,
+          807
         ],
         [
-          "yulong peng1",
-          1159,
-          624
+          "Jun Kawai",
+          1646,
+          809
         ],
         [
-          "Vaibhav",
-          1336,
-          632
+          "ERS",
+          1290,
+          811
         ],
         [
-          "beinglatent",
-          1931,
-          637
+          "susuky",
+          2493,
+          817
         ],
         [
-          "Plastic Bottles",
-          2715,
-          659
-        ],
-        [
-          "Ruslan Malsagov",
-          3150,
-          668
-        ],
-        [
-          "Sharrrrink",
-          1988,
-          674
-        ],
-        [
-          "Megasear258",
-          3939,
-          690
-        ],
-        [
-          "Kwame Boateng",
-          5437,
-          695
-        ],
-        [
-          "hjyact",
-          1350,
-          696
-        ],
-        [
-          "youyouwou",
-          1484,
-          698
-        ],
-        [
-          "Nguyễn Thanh Hoàng",
-          1408,
-          705
-        ],
-        [
-          "Felipe Ferreira",
-          1779,
-          709
-        ],
-        [
-          "VK",
-          1901,
-          710
-        ],
-        [
-          "Frost Cerberus",
-          3653,
-          713
-        ],
-        [
-          "JieLiLl",
-          3790,
-          717
-        ],
-        [
-          "Arteom Bugrov ",
-          1138,
-          718
-        ],
-        [
-          "Vikram Tiwari",
-          1640,
-          728
-        ],
-        [
-          "Ludwig Agurto Contador",
-          2227,
-          733
-        ],
-        [
-          "Mark Barney",
-          1523,
+          "Meher Deepak-2005",
+          2550,
           818
         ],
         [
-          "Igor Sudin",
-          2383,
-          819
+          "Sultan Alkhazraji",
+          2772,
+          820
         ],
         [
-          "korea-bio",
-          2769,
-          822
+          "Syed Haris",
+          1498,
+          868
         ],
         [
-          "Amir",
-          1800,
-          827
+          "Bahadir Selim Bakla ",
+          1878,
+          869
         ],
         [
-          "e-mon",
-          2731,
-          829
-        ],
-        [
-          "lime0001",
-          1277,
-          840
-        ],
-        [
-          "KK_nut",
-          1190,
-          841
-        ],
-        [
-          "ytfj",
-          1192,
-          844
-        ],
-        [
-          "Kyuoma45",
-          2018,
-          845
-        ],
-        [
-          "Yuta KUME",
-          4242,
-          846
-        ],
-        [
-          "Dale Zhong",
-          1728,
-          850
-        ],
-        [
-          "Dengkeyi",
-          5809,
-          852
-        ],
-        [
-          "Mazzutti",
-          1101,
-          860
-        ],
-        [
-          "Japan OpenData Lab",
-          1667,
+          "adga77",
+          2406,
           871
         ],
         [
-          "Kurapapa",
-          1670,
+          "satofi",
+          1494,
           872
         ],
         [
-          "vijai-team",
-          2367,
-          876
+          "ruchi_777",
+          2412,
+          874
         ],
         [
-          "Sardor Muxiddinov",
-          1687,
-          877
+          "Phi",
+          1491,
+          889
         ],
         [
-          "Fumi",
-          1509,
-          879
+          "Ak",
+          1358,
+          915
         ],
         [
-          "Elian Alfonso Lopez",
-          1751,
-          926
+          "lalal2006",
+          1378,
+          916
         ],
         [
-          "。。。。",
-          1406,
-          928
+          "Huseyn Babayev",
+          4279,
+          924
         ],
         [
-          "juisajdiasd",
-          4348,
+          "Phil Gear",
+          1483,
           929
         ],
         [
-          "Jack Cerion",
-          1291,
+          "bigpig",
+          1460,
           931
         ],
         [
-          "Eli`s_blog",
-          1210,
-          935
+          "PatrickS",
+          1603,
+          1024
         ],
         [
-          "Daniel Halwell",
-          2354,
-          936
+          "Aayush katoch",
+          4397,
+          1030
         ],
         [
-          "unosss",
-          2030,
-          938
+          "horse-pusher",
+          1446,
+          1087
         ],
         [
-          "k2011yi",
-          1781,
-          948
+          "Toshiko Miyake",
+          2296,
+          1136
         ],
         [
-          "Hengrui Guo",
-          1321,
-          974
+          "Jose Pedro Solano",
+          1426,
+          1359
         ],
         [
-          "xinghe0124",
-          1311,
-          985
-        ],
-        [
-          "Ray Kagué",
-          4633,
-          1009
-        ],
-        [
-          "kingofeverything",
-          2476,
-          1225
-        ],
-        [
-          "KuziJA",
-          2442,
-          1226
-        ],
-        [
-          "noway",
-          1233,
-          1227
-        ],
-        [
-          "Spectrum Squad",
-          3602,
-          1228
-        ],
-        [
-          "Bon Ho",
-          2514,
-          1231
-        ],
-        [
-          "MrTrueTeller",
-          2250,
-          1232
-        ],
-        [
-          "WenliangCao",
-          1708,
-          1233
-        ],
-        [
-          "Tuna Xiao",
-          1112,
-          1234
-        ],
-        [
-          "TalhaBacak",
-          1312,
-          1252
-        ],
-        [
-          "The cheimical bro's & sis's",
-          1636,
-          1253
-        ],
-        [
-          "yomogii",
-          1260,
-          1255
-        ],
-        [
-          "NTHU-team2",
-          1616,
-          1266
+          "Brandon Mukadziwashe",
+          1458,
+          1376
         ]
       ],
       "passed_by": []

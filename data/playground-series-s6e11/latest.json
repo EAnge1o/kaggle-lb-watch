@@ -1,205 +1,137 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 2922,
+  "total": 3034,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 1113,
+      "rank": 1151,
       "score": 0.95114,
-      "prev_rank": 1035,
+      "prev_rank": 1113,
       "prev_score": 0.95114,
-      "rank_change": -78,
+      "rank_change": -38,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "SW/X7PPJ",
-          1174,
-          49
+          "Manuel Argüelles",
+          1621,
+          40
         ],
         [
-          "NTK",
-          1154,
-          76
+          "Victor #2",
+          1604,
+          62
         ],
         [
-          "BiswarupDebbarma",
-          1654,
-          77
+          "TANISHQ PUNDIR",
+          2018,
+          90
         ],
         [
-          "Hao Liu",
-          2051,
-          80
+          "LUV BILONIYA",
+          1765,
+          95
         ],
         [
-          "Huang Ruining",
-          1192,
-          85
+          "Kushtrim Aliu",
+          2057,
+          126
         ],
         [
-          "Sachin Kumar",
-          1763,
-          88
+          "IEEM-AI-2026-114034524",
+          1203,
+          130
         ],
         [
-          "K.THARUN KUMAR",
-          1595,
-          93
+          "brian",
+          1416,
+          141
         ],
         [
-          "Claudia DOGBE",
-          2610,
-          100
+          "Chronico",
+          1356,
+          288
         ],
         [
-          "Shaorui Yang",
-          1519,
-          104
+          "No Mercy",
+          2424,
+          373
         ],
         [
-          "APS Team",
-          1400,
-          136
+          "boleintheloop",
+          1674,
+          633
         ],
         [
-          "Lê Đức Long",
-          2095,
-          158
+          "Bradley Grubbs",
+          1440,
+          771
         ],
         [
-          "William Phan",
-          1720,
-          168
-        ],
-        [
-          "G.Aditya Prasad Achary",
-          1497,
-          207
-        ],
-        [
-          "James Mills",
-          1150,
-          528
-        ],
-        [
-          "Trần Duy 33",
-          1311,
-          599
-        ],
-        [
-          "GyroZeppeli",
-          1637,
-          609
-        ],
-        [
-          "Eli Simpkins-Simmonds",
-          1217,
-          721
-        ],
-        [
-          "karasu1982",
-          1056,
-          726
-        ],
-        [
-          "IEEM-AI-2026-115034542",
-          1679,
-          728
-        ],
-        [
-          "Klem",
-          1396,
-          734
-        ],
-        [
-          "Ian Tomb",
-          1236,
-          796
-        ],
-        [
-          "Liam O’Brien",
-          1116,
+          "Elena01092004!!",
+          1561,
           832
         ],
         [
-          "MaximusAtticus",
-          1252,
-          901
+          "Enrique García H",
+          1218,
+          864
         ],
         [
-          "mige551",
-          1074,
-          907
+          "Syed Asim Ali Shah",
+          1160,
+          866
         ],
         [
-          "Sai Jahnavi Gamalapati",
-          2663,
-          913
+          "IEEM-AI-2026-115034543",
+          1345,
+          878
         ],
         [
-          "dang danh cong",
-          1086,
-          926
+          "purposeporpoise",
+          1688,
+          949
         ],
         [
-          "qingyuan xue",
-          1523,
-          947
+          "IEEM-AI-2026-115034580",
+          1189,
+          1014
         ],
         [
-          "shinsuke",
-          1222,
-          999
+          "Ekaterina S",
+          1489,
+          1053
         ],
         [
-          "Juliana Chavez",
-          1271,
-          1033
+          "IEEM-AI-2026-115036543",
+          2471,
+          1096
         ],
         [
-          "staticalpirate",
-          1912,
-          1048
+          "Satoshi Akiyama",
+          1188,
+          1099
         ],
         [
-          "CokeNoIce",
-          2686,
-          1071
+          "Long Do",
+          1868,
+          1132
         ],
         [
-          "IEEM-AI-2026-115034575",
-          1570,
-          1072
+          "Hriday Desai",
+          2116,
+          1134
         ],
         [
-          "Moses Rioba",
-          1875,
-          1073
-        ],
-        [
-          "Pham Minh Nghia",
-          1064,
-          1078
-        ],
-        [
-          "Xieyan123",
-          1193,
-          1083
-        ],
-        [
-          "IEEM-AI-2026-114034555",
-          1067,
-          1101
+          "Rubble",
+          1124,
+          1142
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "Dharun MK",
-    "to": "Jason Seol"
-  }
+  "top1_changed": null
 }

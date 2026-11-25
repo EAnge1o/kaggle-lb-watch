@@ -1,11 +1,8 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "slug": "neurips-2026-smart-buildings",
   "name": "Smart Buildings Competition",
-  "total": 360,
+  "total": 400,
   "tracked": [],
-  "top1_changed": {
-    "from": "Ramesh Arvind",
-    "to": "Marano"
-  }
+  "top1_changed": null
 }

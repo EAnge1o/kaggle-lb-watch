@@ -1,1222 +1,600 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "slug": "name-that-llm",
   "name": "Name That LLM",
-  "total": 6914,
+  "total": 7020,
   "tracked": [
     {
       "team_id": "17209087",
       "name": "flagg111",
-      "rank": 1034,
+      "rank": 1177,
       "score": 0.709,
-      "prev_rank": 761,
+      "prev_rank": 1034,
       "prev_score": 0.709,
-      "rank_change": -273,
+      "rank_change": -143,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "sdfaf jkjm",
-          836,
-          44
+          "Yashpal Singh",
+          6542,
+          114
         ],
         [
-          "Ali Shirvani",
-          777,
-          48
-        ],
-        [
-          "Youssef Nader",
-          1307,
-          66
-        ],
-        [
-          "QCJin1",
-          814,
-          76
-        ],
-        [
-          "R B",
-          1432,
-          96
-        ],
-        [
-          "OnlyKTFans",
-          2358,
-          98
-        ],
-        [
-          "Naman Kadam",
-          776,
-          102
-        ],
-        [
-          "CaCao_JP",
-          1367,
-          120
-        ],
-        [
-          "TeriMummyMeriFanRokleIfUCan",
-          1194,
-          122
-        ],
-        [
-          "wangjiakkkkkkk",
-          924,
+          "mohamed stifi",
+          1340,
           128
         ],
         [
-          "Joan-Marc Fisa Gol",
-          1145,
-          130
+          "Harshita Kumari",
+          1054,
+          131
         ],
         [
-          "MarcSS136",
-          5559,
-          132
+          "ddsleep",
+          1348,
+          138
         ],
         [
-          "frog100",
-          848,
-          136
+          "EveresChen",
+          1328,
+          162
         ],
         [
-          "Loren-wen",
-          1562,
-          148
+          "Baidalin Adilzhan [dsmlkz]",
+          1692,
+          193
         ],
         [
-          "BrianR",
-          820,
-          159
+          "scut_ljy",
+          1514,
+          196
         ],
         [
-          "بڤلة ليها",
-          775,
-          165
+          "Mr.Frundles",
+          3272,
+          205
         ],
         [
-          "PyJa",
-          2872,
-          166
+          "Stepan Katin",
+          1127,
+          206
         ],
         [
-          "chengcheng",
-          3553,
-          167
+          "Sunny",
+          1937,
+          213
         ],
         [
-          "豆包分类",
-          1029,
-          171
-        ],
-        [
-          "SHALIN GONGE",
-          1156,
-          173
-        ],
-        [
-          "Tae-hyung kim94",
-          815,
-          180
-        ],
-        [
-          "Adisak Sukul",
-          1211,
-          181
-        ],
-        [
-          "Bustamante_Gil_Coronell",
-          1591,
-          186
-        ],
-        [
-          "XMHHHH",
-          1529,
-          195
-        ],
-        [
-          "Galaxy A55",
-          874,
-          200
-        ],
-        [
-          "Andrij",
-          861,
-          202
-        ],
-        [
-          "Mizero Lucky Gall",
-          3859,
-          204
-        ],
-        [
-          "Less",
-          1492,
-          208
-        ],
-        [
-          "victorvv",
-          3459,
-          209
-        ],
-        [
-          "today",
-          798,
-          218
-        ],
-        [
-          "dankuomu",
-          1149,
-          219
-        ],
-        [
-          "lznlznlznlznlzn",
-          807,
-          225
-        ],
-        [
-          "CoffeeBean's",
-          2117,
-          226
-        ],
-        [
-          "Dao Phong",
-          1142,
-          228
-        ],
-        [
-          "pandacat-ai",
-          987,
-          233
-        ],
-        [
-          "Hưng Trần",
-          2322,
-          241
-        ],
-        [
-          "Harsh Jain",
-          817,
-          250
-        ],
-        [
-          "BAWANDAR",
-          3293,
-          251
-        ],
-        [
-          "Ismail Sab Ajnalkar",
-          821,
-          254
-        ],
-        [
-          "Mike",
-          888,
-          256
-        ],
-        [
-          "Marc Maldonado Lorca",
-          1049,
-          257
-        ],
-        [
-          "Howon Kang",
-          999,
-          258
-        ],
-        [
-          "Agney Praseed",
-          771,
-          259
-        ],
-        [
-          "BobtheBot369",
-          825,
-          263
-        ],
-        [
-          "Rizki Syawaldi",
-          1842,
-          267
-        ],
-        [
-          "대전_6반_이선재",
-          1113,
-          268
-        ],
-        [
-          "mlm",
-          803,
-          270
-        ],
-        [
-          "Auric Lee",
-          1201,
-          271
-        ],
-        [
-          "Hữu Thành Lương",
-          3889,
-          273
-        ],
-        [
-          "ianchute",
-          959,
-          276
-        ],
-        [
-          "vector",
-          1697,
-          277
-        ],
-        [
-          "helen",
-          1043,
+          "RingoZ",
+          1786,
           280
         ],
         [
-          "Vishal Verma",
-          938,
-          281
+          "aria lin2",
+          5761,
+          287
         ],
         [
-          "Hack2Publish",
-          1378,
-          286
-        ],
-        [
-          "Xunden",
-          1181,
+          "dewang2025",
+          4747,
           288
         ],
         [
-          "ghj_hit",
-          1327,
+          "Ali Maad Hassan",
+          1205,
           289
         ],
         [
-          "Leslie",
-          1423,
-          290
+          "qingjainfeng666",
+          2752,
+          296
         ],
         [
-          "Tomeiser",
-          1388,
-          292
+          "woxxxx",
+          1441,
+          298
         ],
         [
-          "Christos Basdekis",
-          789,
-          299
+          "yuna5577",
+          1305,
+          301
         ],
         [
-          "Ramdan Ibrahim",
-          1279,
-          302
+          "双子星和大肥鱼",
+          2242,
+          307
         ],
         [
-          "r09945063_台大電機蔡明憲",
-          1672,
-          306
+          "poisso",
+          4230,
+          310
         ],
         [
-          "SpringDai",
-          884,
-          309
-        ],
-        [
-          "Yoshiaki Kadono",
-          1331,
+          "IDistaken",
+          5239,
           312
         ],
         [
-          "Kirderf",
-          1543,
-          314
+          "Hassan Abedi",
+          1235,
+          320
         ],
         [
-          "Marie Victoire IPOUK",
-          5485,
-          317
+          "S.S",
+          5538,
+          326
         ],
         [
-          "johnny",
-          802,
-          323
-        ],
-        [
-          "邓紫棋牛逼",
-          1178,
-          327
-        ],
-        [
-          "Nawap Bastola",
-          871,
+          "Gaurav Vyas",
+          1064,
           329
         ],
         [
-          "Silva_Orozco_Ospino",
-          956,
+          "Shiva Shankar",
+          1162,
+          330
+        ],
+        [
+          "Joey Kerper",
+          6342,
+          331
+        ],
+        [
+          "Igor Zharov",
+          1259,
+          332
+        ],
+        [
+          "dots-zhumi",
+          1619,
+          334
+        ],
+        [
+          "Andy_Wang05",
+          2099,
+          335
+        ],
+        [
+          "Aaditya Verma",
+          1038,
+          337
+        ],
+        [
+          "Ali",
+          1546,
           338
         ],
         [
-          "Zhqng",
-          865,
-          340
+          "mantrajain03",
+          1773,
+          343
         ],
         [
-          "overfit research department",
-          3503,
-          348
+          "edteoh",
+          1072,
+          399
         ],
         [
-          "Богдан Сомряков",
-          892,
-          357
+          "Ganesha",
+          1062,
+          400
         ],
         [
-          "miyauchihitoshi",
-          1308,
-          358
+          "larry54321zhao",
+          2873,
+          409
         ],
         [
-          "zeaulo",
-          1375,
-          359
+          "AlizzeZhang",
+          1819,
+          411
         ],
         [
-          "闪客阿凡提",
-          1023,
-          360
+          "hyunjunbae",
+          3741,
+          413
         ],
         [
-          "有田",
-          1468,
-          362
+          "hotaq",
+          2756,
+          416
         ],
         [
-          "HiroyukiSasaki",
-          1610,
-          366
+          "cy zhang",
+          1451,
+          417
         ],
         [
-          "1m0ke",
-          1103,
-          367
-        ],
-        [
-          "theanswer",
-          1184,
-          370
-        ],
-        [
-          "Ctrl_CV",
-          946,
-          371
-        ],
-        [
-          "Rapha",
-          819,
-          408
-        ],
-        [
-          "AyushAnand2327",
-          3141,
-          412
-        ],
-        [
-          "Seung Gu",
-          1694,
-          415
-        ],
-        [
-          "Gazz P",
-          925,
-          422
-        ],
-        [
-          "Mainafly",
-          1854,
-          423
-        ],
-        [
-          "Panos",
-          1363,
-          425
-        ],
-        [
-          "LEETAEHEE",
-          1152,
+          "Nick Styles",
+          1192,
           426
         ],
         [
-          "Edglamee",
-          1512,
+          "hinemos",
+          4335,
+          429
+        ],
+        [
+          "Ankit Pateriya",
+          1593,
           430
         ],
         [
-          "MonkeyUso",
-          1254,
-          431
+          "DrVijay Katariya",
+          2170,
+          432
         ],
         [
-          "JUST A CAR",
-          1941,
-          436
+          "YiWang",
+          1273,
+          437
         ],
         [
-          "shaonan wang111",
-          1392,
-          439
+          "Dmitry Kozlov",
+          2487,
+          438
         ],
         [
-          "Dhruv Thacker",
-          5428,
-          440
+          "Magellan P",
+          1078,
+          444
         ],
         [
-          "jiesu111",
-          1347,
-          445
+          "takahiro",
+          1722,
+          447
         ],
         [
-          "Yushen Nie",
-          805,
+          "Jules",
+          2670,
           448
         ],
         [
-          "Minseo Ka",
-          1295,
-          449
+          "ItachI_RS",
+          1816,
+          457
         ],
         [
-          "yulong peng1",
-          1395,
-          452
-        ],
-        [
-          "Thokchom Lolet Singh",
-          1338,
-          453
-        ],
-        [
-          "AdvisoryRealm7",
-          1100,
-          454
-        ],
-        [
-          "evipqa",
-          5768,
+          "Matthew Aiden Cohen",
+          4069,
           458
         ],
         [
-          "RICARDO ESTUDIOMDIX",
-          1110,
-          459
+          "tourist",
+          2639,
+          461
         ],
         [
-          "Abdülbaki Bayır",
-          797,
-          460
-        ],
-        [
-          "topabaem",
-          1754,
+          "tammamalasha",
+          1101,
           462
         ],
         [
-          "M. Mudassar",
-          1525,
-          463
-        ],
-        [
-          "Youdian1s",
-          1074,
+          "Hemingweb",
+          2098,
           464
         ],
         [
-          "AnAn",
-          1390,
-          468
-        ],
-        [
-          "motamota_23",
-          1478,
-          469
-        ],
-        [
-          "bebra179",
-          971,
-          470
-        ],
-        [
-          "Kuroha_Huang",
-          1887,
-          471
-        ],
-        [
-          "Ifeoluwa Adewumi",
-          1212,
+          "Leonid Khodosevich",
+          4226,
           472
         ],
         [
-          "yeao奈、wohe^",
-          4973,
-          473
+          "chrich ku",
+          1560,
+          519
         ],
         [
-          "ddrisco11",
-          1982,
-          476
+          "tensor titan",
+          3501,
+          521
         ],
         [
-          "wakaka",
-          2186,
-          482
+          "takubotch",
+          1425,
+          523
         ],
         [
-          "TheBlackCat",
-          857,
-          488
+          "kosei1701",
+          1429,
+          528
         ],
         [
-          "Sofrony",
-          1101,
-          495
+          "igbyearn",
+          1060,
+          531
         ],
         [
-          "honjousetuna",
-          880,
-          499
+          "ABDUL SALAM",
+          1216,
+          534
         ],
         [
-          "Peaky Blinders",
-          944,
+          "AliMhd",
+          1563,
+          535
+        ],
+        [
+          "nhatvo",
+          1413,
+          542
+        ],
+        [
+          "hazard1919",
+          1288,
+          545
+        ],
+        [
+          "Martin Holeček",
+          1330,
+          548
+        ],
+        [
+          "Ryo Hagiwara",
+          1803,
+          549
+        ],
+        [
+          "Yang Jinneng",
+          1083,
+          550
+        ],
+        [
+          "the powerful pineapple",
+          1418,
+          553
+        ],
+        [
+          "jiliaodeshiguang",
+          1202,
+          557
+        ],
+        [
+          "Apih Pih",
+          1067,
+          559
+        ],
+        [
+          "Sevilla_Pinedo",
+          4940,
           562
         ],
         [
-          "Andrei",
-          1128,
-          563
+          "Manurupan M",
+          1103,
+          573
         ],
         [
-          "chlcchl",
-          1061,
-          566
+          "MP Gamimg",
+          1220,
+          601
         ],
         [
-          "Vidhu_sri",
-          2991,
-          567
-        ],
-        [
-          "Peter KK",
-          1015,
-          572
-        ],
-        [
-          "YuanXu",
-          1479,
-          574
-        ],
-        [
-          "ne Artem Savchenko",
-          1826,
-          575
-        ],
-        [
-          "LinearBasis",
-          886,
-          577
-        ],
-        [
-          "jjangkjy9422",
-          1609,
-          580
-        ],
-        [
-          "Kulraj Sabharwal",
-          1350,
-          581
-        ],
-        [
-          "Yang He_thu",
-          4448,
-          582
-        ],
-        [
-          "m-toshi desu",
-          883,
-          583
-        ],
-        [
-          "Kiril",
-          1466,
-          584
-        ],
-        [
-          "georgexue666",
-          796,
-          586
-        ],
-        [
-          "Alessandro Lair ",
-          867,
-          592
-        ],
-        [
-          "Yanggx",
-          1882,
-          593
-        ],
-        [
-          "Chengkai Zhu",
-          822,
-          594
-        ],
-        [
-          "JinboWang",
-          1039,
-          595
-        ],
-        [
-          "MI COCO333",
-          3172,
-          596
-        ],
-        [
-          "Worakij Wanwong",
-          862,
-          598
-        ],
-        [
-          "ANUJ DEV SINGH",
-          1119,
+          "一行瑠璃",
+          1521,
           602
         ],
         [
-          "Ghazaros Barseghyan",
-          1139,
-          608
+          "Chenghao Ge",
+          1885,
+          605
         ],
         [
-          "Athar Sayed",
-          806,
-          609
-        ],
-        [
-          "Yellowflash-ding",
-          2058,
-          611
-        ],
-        [
-          "Ivan1625",
-          879,
+          "啊我草",
+          1520,
           612
         ],
         [
-          "Buraqbee",
-          1888,
+          "love from China Telecom",
+          1183,
           614
         ],
         [
-          "Moon_Holiday",
-          2638,
+          "Morbius108",
+          1066,
           615
         ],
         [
-          "lizhihf",
-          918,
+          "Shyam Kr",
+          1117,
           616
         ],
         [
-          "Takamichi Toda",
-          1090,
-          620
+          "Kishan Vavdara",
+          1589,
+          618
         ],
         [
-          "Michael Klassen",
-          3169,
-          621
+          "Valentin Hilko",
+          5886,
+          623
         ],
         [
-          "chen yixiang",
-          1516,
-          622
+          "weiqilin-x12w",
+          1311,
+          687
         ],
         [
-          "magoemu",
-          1472,
-          626
+          "Mitsuaki Inoue",
+          3630,
+          688
         ],
         [
-          "Acture",
-          1322,
-          629
+          "Ahmed",
+          1334,
+          694
         ],
         [
-          "linzch3",
-          2039,
-          630
+          "light-devs",
+          2191,
+          696
         ],
         [
-          "SayMyName",
-          768,
-          631
-        ],
-        [
-          "okkoj bjj",
-          2972,
-          632
-        ],
-        [
-          "MioValentine",
-          1703,
-          636
-        ],
-        [
-          "Harki35",
-          4214,
-          638
-        ],
-        [
-          "chaoswind",
-          2543,
-          639
-        ],
-        [
-          "BRINDA S",
-          5691,
-          642
-        ],
-        [
-          "Molina_Galvis",
-          1386,
-          651
-        ],
-        [
-          "Metis Lab",
-          788,
-          653
-        ],
-        [
-          "Gabriel Sanson",
-          3865,
-          658
-        ],
-        [
-          "songling",
-          1354,
-          662
-        ],
-        [
-          "BlueBuild4",
-          1859,
-          669
-        ],
-        [
-          "BatuCavusoglu",
-          1701,
-          672
-        ],
-        [
-          "YuyaSuzuki",
-          829,
-          673
-        ],
-        [
-          "Jacky Xue",
-          1413,
+          "kuruma",
+          1148,
           697
         ],
         [
-          "Zethive",
-          6572,
-          698
-        ],
-        [
-          "Satvik Verma",
-          1013,
-          699
-        ],
-        [
-          "我不行了这比赛咋这么难",
-          828,
-          708
-        ],
-        [
-          "Zuuk",
-          2843,
+          "secondbest_12",
+          2344,
           710
         ],
         [
-          "AjPrem",
-          1897,
-          711
+          "Mimosa",
+          1257,
+          812
         ],
         [
-          "Gabriel.S",
-          1894,
-          712
+          "Qiyue Wu99",
+          1800,
+          813
         ],
         [
-          "Yadlapalli Avinash ricky",
-          930,
-          713
-        ],
-        [
-          "Kaiji Kuratake",
-          1210,
-          714
-        ],
-        [
-          "Narodny",
-          1146,
-          715
-        ],
-        [
-          "masspeaks",
-          1909,
-          719
-        ],
-        [
-          "Omar Kamal",
-          887,
-          734
-        ],
-        [
-          "Yu Chen_waterdog",
-          4348,
-          735
-        ],
-        [
-          "Mohammed1293",
-          6022,
-          737
-        ],
-        [
-          "Prince AJ CUYOS",
-          4344,
-          738
-        ],
-        [
-          "sanny0605",
-          1896,
-          739
-        ],
-        [
-          "Cristiano",
-          842,
-          740
-        ],
-        [
-          "SIS-909",
-          1511,
-          741
-        ],
-        [
-          "MrArrogant",
-          5789,
-          742
-        ],
-        [
-          "LeeVvin",
-          1552,
-          743
-        ],
-        [
-          "xllenxu",
-          1219,
-          745
-        ],
-        [
-          "Armesto_Cianci_DeLaTorre",
-          1785,
-          746
-        ],
-        [
-          "amit kumar2245",
-          1527,
-          747
-        ],
-        [
-          "co-gy",
-          852,
-          748
-        ],
-        [
-          "Tyama",
-          1344,
-          749
-        ],
-        [
-          "Atharva A Achirnekar",
-          6207,
-          753
-        ],
-        [
-          "Carlos Ponce",
-          1096,
-          759
-        ],
-        [
-          "Kidus Paulos",
-          5200,
-          760
-        ],
-        [
-          "yukichi0403",
-          816,
-          763
-        ],
-        [
-          "Hongjian He",
-          2381,
-          769
-        ],
-        [
-          "ctwilliams",
-          855,
-          774
-        ],
-        [
-          "sakuma",
-          1158,
-          777
-        ],
-        [
-          "Dima",
-          2000,
-          778
-        ],
-        [
-          "FakeEyes2W",
-          1371,
+          "fire_stick",
+          1550,
           814
         ],
         [
-          "つるげーねふ",
-          1070,
-          816
-        ],
-        [
-          "mireiffe",
-          2747,
-          818
-        ],
-        [
-          "Matin shirazi",
-          1572,
-          819
-        ],
-        [
-          "SYNERGYYYYYY",
-          1422,
+          "mi",
+          1353,
           820
         ],
         [
-          "Mike Anderson",
-          1980,
-          823
+          "Mt.Panda",
+          1087,
+          821
         ],
         [
-          "ChenZhaowen1",
-          4935,
-          829
+          "KIMMUGYUM",
+          1169,
+          844
         ],
         [
-          "Henil Shah",
-          1530,
-          832
+          "Panagiotis Toloudis",
+          5178,
+          910
         ],
         [
-          "wkdbskwsm",
-          980,
-          833
+          "Workless",
+          1386,
+          912
         ],
         [
-          "Weslie_xyy",
-          1283,
-          836
+          "Nevska",
+          2050,
+          934
         ],
         [
-          "Yunfei Lu",
-          5949,
-          839
+          "digital_yakuza",
+          6205,
+          988
         ],
         [
-          "Robson",
-          2173,
-          841
+          "Aly Ramzy",
+          6725,
+          1035
         ],
         [
-          "monsaraida",
-          813,
-          887
+          "Thierry Nyembo",
+          1504,
+          1036
         ],
         [
-          "Rizqi Akbar P",
-          943,
-          890
+          "zz3t3rn41",
+          1147,
+          1038
         ],
         [
-          "vogts wu",
-          2973,
-          891
+          "Phoenicurus",
+          1298,
+          1039
         ],
         [
-          "kundan bhaskar",
-          1124,
-          892
+          "Hengrui Guo",
+          1687,
+          1068
         ],
         [
-          "pycaqian",
-          4962,
-          893
+          "咸蛋超人迪卡",
+          1137,
+          1076
         ],
         [
-          "ZAOUI_Yassine",
-          907,
-          902
+          "Zhiyao Wang (王致尧)",
+          1805,
+          1079
         ],
         [
-          "zangty",
-          838,
-          905
+          "kricetim",
+          1865,
+          1083
         ],
         [
-          "Muhammad Azhar",
-          1580,
-          907
+          "geniussppark",
+          1116,
+          1088
         ],
         [
-          "Ame",
-          4814,
-          923
+          "guineapigvn",
+          1349,
+          1092
         ],
         [
-          "lowking",
-          1179,
-          927
+          "Bowen Zhang",
+          4733,
+          1097
         ],
         [
-          "Osama",
-          1716,
-          929
+          "Yufan Tan",
+          2123,
+          1100
         ],
         [
-          "Jesús Calderón",
-          1500,
-          930
+          "jinyoung",
+          3437,
+          1104
         ],
         [
-          "CoorDi",
-          846,
-          933
+          "MMV",
+          1681,
+          1106
         ],
         [
-          "Wenxuan Ye",
-          1058,
-          943
+          "Rick",
+          1073,
+          1107
         ],
         [
-          "mohamedber5754",
-          1625,
-          944
+          "BILAL AHMAD",
+          1755,
+          1112
         ],
         [
-          "Amit Gunjan",
-          1521,
-          946
+          "llinhardt",
+          1048,
+          1120
         ],
         [
-          "Rayan Babur",
-          3690,
-          950
+          "fumisuke19",
+          1806,
+          1128
         ],
         [
-          "russian ganger🔫🔫🔫",
-          1519,
-          954
+          "kkneed",
+          2262,
+          1156
         ],
         [
-          "babybuffalo",
-          783,
-          957
-        ],
-        [
-          "shyjin",
-          1555,
-          961
-        ],
-        [
-          "Jessie McCree",
-          837,
-          962
-        ],
-        [
-          "4kut4",
-          1551,
-          963
-        ],
-        [
-          "Omer Dogan",
-          784,
-          967
-        ],
-        [
-          "Andrew Leonard",
-          826,
-          969
-        ],
-        [
-          "Ashwin Prakash",
-          1588,
-          970
-        ],
-        [
-          "Gerwyn",
-          1535,
-          971
-        ],
-        [
-          "wei chang",
-          2152,
-          977
-        ],
-        [
-          "sironekosama",
-          1515,
-          980
-        ],
-        [
-          "Wilders",
-          782,
-          981
-        ],
-        [
-          "gedouluhui",
-          799,
-          1011
-        ],
-        [
-          "Efthimios",
-          1537,
-          1014
-        ],
-        [
-          "Roland Luethy",
-          1676,
-          1022
-        ],
-        [
-          "Ria~",
-          843,
-          1025
+          "Ushimaru",
+          3461,
+          1163
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "YK",
+    "to": "NguyenThanhNhan"
+  }
 }
