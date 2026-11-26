@@ -1,21 +1,30 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "slug": "nlp-getting-started",
   "name": "Natural Language Processing with Disaster Tweets",
-  "total": 664,
+  "total": 674,
   "tracked": [
     {
       "team_id": "17227733",
       "name": "flagg111",
-      "rank": 116,
+      "rank": 113,
       "score": 0.84155,
       "prev_rank": 116,
       "prev_score": 0.84155,
-      "rank_change": 0,
+      "rank_change": 3,
       "score_delta": 0.0,
       "passed_me": [],
-      "passed_by": []
+      "passed_by": [
+        [
+          "ATHARVA NAIK",
+          106,
+          294
+        ]
+      ]
     }
   ],
-  "top1_changed": null
+  "top1_changed": {
+    "from": "yyyyyxingggg",
+    "to": "Javier Hernáez"
+  }
 }

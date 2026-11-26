@@ -1,60 +1,35 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4712,
+  "total": 4714,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 870,
+      "rank": 871,
       "score": 0.1212,
-      "prev_rank": 858,
+      "prev_rank": 870,
       "prev_score": 0.1212,
-      "rank_change": -12,
+      "rank_change": -1,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Erdinc Ulubay",
-          2608,
-          91
+          "Jasmine Masson Alves",
+          4631,
+          464
         ],
         [
-          "wsthei",
-          4560,
-          92
-        ],
-        [
-          "Yosuke Hikima",
-          2651,
-          644
-        ],
-        [
-          "chenbowen",
-          1009,
-          681
-        ],
-        [
-          "Cloverfu",
-          879,
-          723
-        ],
-        [
-          "Mudit Ranjan",
-          1183,
-          775
-        ],
-        [
-          "Omar Escobedo Barcelli",
-          2818,
-          853
+          "MSU-BUT_ML_2026",
+          2641,
+          658
         ]
       ],
       "passed_by": [
         [
-          "Isabella Scorpio",
-          808,
-          2070
+          "ATHARVA NAIK",
+          848,
+          1391
         ]
       ]
     }
