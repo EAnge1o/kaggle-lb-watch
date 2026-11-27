@@ -1,510 +1,357 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "slug": "santa-2026",
   "name": "Santa 2026 - The Elf Calculator",
-  "total": 3120,
+  "total": 3272,
   "tracked": [
     {
       "team_id": "17417270",
       "name": "flagg111",
-      "rank": 1360,
+      "rank": 1523,
       "score": 130903.0,
-      "prev_rank": 1177,
+      "prev_rank": 1360,
       "prev_score": 130903.0,
-      "rank_change": -183,
+      "rank_change": -163,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Byer",
-          2098,
-          56
+          "Aaron Peterson",
+          2477,
+          128
         ],
         [
-          "ADITYA RAVI",
-          1185,
-          71
+          "ayyaz-azeem",
+          2202,
+          224
         ],
         [
-          "yede liu",
-          1458,
-          84
+          "Ch Chinglemba",
+          2105,
+          250
         ],
         [
-          "Pand",
-          1783,
-          99
+          "Nguyễn Châu Tấn Cường",
+          2335,
+          275
         ],
         [
-          "tuboa",
-          2812,
-          151
+          "Rui Luís",
+          2141,
+          280
         ],
         [
-          "Nguyễn Minh Hằng",
-          1533,
-          155
+          "AbhilashVJ",
+          2725,
+          282
         ],
         [
-          "Arihant Jain",
-          1496,
-          159
+          "成吉思汗",
+          1674,
+          306
         ],
         [
-          "Asia214",
-          1439,
-          191
+          "Manisa",
+          1368,
+          312
         ],
         [
-          "Sankalp Thakur",
-          1965,
-          195
+          "Neha Das",
+          2408,
+          319
         ],
         [
-          "Neetlife",
-          2053,
-          208
+          "Md.Mahfujul Karim Sheikh",
+          2627,
+          329
         ],
         [
-          "MANUEL LOPEZ",
-          1876,
-          209
+          "godzilla1234",
+          1453,
+          333
         ],
         [
-          "Adisak Sukul",
-          1665,
-          217
+          "wuzhiqiang01",
+          1712,
+          337
         ],
         [
-          "Hardik Gautam25",
-          1566,
-          239
+          "Hillside Collective",
+          2317,
+          365
         ],
         [
-          "tatt:)ch",
-          1562,
-          256
+          "Mystique　Kobayashi",
+          1433,
+          374
         ],
         [
-          "SUHO NOH",
-          2763,
-          272
+          "tanutarou",
+          1764,
+          390
         ],
         [
-          "Aakash Kavuru",
-          2567,
-          304
+          "Ryan Hsu",
+          1739,
+          395
         ],
         [
-          "ShivamSrng",
-          1569,
-          318
+          "yu_kuo14",
+          3110,
+          396
         ],
         [
-          "Saud Saudesen",
-          2262,
-          340
+          "BlankoCP",
+          2010,
+          397
         ],
         [
-          "WD琥珀Kohaku",
-          1826,
-          349
+          "Domin Kim",
+          2619,
+          405
         ],
         [
-          "のりまき",
-          1226,
-          356
+          "Saifuddin",
+          1431,
+          411
         ],
         [
-          "Master Teo",
-          1254,
-          369
+          "Lê Anh Duy",
+          2215,
+          415
         ],
         [
-          "wangziao",
-          2013,
-          376
+          "Rishabh Bafna",
+          1389,
+          432
         ],
         [
-          "Ruijie Zhao666",
-          2769,
-          385
-        ],
-        [
-          "sekken",
-          1358,
-          401
-        ],
-        [
-          "kriptmwan",
-          1707,
-          417
-        ],
-        [
-          "haru_426",
-          2328,
-          423
-        ],
-        [
-          "ccjjllt",
-          1257,
-          434
-        ],
-        [
-          "Aleksandr B.",
-          1270,
-          439
-        ],
-        [
-          "Evan Fox",
-          2043,
-          455
-        ],
-        [
-          "MichaelTan08",
-          2093,
-          460
-        ],
-        [
-          "Ivan Gevorkov",
-          1879,
-          473
-        ],
-        [
-          "szlachetny snieg",
-          1602,
-          478
-        ],
-        [
-          "Santa Himself",
+          "klog",
           1527,
-          505
+          433
         ],
         [
-          "Carl Kugblenu",
-          1224,
-          508
+          "Juan Severiano",
+          1587,
+          461
         ],
         [
-          "Ermao Wang",
-          2486,
-          520
+          "xiangxiang",
+          1457,
+          471
         ],
         [
-          "Nathan Hoche",
-          2797,
-          544
+          "SHAME666",
+          1564,
+          477
         ],
         [
-          "Mathieu W",
-          1242,
-          549
+          "Rick",
+          1785,
+          501
         ],
         [
-          "RyuseiT",
-          1546,
+          "stend",
+          1498,
+          538
+        ],
+        [
+          "Dariush Afshar",
+          2781,
           553
         ],
         [
-          "XMAS_Compilers",
-          2954,
-          555
+          "MUHAMMED IDRIS BIN YACOOB",
+          1608,
+          577
         ],
         [
-          "Yodharin Monplub",
-          2494,
-          560
+          "ahmed Maalej",
+          1477,
+          582
         ],
         [
-          "Mogutochan",
-          1700,
-          586
+          "那个男人",
+          1865,
+          584
         ],
         [
-          "Thomas Yi",
-          2271,
-          589
+          "xinsu9898",
+          1364,
+          596
         ],
         [
-          "Abu Kayyisah Basyid",
-          2059,
-          592
+          "Amjath S",
+          1409,
+          614
         ],
         [
-          "Jonathan Baj",
-          2178,
-          594
-        ],
-        [
-          "hackathon baba",
-          1609,
-          601
-        ],
-        [
-          "Crocodile",
-          1378,
-          610
-        ],
-        [
-          "Ravensley Rene ",
-          1390,
-          620
-        ],
-        [
-          "jorge fabian avila",
-          1858,
-          623
-        ],
-        [
-          "Aman Vishwakarma",
-          1388,
-          633
-        ],
-        [
-          "OzanM.",
-          1197,
+          "Debmalya",
+          1911,
           640
         ],
         [
-          "Muni Sathwik Chinthakayala",
-          2895,
-          646
+          "Hrushikesh Pawar",
+          1374,
+          651
         ],
         [
-          "vishu phalswal",
-          1539,
-          653
+          "Lawrence",
+          1485,
+          667
         ],
         [
-          "minhduynguyen1505",
-          1804,
-          654
+          "Xfeng Zhang",
+          2855,
+          675
         ],
         [
-          "snaykey",
-          1188,
-          659
+          "Miracleyangyh",
+          1964,
+          678
         ],
         [
-          "Safal Gupta",
-          1916,
-          665
+          "Arkadeep Dutta",
+          2188,
+          690
         ],
         [
-          "Azhi",
-          2012,
-          676
+          "Dr. Mikholae Hutchinson",
+          2405,
+          694
         ],
         [
-          "Beyond Baseline",
-          2280,
-          691
+          "Vivan rv",
+          1979,
+          696
         ],
         [
-          "K10",
-          2521,
-          693
+          "totem",
+          2014,
+          698
         ],
         [
-          "Meat Proxy",
-          1739,
-          697
+          "TAUIL Abd Elilah",
+          1731,
+          705
         ],
         [
-          "AnpAn_Men",
-          2573,
-          702
-        ],
-        [
-          "Patrick Gomes",
-          2399,
-          704
-        ],
-        [
-          "kadu_trufen",
-          2371,
+          "FelipeWar",
+          1393,
           706
         ],
         [
-          "Bakyt Kadyrkulov",
-          1441,
-          712
+          "Joseph Kerlin",
+          1594,
+          725
         ],
         [
-          "Pham Hoa Anh Nam",
-          1243,
-          717
+          "Yury",
+          2712,
+          742
         ],
         [
-          "JYA",
-          2786,
-          723
+          "defa wang",
+          2590,
+          762
         ],
         [
-          "Kaggoo",
-          1336,
-          726
+          "Luke Stafford",
+          2349,
+          784
         ],
         [
-          "Sujan869",
-          1505,
-          729
+          "Priyanshu RAJ",
+          1440,
+          785
         ],
         [
-          "Hossam Alayet",
-          1320,
-          740
+          "Roshan Roy",
+          2466,
+          786
         ],
         [
-          "TansuGORGUN",
-          2253,
-          755
-        ],
-        [
-          "Nguyễn Trần Thanh Bình",
-          1660,
-          756
-        ],
-        [
-          "APS Team",
-          2917,
-          759
-        ],
-        [
-          "takeharu-yoshikawa",
-          1470,
-          789
-        ],
-        [
-          "shoryakumar mishra",
-          1350,
+          "MonyZLiang",
+          3018,
           793
         ],
         [
-          "ItsmeSujan",
-          2223,
+          "eqiverse",
+          1370,
           795
         ],
         [
-          "Sant'Arithmeticians",
-          1374,
-          796
+          "LatentExplorer",
+          1727,
+          798
         ],
         [
-          "kaneko takafumi",
-          1301,
+          "THE BOYS",
+          3016,
+          800
+        ],
+        [
+          "sallygaolinzhi",
+          2072,
           802
         ],
         [
-          "Chenhao Wang",
-          1283,
-          806
+          "Saint Lucian",
+          1572,
+          817
         ],
         [
-          "yuxingyizhou",
-          1500,
-          815
-        ],
-        [
-          "bawr",
-          2638,
+          "Syeda Hina",
+          2511,
           819
         ],
         [
-          "Chandra Adhikarla",
-          2129,
-          824
-        ],
-        [
-          "Karthikeya Thatipamula",
-          1668,
-          825
-        ],
-        [
-          "🔥🦫📿🗽",
-          1537,
+          "lbj",
+          2000,
           826
         ],
         [
-          "TiantianHao",
-          1557,
+          "daoviet",
+          1417,
           834
         ],
         [
-          "YK1222",
-          1721,
-          839
+          "SUBHASH B",
+          2052,
+          837
         ],
         [
-          "Tomigen",
-          2587,
-          850
+          "lt king (faraway places)",
+          2825,
+          933
         ],
         [
-          "Riddhika Tripathi",
-          2518,
-          856
+          "Oluwadamilare Isaac Oyediran",
+          1917,
+          943
         ],
         [
-          "Ajkhan Khan",
-          1440,
-          858
+          "Thanusan Sutharsan",
+          1592,
+          1103
         ],
         [
-          "Tharun Kumar",
-          1542,
-          884
+          "Steven Hawking's Ski Boots",
+          1361,
+          1105
         ],
         [
-          "K Mohammad",
-          1352,
-          891
+          "Thipparam Deepak",
+          2207,
+          1220
         ],
         [
-          "Tâm hồn vô tri",
-          1811,
-          900
-        ],
-        [
-          "Rainfun",
-          1314,
-          917
-        ],
-        [
-          "Sergiu Eftimie",
-          2254,
-          936
-        ],
-        [
-          "duoduo121",
-          2598,
-          968
-        ],
-        [
-          "ธนากร หาญวงค์",
-          1438,
-          984
-        ],
-        [
-          "Aryan Rajyaguru",
-          1918,
-          1001
-        ],
-        [
-          "I_luv_magick",
-          1258,
-          1322
-        ],
-        [
-          "Raiden.B",
-          1635,
-          1330
+          "kawasy",
+          1870,
+          1434
         ]
       ],
       "passed_by": []
     }
   ],
-  "top1_changed": {
-    "from": "ghostmaxxx",
-    "to": "Amin Eb"
-  }
+  "top1_changed": null
 }

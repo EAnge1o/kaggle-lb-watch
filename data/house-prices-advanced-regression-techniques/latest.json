@@ -1,35 +1,55 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "slug": "house-prices-advanced-regression-techniques",
   "name": "House Prices - Advanced Regression Techniques",
-  "total": 4714,
+  "total": 4733,
   "tracked": [
     {
       "team_id": "17227422",
       "name": "flagg111",
-      "rank": 871,
+      "rank": 880,
       "score": 0.1212,
-      "prev_rank": 870,
+      "prev_rank": 871,
       "prev_score": 0.1212,
-      "rank_change": -1,
+      "rank_change": -9,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Jasmine Masson Alves",
-          4631,
-          464
+          "dewang2025",
+          1075,
+          236
         ],
         [
-          "MSU-BUT_ML_2026",
-          2641,
-          658
+          "Ale Junior",
+          1184,
+          423
+        ],
+        [
+          "sunny mokk",
+          1330,
+          552
+        ],
+        [
+          "Qixin Xu",
+          1518,
+          834
         ]
       ],
       "passed_by": [
         [
-          "ATHARVA NAIK",
-          848,
-          1391
+          "Hitarth Jain",
+          531,
+          911
+        ],
+        [
+          "Miamoo0v0 Lee",
+          403,
+          1132
+        ],
+        [
+          "Lewis Meates",
+          319,
+          2444
         ]
       ]
     }

@@ -1,123 +1,118 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 3167,
+  "total": 3291,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 1202,
+      "rank": 1250,
       "score": 0.95114,
-      "prev_rank": 1151,
+      "prev_rank": 1202,
       "prev_score": 0.95114,
-      "rank_change": -51,
+      "rank_change": -48,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Nam Tran",
-          1591,
-          58
+          "hihihaha2kk",
+          1924,
+          64
         ],
         [
-          "Mehran Kazeminia",
-          1489,
-          84
+          "ThaoNhi0302",
+          1700,
+          67
         ],
         [
-          "pengxiaoxi123",
-          1396,
-          111
+          "Md.Mahfujul Karim Sheikh",
+          1754,
+          87
         ],
         [
-          "Piyal Chowdhury",
-          1733,
-          112
+          "Taylor S. Amarel",
+          1365,
+          104
         ],
         [
-          "rob",
-          1602,
-          123
+          "ts",
+          1392,
+          624
         ],
         [
-          "DaiAoki",
-          1645,
-          184
+          "IEEM-AI-2026-114034562",
+          1462,
+          663
         ],
         [
-          "xin guo",
-          1196,
-          471
+          "Francisco Angulo de Lafuente",
+          2763,
+          664
         ],
         [
-          "Lucas_H",
-          1218,
-          681
+          "Gert2021",
+          1265,
+          678
         ],
         [
-          "Navya Devadiga",
-          1201,
-          774
+          "IEEM-AI-2026-115034555",
+          1444,
+          873
         ],
         [
-          "Ahmad Waqar",
-          1573,
-          877
+          "Muhammad Muaz",
+          1525,
+          887
         ],
         [
-          "Prashant Rawat",
-          2456,
-          905
+          "KNAI_Pawel_K",
+          1439,
+          948
         ],
         [
-          "Bingos",
-          2141,
-          921
+          "IEEM-AI-2026-114071605",
+          1488,
+          1008
         ],
         [
-          "hongtan",
-          1278,
-          1018
+          "Ray Lao",
+          1386,
+          1040
         ],
         [
-          "NOMA",
-          1178,
-          1024
-        ],
-        [
-          "Орынбасар Әділгерейұлы",
-          1248,
+          "IEEM-AI-2026-115034549",
+          1249,
           1056
         ],
         [
-          "MikeeeLeonardzz",
-          1343,
-          1083
+          "Yan Tao Tang",
+          1464,
+          1062
         ],
         [
-          "Ashish_Johnson2000",
-          1251,
-          1134
+          "Wasim",
+          1461,
+          1159
         ],
         [
-          "Irakoze Ntawigenga Kelly",
-          1345,
-          1158
+          "Kiyotaka",
+          2467,
+          1196
         ],
         [
-          "BlackHandsomeBoy",
-          1777,
-          1174
+          "Yi An",
+          1399,
+          1197
         ],
         [
-          "Fractal Core",
-          1948,
-          1178
+          "Sarid_A",
+          1512,
+          1215
         ],
         [
-          "yurasa",
-          2294,
-          1201
+          "IEEM-AI-2026-115034607",
+          1807,
+          1225
         ]
       ],
       "passed_by": []
