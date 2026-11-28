@@ -1,353 +1,293 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "slug": "santa-2026",
   "name": "Santa 2026 - The Elf Calculator",
-  "total": 3272,
+  "total": 3398,
   "tracked": [
     {
       "team_id": "17417270",
       "name": "flagg111",
-      "rank": 1523,
+      "rank": 1657,
       "score": 130903.0,
-      "prev_rank": 1360,
+      "prev_rank": 1523,
       "prev_score": 130903.0,
-      "rank_change": -163,
+      "rank_change": -134,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Aaron Peterson",
-          2477,
-          128
+          "Severic",
+          1669,
+          217
         ],
         [
-          "ayyaz-azeem",
-          2202,
-          224
+          "Chinna",
+          1820,
+          243
         ],
         [
-          "Ch Chinglemba",
-          2105,
-          250
+          "Meet",
+          3138,
+          262
         ],
         [
-          "Nguyễn Châu Tấn Cường",
-          2335,
-          275
+          "sushilsingh99",
+          2276,
+          270
         ],
         [
-          "Rui Luís",
-          2141,
-          280
+          "likro Green",
+          1854,
+          276
         ],
         [
-          "AbhilashVJ",
-          2725,
-          282
+          "SmithyAlan",
+          1631,
+          277
         ],
         [
-          "成吉思汗",
-          1674,
+          "Sungsu Hyun",
+          1987,
+          293
+        ],
+        [
+          "Daniel Phalen",
+          1718,
+          297
+        ],
+        [
+          "alcanta",
+          1643,
+          300
+        ],
+        [
+          "Anh-Vu Mai-Nguyen",
+          1970,
           306
         ],
         [
-          "Manisa",
-          1368,
-          312
+          "WAQAS Ahmad shah",
+          1873,
+          322
         ],
         [
-          "Neha Das",
-          2408,
-          319
+          "Riyan200324",
+          1620,
+          346
         ],
         [
-          "Md.Mahfujul Karim Sheikh",
-          2627,
-          329
+          "and more",
+          2514,
+          419
         ],
         [
-          "godzilla1234",
-          1453,
-          333
+          "token burner",
+          1765,
+          469
         ],
         [
-          "wuzhiqiang01",
-          1712,
-          337
+          "Joanna Ni",
+          1846,
+          491
         ],
         [
-          "Hillside Collective",
-          2317,
-          365
+          "Hans Simmons",
+          2484,
+          497
         ],
         [
-          "Mystique　Kobayashi",
-          1433,
-          374
+          "Andrea Giummarra",
+          3118,
+          499
         ],
         [
-          "tanutarou",
-          1764,
-          390
+          "databreaker",
+          2355,
+          505
         ],
         [
-          "Ryan Hsu",
-          1739,
-          395
+          "Markus",
+          2426,
+          540
         ],
         [
-          "yu_kuo14",
-          3110,
-          396
+          "nazcet",
+          1616,
+          541
         ],
         [
-          "BlankoCP",
-          2010,
-          397
+          "Charles Wade",
+          1871,
+          562
         ],
         [
-          "Domin Kim",
-          2619,
-          405
+          "Javier Pupiales",
+          2324,
+          570
         ],
         [
-          "Saifuddin",
-          1431,
-          411
+          "Axel Bouchaud-Roche",
+          1645,
+          571
         ],
         [
-          "Lê Anh Duy",
-          2215,
-          415
+          "Mizero Lucky Gall",
+          1634,
+          572
         ],
         [
-          "Rishabh Bafna",
-          1389,
-          432
+          "Valerii Tsaranov",
+          1545,
+          580
         ],
         [
-          "klog",
-          1527,
-          433
+          "brownrv",
+          1595,
+          607
         ],
         [
-          "Juan Severiano",
-          1587,
-          461
+          "Bharath",
+          2682,
+          620
         ],
         [
-          "xiangxiang",
-          1457,
-          471
+          "JyPii_314",
+          1528,
+          636
         ],
         [
-          "SHAME666",
-          1564,
-          477
+          "dsinghvi",
+          2602,
+          652
         ],
         [
-          "Rick",
-          1785,
-          501
+          "wenyuan Guo",
+          2212,
+          653
         ],
         [
-          "stend",
-          1498,
-          538
+          "­원민석",
+          2614,
+          654
         ],
         [
-          "Dariush Afshar",
-          2781,
-          553
+          "avocadon868",
+          2698,
+          665
         ],
         [
-          "MUHAMMED IDRIS BIN YACOOB",
-          1608,
-          577
+          "TuShark",
+          2774,
+          677
         ],
         [
-          "ahmed Maalej",
-          1477,
-          582
+          "Mohammad Yaser Hussain",
+          2866,
+          684
         ],
         [
-          "那个男人",
-          1865,
-          584
-        ],
-        [
-          "xinsu9898",
-          1364,
-          596
-        ],
-        [
-          "Amjath S",
-          1409,
-          614
-        ],
-        [
-          "Debmalya",
-          1911,
-          640
-        ],
-        [
-          "Hrushikesh Pawar",
-          1374,
-          651
-        ],
-        [
-          "Lawrence",
-          1485,
-          667
-        ],
-        [
-          "Xfeng Zhang",
-          2855,
-          675
-        ],
-        [
-          "Miracleyangyh",
-          1964,
-          678
-        ],
-        [
-          "Arkadeep Dutta",
-          2188,
-          690
-        ],
-        [
-          "Dr. Mikholae Hutchinson",
-          2405,
-          694
-        ],
-        [
-          "Vivan rv",
-          1979,
+          "JK",
+          2229,
           696
         ],
         [
-          "totem",
-          2014,
-          698
+          "Dineesh22",
+          2801,
+          766
         ],
         [
-          "TAUIL Abd Elilah",
-          1731,
-          705
+          "Vitali Hisko",
+          1990,
+          767
         ],
         [
-          "FelipeWar",
-          1393,
-          706
+          "Jaime Jarauta Gastelu",
+          2094,
+          774
         ],
         [
-          "Joseph Kerlin",
-          1594,
-          725
+          "Chong Xuan Ng",
+          1928,
+          782
         ],
         [
-          "Yury",
-          2712,
-          742
+          "Baidalin Adilzhan [dsmlkz]",
+          1686,
+          790
         ],
         [
-          "defa wang",
-          2590,
-          762
+          "suitti@14",
+          2365,
+          805
         ],
         [
-          "Luke Stafford",
-          2349,
-          784
+          "nmdcddwzml",
+          2135,
+          815
         ],
         [
-          "Priyanshu RAJ",
-          1440,
-          785
-        ],
-        [
-          "Roshan Roy",
-          2466,
-          786
-        ],
-        [
-          "MonyZLiang",
-          3018,
-          793
-        ],
-        [
-          "eqiverse",
-          1370,
-          795
-        ],
-        [
-          "LatentExplorer",
-          1727,
-          798
-        ],
-        [
-          "THE BOYS",
-          3016,
-          800
-        ],
-        [
-          "sallygaolinzhi",
-          2072,
-          802
-        ],
-        [
-          "Saint Lucian",
-          1572,
-          817
-        ],
-        [
-          "Syeda Hina",
+          "SDPSun",
           2511,
-          819
+          818
         ],
         [
-          "lbj",
-          2000,
-          826
+          "cava",
+          2352,
+          821
         ],
         [
-          "daoviet",
-          1417,
-          834
+          "monya1",
+          1553,
+          822
         ],
         [
-          "SUBHASH B",
-          2052,
-          837
+          "Saeed Alqarni",
+          2541,
+          830
         ],
         [
-          "lt king (faraway places)",
-          2825,
-          933
+          "AkiraOnojp",
+          1981,
+          833
         ],
         [
-          "Oluwadamilare Isaac Oyediran",
-          1917,
-          943
+          "俺是耕田的",
+          3128,
+          844
         ],
         [
-          "Thanusan Sutharsan",
-          1592,
-          1103
+          "aixiaolin.kaggle",
+          2579,
+          881
         ],
         [
-          "Steven Hawking's Ski Boots",
-          1361,
-          1105
+          "Speedy Gonzales",
+          1596,
+          916
         ],
         [
-          "Thipparam Deepak",
-          2207,
-          1220
+          "ChaYiTian",
+          3056,
+          927
         ],
         [
-          "kawasy",
-          1870,
-          1434
+          "elmafia",
+          2406,
+          1273
+        ],
+        [
+          "Peter Lam",
+          2870,
+          1274
+        ],
+        [
+          "朝闻道",
+          1543,
+          1569
+        ],
+        [
+          "Calera Labs",
+          1530,
+          1570
         ]
       ],
       "passed_by": []

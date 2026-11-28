@@ -1,103 +1,63 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "slug": "google-verifiable-quantum-circuit-compilation",
   "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
-  "total": 3792,
+  "total": 3843,
   "tracked": [
     {
       "team_id": "17251324",
       "name": "flagg111",
-      "rank": 2597,
+      "rank": 2635,
       "score": 23.9468,
-      "prev_rank": 2545,
+      "prev_rank": 2597,
       "prev_score": 23.9468,
-      "rank_change": -52,
+      "rank_change": -38,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "Jalen ShiAo",
-          2838,
-          102
+          "QuantiSpect",
+          3742,
+          16
         ],
         [
-          "Dariush Afshar",
-          3175,
-          104
+          "AxiomWWW",
+          3495,
+          342
         ],
         [
-          "Pavel Sulimov",
-          2718,
-          160
+          "Gregory Hong",
+          2622,
+          379
         ],
         [
-          "Satoshi Koda",
-          2947,
-          260
+          "hongli153426",
+          2874,
+          383
         ],
         [
-          "Richardson Allan Ferreira de Souza ",
-          3734,
-          381
+          "Pascal",
+          2685,
+          446
         ],
         [
-          "z111666",
-          2926,
-          382
+          "ha mi liyi",
+          3261,
+          455
         ],
         [
-          "Wahtmelon",
-          2650,
-          490
-        ],
-        [
-          "Cormac",
-          2800,
-          517
-        ],
-        [
-          "Aevion-Labs",
-          3539,
-          694
-        ],
-        [
-          "Raagav Anand",
-          3651,
-          1045
-        ],
-        [
-          "mishinatchi",
-          3570,
-          1046
-        ],
-        [
-          "Syed Shahid",
-          3431,
-          1054
-        ],
-        [
-          "Pawit Sahare",
-          3409,
-          1259
-        ],
-        [
-          "Tengfei Liu",
-          3735,
-          1305
-        ],
-        [
-          "Muhanned_K12",
-          3440,
-          1408
-        ],
-        [
-          "seconds0",
-          3000,
-          1990
-        ],
-        [
-          "Silent Jackal",
+          "nicdeluc",
           3219,
-          2002
+          488
+        ],
+        [
+          "Md.Mahfujul Karim Sheikh",
+          3686,
+          512
+        ],
+        [
+          "Santhana",
+          2724,
+          2459
         ]
       ],
       "passed_by": []

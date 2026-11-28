@@ -1,118 +1,148 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "slug": "playground-series-s6e11",
   "name": "Predicting Credit Card Fraud",
-  "total": 3291,
+  "total": 3400,
   "tracked": [
     {
       "team_id": "17356970",
       "name": "flagg111",
-      "rank": 1250,
+      "rank": 1298,
       "score": 0.95114,
-      "prev_rank": 1202,
+      "prev_rank": 1250,
       "prev_score": 0.95114,
       "rank_change": -48,
       "score_delta": 0.0,
       "passed_me": [
         [
-          "hihihaha2kk",
-          1924,
-          64
+          "Petro Zverkov",
+          1892,
+          62
         ],
         [
-          "ThaoNhi0302",
-          1700,
-          67
+          "TripStat",
+          1570,
+          68
         ],
         [
-          "Md.Mahfujul Karim Sheikh",
-          1754,
-          87
+          "Zehao Li",
+          1443,
+          100
         ],
         [
-          "Taylor S. Amarel",
-          1365,
-          104
+          "Sargis Khachatryan",
+          1344,
+          110
         ],
         [
-          "ts",
-          1392,
-          624
+          "Code by Nadiia",
+          1278,
+          133
         ],
         [
-          "IEEM-AI-2026-114034562",
-          1462,
-          663
+          "turtle",
+          2021,
+          138
         ],
         [
-          "Francisco Angulo de Lafuente",
-          2763,
-          664
+          "Duy Nguyễn Tấn",
+          2016,
+          152
         ],
         [
-          "Gert2021",
-          1265,
-          678
+          "mati",
+          2540,
+          156
         ],
         [
-          "IEEM-AI-2026-115034555",
-          1444,
-          873
+          "MKAPPP",
+          2293,
+          202
         ],
         [
-          "Muhammad Muaz",
-          1525,
-          887
+          "babycity",
+          2082,
+          424
         ],
         [
-          "KNAI_Pawel_K",
-          1439,
-          948
+          "Leonard Speiser",
+          1306,
+          639
         ],
         [
-          "IEEM-AI-2026-114071605",
-          1488,
-          1008
+          "imSkyWong",
+          1633,
+          693
         ],
         [
-          "Ray Lao",
-          1386,
-          1040
+          "Mouad Leachouri",
+          1589,
+          784
         ],
         [
-          "IEEM-AI-2026-115034549",
-          1249,
-          1056
+          "Adib Mahmud",
+          1346,
+          825
         ],
         [
-          "Yan Tao Tang",
-          1464,
-          1062
+          "Ayman ",
+          1285,
+          827
         ],
         [
-          "Wasim",
-          1461,
-          1159
+          "Casetted",
+          1528,
+          841
         ],
         [
-          "Kiyotaka",
-          2467,
-          1196
+          "MengLi",
+          2236,
+          846
         ],
         [
-          "Yi An",
-          1399,
-          1197
+          "Kuba Kościan",
+          2356,
+          1068
         ],
         [
-          "Sarid_A",
-          1512,
-          1215
+          "wsthtk",
+          1681,
+          1081
         ],
         [
-          "IEEM-AI-2026-115034607",
-          1807,
-          1225
+          "Alina",
+          1487,
+          1126
+        ],
+        [
+          "IEEM-AI-2026-115034521",
+          1582,
+          1129
+        ],
+        [
+          "Giorgio Caruso",
+          1403,
+          1224
+        ],
+        [
+          "IEEM-AI-2026-115034516",
+          1459,
+          1257
+        ],
+        [
+          "David C. Langat",
+          1309,
+          1281
+        ],
+        [
+          "ROHAN Exploit",
+          1274,
+          1289
+        ],
+        [
+          "Phạm Văn Duy",
+          1989,
+          1293
         ]
       ],
       "passed_by": []

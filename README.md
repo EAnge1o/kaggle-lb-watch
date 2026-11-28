@@ -5,17 +5,17 @@
 
 | 比赛 | 我的名次 | 较上次 | 分数 | 更新 |
 |---|---|---|---|---|
-| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #114 / 679 | ↓1 | 0.84155 | 11-27 |
-| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #136 / 1358 | — | 0.99628 | 11-27 |
-| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #497 / 6901 | ↓3 | 0.20000 | 11-27 |
-| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #824 / 6085 | ↓100 | 0.50900 | 11-27 |
-| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #880 / 4733 | ↓9 | 0.12120 | 11-27 |
-| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | #1250 / 3291 | ↓48 | 0.95114 | 11-27 |
-| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #1442 / 7209 | ↓114 | 0.70900 | 11-27 |
-| [Santa 2026 - The Elf Calculator](https://www.kaggle.com/competitions/santa-2026/leaderboard) | #1523 / 3272 | ↓163 | 130903.00000 | 11-27 |
-| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #2597 / 3792 | ↓52 | 23.94680 | 11-27 |
-| [Smart Buildings Competition](https://www.kaggle.com/competitions/neurips-2026-smart-buildings/leaderboard) | — | — | — | 11-27 |
-| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-27 |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard) | #114 / 681 | — | 0.84155 | 11-28 |
+| [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard) | #139 / 1363 | ↓3 | 0.99628 | 11-28 |
+| [Name That LLM](https://www.kaggle.com/competitions/name-that-llm/leaderboard) | #316 / 7294 | ↑1126 | 0.72900 | 11-28 |
+| [Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent/leaderboard) | #500 / 7002 | ↓3 | 0.20000 | 11-28 |
+| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) | #881 / 4708 | ↓1 | 0.12120 | 11-28 |
+| [Enveda CASMI26](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra/leaderboard) | #945 / 6163 | ↓121 | 0.50900 | 11-28 |
+| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | #1298 / 3400 | ↓48 | 0.95114 | 11-28 |
+| [Santa 2026 - The Elf Calculator](https://www.kaggle.com/competitions/santa-2026/leaderboard) | #1657 / 3398 | ↓134 | 130903.00000 | 11-28 |
+| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | #2635 / 3843 | ↓38 | 23.94680 | 11-28 |
+| [Smart Buildings Competition](https://www.kaggle.com/competitions/neurips-2026-smart-buildings/leaderboard) | — | — | — | 11-28 |
+| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) | — | — | — | 11-28 |
 
 <details>
 <summary>🖼 全部排名卡片（9 张）</summary>

@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "slug": "digit-recognizer",
   "name": "Digit Recognizer",
-  "total": 1358,
+  "total": 1363,
   "tracked": [
     {
       "team_id": "17227672",
       "name": "flagg111",
-      "rank": 136,
+      "rank": 139,
       "score": 0.99628,
       "prev_rank": 136,
       "prev_score": 0.99628,
-      "rank_change": 0,
+      "rank_change": -3,
       "score_delta": 0.0,
-      "passed_me": [],
-      "passed_by": [
+      "passed_me": [
         [
           "gne931",
-          48,
-          175
+          175,
+          37
         ]
-      ]
+      ],
+      "passed_by": []
     }
   ],
   "top1_changed": null
